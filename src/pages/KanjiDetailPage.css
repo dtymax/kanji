@@ -1,0 +1,215 @@
+/* 漢字詳細ページ */
+.kanji-detail-page {
+    padding-bottom: var(--space-3xl);
+}
+
+.detail-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-2xl);
+    align-items: start;
+}
+
+/* 書き順ビューア */
+.detail-writer-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: var(--space-md);
+}
+
+.writer-container {
+    position: relative;
+    background: var(--color-card);
+    border: 3px solid var(--grade-color, var(--border-color));
+    border-radius: var(--border-radius-xl);
+    padding: var(--space-lg);
+    box-shadow: var(--shadow-md);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.writer-canvas {
+    width: 100%;
+    max-width: 280px;
+    aspect-ratio: 1 / 1;
+    height: auto;
+}
+
+.writer-canvas svg {
+    width: 100%;
+    height: 100%;
+}
+
+.quiz-result {
+    position: absolute;
+    bottom: -16px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--color-accent);
+    color: white;
+    padding: var(--space-xs) var(--space-lg);
+    border-radius: var(--border-radius-full);
+    font-weight: var(--font-weight-bold);
+    font-size: var(--font-size-sm);
+    white-space: nowrap;
+    box-shadow: var(--shadow-md);
+}
+
+.writer-controls {
+    display: flex;
+    gap: var(--space-sm);
+}
+
+.writer-hint {
+    font-size: var(--font-size-sm);
+    color: var(--color-text-secondary);
+    animation: pulse 2s ease-in-out infinite;
+}
+
+/* 詳細情報 */
+.info-header {
+    display: flex;
+    align-items: center;
+    gap: var(--space-lg);
+    margin-bottom: var(--space-lg);
+}
+
+.info-character {
+    font-size: 5rem;
+    font-weight: var(--font-weight-black);
+    line-height: 1;
+}
+
+.info-meta {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xs);
+    align-items: flex-start;
+}
+
+.info-strokes {
+    font-size: var(--font-size-sm);
+    color: var(--color-text-secondary);
+}
+
+.info-status {
+    display: flex;
+    gap: var(--space-xs);
+    font-size: var(--font-size-sm);
+}
+
+.info-card {
+    background: var(--color-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius-md);
+    padding: var(--space-md);
+    margin-bottom: var(--space-md);
+}
+
+.info-card-title {
+    font-size: var(--font-size-md);
+    font-weight: var(--font-weight-bold);
+    margin-bottom: var(--space-sm);
+    color: var(--color-text);
+}
+
+.reading-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+}
+
+.reading-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+}
+
+.reading-label {
+    font-size: var(--font-size-xs);
+    font-weight: var(--font-weight-bold);
+    color: var(--color-text-muted);
+    background: var(--color-bg-secondary);
+    padding: 2px 8px;
+    border-radius: var(--border-radius-sm);
+    white-space: nowrap;
+}
+
+.reading-value {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-medium);
+}
+
+.radical-display {
+    display: flex;
+    align-items: center;
+    gap: var(--space-md);
+}
+
+.radical-char {
+    font-size: var(--font-size-2xl);
+    font-weight: var(--font-weight-bold);
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--color-bg-secondary);
+    border-radius: var(--border-radius-md);
+}
+
+.radical-reading {
+    font-size: var(--font-size-md);
+    color: var(--color-text-secondary);
+}
+
+.examples-list {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-sm);
+}
+
+.example-row {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-sm);
+    padding: var(--space-xs) 0;
+    border-bottom: 1px solid var(--color-bg-secondary);
+}
+
+.example-row:last-child {
+    border-bottom: none;
+}
+
+.example-word {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-bold);
+}
+
+.example-reading {
+    font-size: var(--font-size-sm);
+    color: var(--color-text-secondary);
+}
+
+.example-meaning {
+    font-size: var(--font-size-sm);
+    color: var(--color-text-muted);
+    margin-left: auto;
+}
+
+@media (max-width: 768px) {
+    .detail-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .writer-canvas {
+        width: 240px;
+        height: 240px;
+    }
+
+    .info-character {
+        font-size: 3.5rem;
+    }
+}

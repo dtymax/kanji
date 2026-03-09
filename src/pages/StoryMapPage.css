@@ -1,0 +1,244 @@
+.story-page {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: env(safe-area-inset-bottom);
+}
+
+.story-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-md) var(--space-lg);
+    background: var(--color-card);
+    box-shadow: var(--shadow-sm);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.story-title h2 {
+    font-size: var(--font-size-xl);
+    font-weight: var(--font-weight-black);
+    color: var(--color-primary);
+    margin: 0;
+}
+
+.header-spacer {
+    width: 60px;
+    /* Spacer to balance the back button */
+}
+
+.area-tabs-container {
+    padding: var(--space-md);
+    background: var(--color-bg-secondary);
+    border-bottom: 1px solid var(--border-color);
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.area-tabs {
+    display: flex;
+    gap: var(--space-sm);
+    min-width: max-content;
+}
+
+.area-tab {
+    padding: var(--space-sm) var(--space-md);
+    border-radius: var(--border-radius-full);
+    border: 2px solid var(--border-color);
+    background: var(--color-bg);
+    color: var(--color-text-secondary);
+    font-weight: var(--font-weight-bold);
+    white-space: nowrap;
+    transition: all var(--transition-fast);
+}
+
+.area-tab:hover:not(:disabled) {
+    border-color: var(--color-primary);
+    transform: translateY(-2px);
+}
+
+.area-tab.active {
+    background: var(--color-primary);
+    color: white;
+    border-color: var(--color-primary);
+    box-shadow: 0 4px 10px var(--color-primary-glow);
+}
+
+.area-tab.locked {
+    opacity: 0.5;
+    background: var(--color-bg-tertiary);
+    cursor: not-allowed;
+}
+
+.story-map-container {
+    flex: 1;
+    position: relative;
+    overflow: hidden;
+    margin: var(--space-md);
+    border-radius: var(--border-radius-xl);
+    box-shadow: var(--shadow-lg);
+    background-color: #87CEEB;
+    /* フォールバック背景（空色など） */
+}
+
+.story-map-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* 背景を少し暗く・ぼかす（見やすくするため） */
+.story-map-bg::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.4);
+    backdrop-filter: blur(2px);
+}
+
+.story-map-paths {
+    position: absolute;
+    top: 0;
+    left: 0;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.map-path {
+    stroke: rgba(0, 0, 0, 0.2);
+    stroke-width: 4px;
+    stroke-dasharray: 8 8;
+    transition: stroke var(--transition-normal);
+}
+
+.map-path.cleared {
+    stroke: var(--color-primary);
+    /* クリア済みは線を光らせるなど */
+    stroke-dasharray: none;
+    stroke-width: 6px;
+}
+
+.map-node {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    /* 中央揃え */
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: white;
+    border: 3px solid var(--color-text-muted);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    cursor: pointer;
+    box-shadow: var(--shadow-md);
+    transition: all var(--transition-normal);
+    z-index: 2;
+    padding: 0;
+}
+
+.map-node.midboss {
+    width: 70px;
+    height: 70px;
+    font-size: 2rem;
+    border-color: var(--color-warning);
+}
+
+.map-node.boss {
+    width: 80px;
+    height: 80px;
+    font-size: 2.5rem;
+    border-color: var(--color-error);
+}
+
+.map-node.cleared {
+    border-color: var(--color-success);
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.map-node.active-target {
+    border-color: var(--color-primary);
+    box-shadow: 0 0 15px var(--color-primary-glow);
+    animation: bounce 2s infinite ease-in-out;
+}
+
+.map-node.locked {
+    opacity: 0.6;
+    background: var(--color-bg-secondary);
+    cursor: not-allowed;
+    filter: grayscale(100%);
+}
+
+.map-node:hover:not(.locked) {
+    transform: translate(-50%, -50%) scale(1.1);
+    z-index: 3;
+}
+
+.node-icon {
+    line-height: 1;
+}
+
+/* ツールチップ（敵の名前・HP表示） */
+.node-tooltip {
+    position: absolute;
+    top: -45px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: var(--font-size-xs);
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity var(--transition-fast) ease-in-out;
+    text-align: center;
+}
+
+.map-node:hover .node-tooltip {
+    opacity: 1;
+}
+
+@keyframes bounce {
+
+    0%,
+    100% {
+        transform: translate(-50%, -50%);
+    }
+
+    50% {
+        transform: translate(-50%, -60%);
+    }
+}
+
+@media (max-width: 640px) {
+    .map-node {
+        width: 45px;
+        height: 45px;
+        font-size: 1.2rem;
+    }
+
+    .map-node.midboss {
+        width: 55px;
+        height: 55px;
+        font-size: 1.5rem;
+    }
+
+    .map-node.boss {
+        width: 65px;
+        height: 65px;
+        font-size: 2rem;
+    }
+}

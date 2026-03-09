@@ -1,0 +1,132 @@
+/* ============================
+   カンジマスター デザインシステム
+   ============================ */
+
+:root {
+  /* Primary Colors */
+  --color-primary: #6C63FF;
+  --color-primary-light: #8B83FF;
+  --color-primary-dark: #5147E5;
+  --color-primary-glow: rgba(108, 99, 255, 0.3);
+
+  /* Secondary Colors */
+  --color-secondary: #FF6584;
+  --color-secondary-light: #FF8DA1;
+  --color-secondary-dark: #E54B6A;
+
+  /* Accent Colors */
+  --color-accent: #43E97B;
+  --color-accent-light: #56F08C;
+  --color-accent-dark: #2DC462;
+
+  /* Warning / Info */
+  --color-warning: #FFB347;
+  --color-info: #47B8FF;
+  --color-error: #FF4757;
+  --color-success: #2ED573;
+
+  /* Background */
+  --color-bg: #F8F9FE;
+  --color-bg-secondary: #EEF0FA;
+  --color-card: #FFFFFF;
+  --color-card-hover: #F2F1FF;
+
+  /* Text */
+  --color-text: #2D2B55;
+  --color-text-secondary: #6E6B9E;
+  --color-text-muted: #A5A3C7;
+  --color-text-inverse: #FFFFFF;
+
+  /* Grade Colors */
+  --grade-1: #FF6B6B;
+  --grade-2: #FF9F43;
+  --grade-3: #FECA57;
+  --grade-4: #48DBFB;
+  --grade-5: #5F7ADB;
+  --grade-6: #A855F7;
+
+  /* Borders & Shadows */
+  --border-color: #E4E3F5;
+  --border-radius-sm: 8px;
+  --border-radius-md: 16px;
+  --border-radius-lg: 24px;
+  --border-radius-xl: 32px;
+  --border-radius-full: 9999px;
+
+  --shadow-sm: 0 2px 8px rgba(45, 43, 85, 0.06);
+  --shadow-md: 0 4px 16px rgba(45, 43, 85, 0.08);
+  --shadow-lg: 0 8px 32px rgba(45, 43, 85, 0.12);
+  --shadow-xl: 0 16px 48px rgba(45, 43, 85, 0.16);
+  --shadow-glow: 0 0 20px var(--color-primary-glow);
+
+  /* Glass Effect */
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.5);
+  --glass-blur: 12px;
+
+  /* Typography */
+  --font-family: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 1.5rem;
+  --font-size-2xl: 2rem;
+  --font-size-3xl: 2.5rem;
+  --font-size-4xl: 3.5rem;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+  --font-weight-black: 900;
+
+  /* Spacing */
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+  --space-3xl: 64px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+  --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-bounce: 500ms cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  /* Z-index */
+  --z-dropdown: 100;
+  --z-modal: 200;
+  --z-toast: 300;
+}
+
+/* ============================
+   ダークモード
+   ============================ */
+[data-theme="dark"] {
+  --color-primary: #8B83FF;
+  --color-primary-light: #A49DFF;
+  --color-primary-dark: #6C63FF;
+  --color-primary-glow: rgba(139, 131, 255, 0.4);
+
+  --color-secondary: #FF8DA1;
+  --color-secondary-light: #FFAAB9;
+
+  --color-bg: #1A1B2E;
+  --color-bg-secondary: #222340;
+  --color-card: #252642;
+  --color-card-hover: #2E2F52;
+
+  --color-text: #E4E3F5;
+  --color-text-secondary: #A5A3C7;
+  --color-text-muted: #6E6B9E;
+
+  --border-color: #3A3B5C;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.5);
+
+  --glass-bg: rgba(37, 38, 66, 0.7);
+  --glass-border: rgba(58, 59, 92, 0.5);
+}
