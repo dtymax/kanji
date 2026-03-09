@@ -2041,17 +2041,6 @@
     "targetKanji": "領"
   },
   {
-    "id": "g5a345",
-    "type": "writing",
-    "grade": 5,
-    "difficulty": 2,
-    "question": "「れきし」の漢字を書きましょう（ヒント：◯史）",
-    "answer": "歴",
-    "hint": "「れきし」という意味、14画",
-    "category": "漢字の書き取り",
-    "targetKanji": "歴"
-  },
-  {
     "id": "g5a17729904202030",
     "type": "writing",
     "grade": 5,
@@ -10105,40 +10094,6 @@
     "targetKanji": "領"
   },
   {
-    "id": "g5r1773011288909",
-    "type": "reading",
-    "grade": 5,
-    "difficulty": 3,
-    "question": "「歴」の読み方は？",
-    "answer": "レキ",
-    "choices": [
-      "こころざす",
-      "つとめる",
-      "レキ",
-      "こころよい"
-    ],
-    "hint": "歴史（れきし）の「歴」。れきし",
-    "category": "漢字の読み",
-    "targetKanji": "歴"
-  },
-  {
-    "id": "g5rd1773011288910",
-    "type": "radical",
-    "grade": 5,
-    "difficulty": 3,
-    "question": "「歴」の部首は？",
-    "answer": "とめる（止）",
-    "choices": [
-      "げん（玄）",
-      "ゆうべ（夕）",
-      "とめる（止）",
-      "ぎょう（行）"
-    ],
-    "hint": "「歴」は「れきし」に関する漢字",
-    "category": "部首",
-    "targetKanji": "歴"
-  },
-  {
     "id": "g5st1773011716518",
     "type": "sentence",
     "grade": 5,
@@ -12108,17 +12063,6 @@
     "targetKanji": "領"
   },
   {
-    "id": "g5st1773011716697",
-    "type": "sentence",
-    "grade": 5,
-    "difficulty": 3,
-    "question": "「れきし」→「___史」に入る漢字を書きましょう",
-    "answer": "歴",
-    "hint": "読み方は「れきし」。歴史（れきし）の「歴」。れきし",
-    "category": "文章の穴埋め",
-    "targetKanji": "歴"
-  },
-  {
     "id": "g5an1773012418280",
     "type": "antonym",
     "grade": 5,
@@ -13375,22 +13319,5 @@
     "hint": "「留」は留る（とまる）の「留」。とまること。答えは過去（かこ）の「去」。はなれること",
     "category": "対義語",
     "targetKanji": "留"
-  },
-  {
-    "id": "g5an1773012418354",
-    "type": "antonym",
-    "grade": 5,
-    "difficulty": 3,
-    "question": "「歴」の反対の意味の漢字は？",
-    "answer": "未",
-    "choices": [
-      "着",
-      "同",
-      "道",
-      "未"
-    ],
-    "hint": "「歴」は歴史（れきし）の「歴」。れきし。答えは未明（みめい）の「未」",
-    "category": "対義語",
-    "targetKanji": "歴"
   }
 ]

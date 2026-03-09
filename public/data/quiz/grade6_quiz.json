@@ -1370,17 +1370,6 @@
     "targetKanji": "尊"
   },
   {
-    "id": "g6a223",
-    "type": "writing",
-    "grade": 6,
-    "difficulty": 2,
-    "question": "「そうたい」の漢字を書きましょう（ヒント：早◯）",
-    "answer": "退",
-    "hint": "退職（たいしょく）の「退」、9画",
-    "category": "漢字の書き取り",
-    "targetKanji": "退"
-  },
-  {
     "id": "g6a225",
     "type": "writing",
     "grade": 6,
@@ -7045,57 +7034,6 @@
     "targetKanji": "尊"
   },
   {
-    "id": "g6r1773011288777",
-    "type": "reading",
-    "grade": 6,
-    "difficulty": 3,
-    "question": "「退」の読み方は？",
-    "answer": "しりぞく",
-    "choices": [
-      "テイ",
-      "したがえる",
-      "ふり",
-      "しりぞく"
-    ],
-    "hint": "退職（たいしょく）の「退」",
-    "category": "漢字の読み",
-    "targetKanji": "退"
-  },
-  {
-    "id": "g6ok1773011288778",
-    "type": "okurigana",
-    "grade": 6,
-    "difficulty": 3,
-    "question": "「退___」正しい送り仮名はどれ？",
-    "answer": "く",
-    "choices": [
-      "った",
-      "く",
-      "ぬ",
-      "つ"
-    ],
-    "hint": "「しりぞく」と読みます。退職（たいしょく）の「退」",
-    "category": "送り仮名",
-    "targetKanji": "退"
-  },
-  {
-    "id": "g6rd1773011288779",
-    "type": "radical",
-    "grade": 6,
-    "difficulty": 3,
-    "question": "「退」の部首は？",
-    "answer": "辶（辶）",
-    "choices": [
-      "辶（辶）",
-      "にんべん（亻）",
-      "れんが（灬）",
-      "あな（穴）"
-    ],
-    "hint": "「退」は「しりぞく」という意味",
-    "category": "部首",
-    "targetKanji": "退"
-  },
-  {
     "id": "g6r1773011288780",
     "type": "reading",
     "grade": 6,
@@ -11048,17 +10986,6 @@
     "targetKanji": "尊"
   },
   {
-    "id": "g6st1773011789397",
-    "type": "sentence",
-    "grade": 6,
-    "difficulty": 3,
-    "question": "「そうたい」→「早___」に入る漢字を書きましょう",
-    "answer": "退",
-    "hint": "読み方は「そうたい」。退職（たいしょく）の「退」",
-    "category": "文章の穴埋め",
-    "targetKanji": "退"
-  },
-  {
     "id": "g6st1773011789398",
     "type": "sentence",
     "grade": 6,
@@ -12950,23 +12877,6 @@
     "hint": "「存」は存在（そんざい）の「存」。しんじること。答えは死亡（しぼう）の「亡」。し",
     "category": "対義語",
     "targetKanji": "存"
-  },
-  {
-    "id": "g6an1773012418391",
-    "type": "antonym",
-    "grade": 6,
-    "difficulty": 3,
-    "question": "「退」の反対の意味の漢字は？",
-    "answer": "進",
-    "choices": [
-      "部",
-      "進",
-      "難",
-      "来"
-    ],
-    "hint": "「退」は退職（たいしょく）の「退」。答えは推進（すいしん）の「進」。すすむこと",
-    "category": "対義語",
-    "targetKanji": "退"
   },
   {
     "id": "g6an1773012418392",

@@ -4550,53 +4550,6 @@
     "kankenLevel": "5級"
   },
   {
-    "character": "退",
-    "grade": 6,
-    "strokes": 9,
-    "radical": "辶",
-    "radicalReading": "",
-    "readings": {
-      "onyomi": [
-        "タイ"
-      ],
-      "kunyomi": [
-        "しりぞ.く",
-        "しりぞ.ける",
-        "ど.く",
-        "の.く",
-        "の.ける",
-        "ひ.く"
-      ]
-    },
-    "meanings": [
-      "expel",
-      "reject",
-      "repel",
-      "resign",
-      "retire",
-      "retreat",
-      "withdraw"
-    ],
-    "examples": [
-      {
-        "word": "退職",
-        "reading": "たいしょく",
-        "meaning": "退職"
-      },
-      {
-        "word": "引退",
-        "reading": "いんたい",
-        "meaning": "引退"
-      },
-      {
-        "word": "脱退",
-        "reading": "だったい",
-        "meaning": "脱退"
-      }
-    ],
-    "kankenLevel": "5級"
-  },
-  {
     "character": "宅",
     "grade": 6,
     "strokes": 6,

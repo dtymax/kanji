@@ -7242,42 +7242,5 @@
       }
     ],
     "kankenLevel": "6級"
-  },
-  {
-    "character": "歴",
-    "grade": 5,
-    "strokes": 14,
-    "radical": "止",
-    "radicalReading": "",
-    "readings": {
-      "onyomi": [
-        "レキ",
-        "レッキ"
-      ],
-      "kunyomi": []
-    },
-    "meanings": [
-      "continuation",
-      "curriculum",
-      "passage of time"
-    ],
-    "examples": [
-      {
-        "word": "歴史",
-        "reading": "れきし",
-        "meaning": "歴史"
-      },
-      {
-        "word": "学歴",
-        "reading": "がくれき",
-        "meaning": "学歴"
-      },
-      {
-        "word": "経歴",
-        "reading": "けいれき",
-        "meaning": "経歴"
-      }
-    ],
-    "kankenLevel": "6級"
   }
 ]
