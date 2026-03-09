@@ -33,7 +33,7 @@ export default function DashboardPage({ onBack, onSelectKanji }: DashboardPagePr
         const map: Record<string, number> = {};
         Promise.all(
             [1, 2, 3, 4, 5, 6].map(grade =>
-                fetch(`/data/kanji/grade${grade}.json`)
+                fetch(`./data/kanji/grade${grade}.json`)
                     .then(res => res.json())
                     .then((data: KanjiData[]) => {
                         data.forEach(k => { map[k.character] = grade; });

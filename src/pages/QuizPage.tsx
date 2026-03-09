@@ -64,17 +64,17 @@ export default function QuizPage({ grade, gameMode = 'normal', timeConfig, story
                 let allQuestions: QuizQuestion[] = [];
                 if (gameMode === 'weak') {
                     // にがて帳モード: 全学年から取得して、weakKanjiに含まれるものだけ抽出
-                    const promises = [1, 2, 3, 4, 5, 6].map(g => fetch(`/data/quiz/grade${g}_quiz.json`).then(r => r.json()));
+                    const promises = [1, 2, 3, 4, 5, 6].map(g => fetch(`./data/quiz/grade${g}_quiz.json`).then(r => r.json()));
                     const results = await Promise.all(promises);
                     allQuestions = results.flat().filter((q: QuizQuestion) => q.targetKanji && user.progress.weakKanji.includes(q.targetKanji));
                 } else if (gameMode === 'timeattack' && timeConfig?.grades && timeConfig.grades.length > 0) {
                     // タイムアタックモード（複数学年選択時）: 選択された学年からクイズを取得
-                    const promises = timeConfig.grades.map(g => fetch(`/data/quiz/grade${g}_quiz.json`).then(r => r.json()));
+                    const promises = timeConfig.grades.map(g => fetch(`./data/quiz/grade${g}_quiz.json`).then(r => r.json()));
                     const results = await Promise.all(promises);
                     allQuestions = results.flat();
                 } else {
                     // 通常モード・単一学年指定時: 指定学年のクイズ
-                    const res = await fetch(`/data/quiz/grade${grade}_quiz.json`);
+                    const res = await fetch(`./data/quiz/grade${grade}_quiz.json`);
                     allQuestions = await res.json();
                 }
 

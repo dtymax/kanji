@@ -21,7 +21,7 @@ export default function KanjiDetailPage({ character, grade, onBack }: KanjiDetai
 
     // Load kanji data
     useEffect(() => {
-        fetch(`/data/kanji/grade${grade}.json`)
+        fetch(`./data/kanji/grade${grade}.json`)
             .then(res => res.json())
             .then((data: KanjiData[]) => {
                 const found = data.find(k => k.character === character);

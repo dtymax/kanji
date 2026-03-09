@@ -19,7 +19,7 @@ export default function KanjiListPage({ grade, onSelectKanji, onBack, onStartQui
 
     useEffect(() => {
         setLoading(true);
-        fetch(`/data/kanji/grade${grade}.json`)
+        fetch(`./data/kanji/grade${grade}.json`)
             .then(res => res.json())
             .then(data => {
                 setKanjiList(data);

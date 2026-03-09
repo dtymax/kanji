@@ -20,7 +20,7 @@ export default function DictionaryPage({ onSelectKanji, onBack }: DictionaryPage
         // Load all grades
         Promise.all(
             [1, 2, 3, 4, 5, 6].map(g =>
-                fetch(`/data/kanji/grade${g}.json`)
+                fetch(`./data/kanji/grade${g}.json`)
                     .then(r => r.json())
                     .catch(() => [])
             )
