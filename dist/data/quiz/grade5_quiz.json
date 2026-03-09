@@ -1,0 +1,312 @@
+[
+  {
+    "id": "g5r001",
+    "type": "reading",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「貿易」の読み方は？",
+    "answer": "ぼうえき",
+    "choices": [
+      "ぼうえき",
+      "ばいえき",
+      "ぼうやく",
+      "ばいやく"
+    ],
+    "hint": "「貿」は「ボウ」、「易」は「エキ」",
+    "category": "熟語の読み",
+    "targetKanji": "貿"
+  },
+  {
+    "id": "g5r002",
+    "type": "reading",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「演説」の読み方は？",
+    "answer": "えんぜつ",
+    "choices": [
+      "えんぜつ",
+      "えんせつ",
+      "えんとき",
+      "えんかい"
+    ],
+    "hint": "「演」は「エン」、「説」は「ゼツ/セツ」",
+    "category": "熟語の読み",
+    "targetKanji": "演"
+  },
+  {
+    "id": "g5r003",
+    "type": "reading",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「精密」の読み方は？",
+    "answer": "せいみつ",
+    "choices": [
+      "せいみつ",
+      "しょうみつ",
+      "せいひそか",
+      "しょうひそか"
+    ],
+    "hint": "「精」は「セイ」、「密」は「ミツ」",
+    "category": "熟語の読み",
+    "targetKanji": "精"
+  },
+  {
+    "id": "g5r004",
+    "type": "reading",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「規則」の読み方は？",
+    "answer": "きそく",
+    "choices": [
+      "きそく",
+      "きのり",
+      "きさく",
+      "きのっとり"
+    ],
+    "hint": "「規」は「キ」、「則」は「ソク」",
+    "category": "熟語の読み",
+    "targetKanji": "規"
+  },
+  {
+    "id": "g5r005",
+    "type": "reading",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「許可」の読み方は？",
+    "answer": "きょか",
+    "choices": [
+      "きょか",
+      "きょうか",
+      "ゆるか",
+      "ゆるすか"
+    ],
+    "hint": "「許」は「キョ」、「可」は「カ」",
+    "category": "熟語の読み",
+    "targetKanji": "許"
+  },
+  {
+    "id": "g5r006",
+    "type": "reading",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「導入」の読み方は？",
+    "answer": "どうにゅう",
+    "choices": [
+      "どうにゅう",
+      "みちいり",
+      "どういり",
+      "みちにゅう"
+    ],
+    "hint": "「導」は「ドウ」、「入」は「ニュウ」",
+    "category": "熟語の読み",
+    "targetKanji": "導"
+  },
+  {
+    "id": "g5r007",
+    "type": "reading",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「犯罪」の読み方は？",
+    "answer": "はんざい",
+    "choices": [
+      "はんざい",
+      "ぼんつみ",
+      "はんつみ",
+      "ぼんざい"
+    ],
+    "hint": "「犯」は「ハン」、「罪」は「ザイ」",
+    "category": "熟語の読み",
+    "targetKanji": "犯"
+  },
+  {
+    "id": "g5r008",
+    "type": "reading",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「構造」の読み方は？",
+    "answer": "こうぞう",
+    "choices": [
+      "こうぞう",
+      "かまつくり",
+      "こうつくり",
+      "かまぞう"
+    ],
+    "hint": "「構」は「コウ」、「造」は「ゾウ」",
+    "category": "熟語の読み",
+    "targetKanji": "構"
+  },
+  {
+    "id": "g5w001",
+    "type": "writing",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「さくら」を漢字で書きましょう",
+    "answer": "桜",
+    "hint": "きへんがつきます。日本の花",
+    "category": "漢字の書き取り",
+    "targetKanji": "桜"
+  },
+  {
+    "id": "g5w002",
+    "type": "writing",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「つま」（妻）を漢字で書きましょう",
+    "answer": "妻",
+    "hint": "8画の漢字です",
+    "category": "漢字の書き取り",
+    "targetKanji": "妻"
+  },
+  {
+    "id": "g5w003",
+    "type": "writing",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「どう」（銅）を漢字で書きましょう",
+    "answer": "銅",
+    "hint": "かねへんがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "銅"
+  },
+  {
+    "id": "g5o001",
+    "type": "okurigana",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「適___」正しい送り仮名は？",
+    "answer": "する",
+    "choices": [
+      "する",
+      "う",
+      "い",
+      "く"
+    ],
+    "hint": "「てきする」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "適"
+  },
+  {
+    "id": "g5o002",
+    "type": "okurigana",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「営___」正しい送り仮名は？",
+    "answer": "む",
+    "choices": [
+      "む",
+      "い",
+      "う",
+      "く"
+    ],
+    "hint": "「いとなむ」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "営"
+  },
+  {
+    "id": "g5o003",
+    "type": "okurigana",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「混ぜ___」正しい送り仮名は？",
+    "answer": "る",
+    "choices": [
+      "る",
+      "ぜる",
+      "す",
+      "い"
+    ],
+    "hint": "「まぜる」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "混"
+  },
+  {
+    "id": "g5a001",
+    "type": "antonym",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「永久」の反対の言葉は？",
+    "answer": "一時",
+    "choices": [
+      "一時",
+      "短期",
+      "少し",
+      "瞬間"
+    ],
+    "hint": "ずっと続く の反対",
+    "category": "対義語",
+    "targetKanji": "永"
+  },
+  {
+    "id": "g5a002",
+    "type": "antonym",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「増加」の反対の言葉は？",
+    "answer": "減少",
+    "choices": [
+      "減少",
+      "縮小",
+      "消滅",
+      "後退"
+    ],
+    "hint": "増える の反対",
+    "category": "対義語",
+    "targetKanji": "増"
+  },
+  {
+    "id": "g5a003",
+    "type": "antonym",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「複雑」の反対の言葉は？",
+    "answer": "単純",
+    "choices": [
+      "単純",
+      "簡単",
+      "容易",
+      "平凡"
+    ],
+    "hint": "こみいった の反対",
+    "category": "対義語",
+    "targetKanji": "複"
+  },
+  {
+    "id": "g5s001",
+    "type": "sentence",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「自然___境を守る」漢字を書きましょう",
+    "answer": "環",
+    "hint": "まわりのこと",
+    "category": "文章の穴埋め",
+    "targetKanji": "境"
+  },
+  {
+    "id": "g5s002",
+    "type": "sentence",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「国際___流が大切だ」漢字を書きましょう",
+    "answer": "交",
+    "hint": "おたがいにやりとりすること",
+    "category": "文章の穴埋め",
+    "targetKanji": "交"
+  },
+  {
+    "id": "g5rad001",
+    "type": "radical",
+    "grade": 5,
+    "difficulty": 3,
+    "question": "「桜」の部首は？",
+    "answer": "きへん（木）",
+    "choices": [
+      "きへん（木）",
+      "くさかんむり（艹）",
+      "さんずい（氵）",
+      "にんべん（亻）"
+    ],
+    "hint": "木に関係する部首",
+    "category": "部首",
+    "targetKanji": "桜"
+  }
+]

@@ -1,0 +1,503 @@
+[
+  {
+    "id": "g3r001",
+    "type": "reading",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「温度」の読み方は？",
+    "answer": "おんど",
+    "choices": [
+      "おんど",
+      "あつど",
+      "おんたく",
+      "あたたかど"
+    ],
+    "hint": "「温」は「オン」",
+    "category": "熟語の読み",
+    "targetKanji": "温"
+  },
+  {
+    "id": "g3r002",
+    "type": "reading",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「研究」の読み方は？",
+    "answer": "けんきゅう",
+    "choices": [
+      "けんきゅう",
+      "とぎきゅう",
+      "けんぐう",
+      "とぎぐう"
+    ],
+    "hint": "「研」は「ケン」、「究」は「キュウ」",
+    "category": "熟語の読み",
+    "targetKanji": "研"
+  },
+  {
+    "id": "g3r003",
+    "type": "reading",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「都会」の読み方は？",
+    "answer": "とかい",
+    "choices": [
+      "とかい",
+      "みやこかい",
+      "つかい",
+      "みやこあい"
+    ],
+    "hint": "「都」は「ト」、「会」は「カイ」",
+    "category": "熟語の読み",
+    "targetKanji": "都"
+  },
+  {
+    "id": "g3r004",
+    "type": "reading",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「農業」の読み方は？",
+    "answer": "のうぎょう",
+    "choices": [
+      "のうぎょう",
+      "のうわざ",
+      "のうごう",
+      "のうぎょ"
+    ],
+    "hint": "「農」は「ノウ」、「業」は「ギョウ」",
+    "category": "熟語の読み",
+    "targetKanji": "農"
+  },
+  {
+    "id": "g3r005",
+    "type": "reading",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「宿題」の読み方は？",
+    "answer": "しゅくだい",
+    "choices": [
+      "しゅくだい",
+      "やどだい",
+      "しゅくもん",
+      "やどもん"
+    ],
+    "hint": "「宿」は「シュク」、「題」は「ダイ」",
+    "category": "熟語の読み",
+    "targetKanji": "宿"
+  },
+  {
+    "id": "g3r006",
+    "type": "reading",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「商店」の読み方は？",
+    "answer": "しょうてん",
+    "choices": [
+      "しょうてん",
+      "あきてん",
+      "しょうみせ",
+      "あきみせ"
+    ],
+    "hint": "「商」は「ショウ」",
+    "category": "熟語の読み",
+    "targetKanji": "商"
+  },
+  {
+    "id": "g3r007",
+    "type": "reading",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「想像」の読み方は？",
+    "answer": "そうぞう",
+    "choices": [
+      "そうぞう",
+      "おもぞう",
+      "そうかたち",
+      "おもかたち"
+    ],
+    "hint": "「想」は「ソウ」、「像」は「ゾウ」",
+    "category": "熟語の読み",
+    "targetKanji": "想"
+  },
+  {
+    "id": "g3r008",
+    "type": "reading",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「安全」の読み方は？",
+    "answer": "あんぜん",
+    "choices": [
+      "あんぜん",
+      "やすぜん",
+      "あんまった",
+      "やすまった"
+    ],
+    "hint": "「安」は「アン」、「全」は「ゼン」",
+    "category": "熟語の読み",
+    "targetKanji": "安"
+  },
+  {
+    "id": "g3r009",
+    "type": "reading",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「動物」の読み方は？",
+    "answer": "どうぶつ",
+    "choices": [
+      "どうぶつ",
+      "うごもの",
+      "どうもの",
+      "うごぶつ"
+    ],
+    "hint": "「動」は「ドウ」、「物」は「ブツ」",
+    "category": "熟語の読み",
+    "targetKanji": "動"
+  },
+  {
+    "id": "g3r010",
+    "type": "reading",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「集合」の読み方は？",
+    "answer": "しゅうごう",
+    "choices": [
+      "しゅうごう",
+      "あつごう",
+      "あつあい",
+      "しゅうあい"
+    ],
+    "hint": "「集」は「シュウ」、「合」は「ゴウ」",
+    "category": "熟語の読み",
+    "targetKanji": "集"
+  },
+  {
+    "id": "g3w001",
+    "type": "writing",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「はし」（橋）を漢字で書きましょう",
+    "answer": "橋",
+    "hint": "16画。きへんがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "橋"
+  },
+  {
+    "id": "g3w002",
+    "type": "writing",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「しま」を漢字で書きましょう",
+    "answer": "島",
+    "hint": "10画。山がつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "島"
+  },
+  {
+    "id": "g3w003",
+    "type": "writing",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「みなと」を漢字で書きましょう",
+    "answer": "港",
+    "hint": "12画。さんずいがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "港"
+  },
+  {
+    "id": "g3w004",
+    "type": "writing",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「むかし」を漢字で書きましょう",
+    "answer": "昔",
+    "hint": "8画の漢字です",
+    "category": "漢字の書き取り",
+    "targetKanji": "昔"
+  },
+  {
+    "id": "g3w005",
+    "type": "writing",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「さか」を漢字で書きましょう",
+    "answer": "坂",
+    "hint": "7画。つちへんがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "坂"
+  },
+  {
+    "id": "g3o001",
+    "type": "okurigana",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「落___」正しい送り仮名は？",
+    "answer": "ちる",
+    "choices": [
+      "ちる",
+      "おちる",
+      "ちた",
+      "す"
+    ],
+    "hint": "「おちる」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "落"
+  },
+  {
+    "id": "g3o002",
+    "type": "okurigana",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「決___」正しい送り仮名は？",
+    "answer": "める",
+    "choices": [
+      "める",
+      "まる",
+      "きめる",
+      "む"
+    ],
+    "hint": "「きめる」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "決"
+  },
+  {
+    "id": "g3o003",
+    "type": "okurigana",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「悲し___」正しい送り仮名は？",
+    "answer": "い",
+    "choices": [
+      "い",
+      "しい",
+      "み",
+      "む"
+    ],
+    "hint": "「かなしい」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "悲"
+  },
+  {
+    "id": "g3o004",
+    "type": "okurigana",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「深___」正しい送り仮名は？",
+    "answer": "い",
+    "choices": [
+      "い",
+      "ふかい",
+      "く",
+      "さ"
+    ],
+    "hint": "「ふかい」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "深"
+  },
+  {
+    "id": "g3o005",
+    "type": "okurigana",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「始___」正しい送り仮名は？",
+    "answer": "める",
+    "choices": [
+      "める",
+      "まる",
+      "はじめる",
+      "む"
+    ],
+    "hint": "「はじめる」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "始"
+  },
+  {
+    "id": "g3a001",
+    "type": "antonym",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「暗」の反対の漢字は？",
+    "answer": "明",
+    "choices": [
+      "明",
+      "光",
+      "白",
+      "日"
+    ],
+    "hint": "暗いの反対",
+    "category": "対義語",
+    "targetKanji": "暗"
+  },
+  {
+    "id": "g3a002",
+    "type": "antonym",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「重」の反対の漢字は？",
+    "answer": "軽",
+    "choices": [
+      "軽",
+      "薄",
+      "少",
+      "低"
+    ],
+    "hint": "重いの反対",
+    "category": "対義語",
+    "targetKanji": "重"
+  },
+  {
+    "id": "g3a003",
+    "type": "antonym",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「勝」の反対の漢字は？",
+    "answer": "負",
+    "choices": [
+      "負",
+      "敗",
+      "失",
+      "弱"
+    ],
+    "hint": "勝つの反対",
+    "category": "対義語",
+    "targetKanji": "勝"
+  },
+  {
+    "id": "g3a004",
+    "type": "antonym",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「悪」の反対の漢字は？",
+    "answer": "善",
+    "choices": [
+      "善",
+      "良",
+      "正",
+      "美"
+    ],
+    "hint": "悪いの反対",
+    "category": "対義語",
+    "targetKanji": "悪"
+  },
+  {
+    "id": "g3a005",
+    "type": "antonym",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「寒」の反対の漢字は？",
+    "answer": "暑",
+    "choices": [
+      "暑",
+      "熱",
+      "温",
+      "夏"
+    ],
+    "hint": "寒いの反対",
+    "category": "対義語",
+    "targetKanji": "寒"
+  },
+  {
+    "id": "g3s001",
+    "type": "sentence",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「___車に乗って出かける」漢字を書きましょう",
+    "answer": "自",
+    "hint": "「自動車」の最初の字",
+    "category": "文章の穴埋め",
+    "targetKanji": "自"
+  },
+  {
+    "id": "g3s002",
+    "type": "sentence",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「図書___で本を読む」漢字を書きましょう",
+    "answer": "館",
+    "hint": "本がたくさんある建物",
+    "category": "文章の穴埋め",
+    "targetKanji": "館"
+  },
+  {
+    "id": "g3s003",
+    "type": "sentence",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「___院に行く」漢字を書きましょう",
+    "answer": "病",
+    "hint": "体の調子が悪いときに行くところ",
+    "category": "文章の穴埋め",
+    "targetKanji": "病"
+  },
+  {
+    "id": "g3s004",
+    "type": "sentence",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「___楽を聞く」漢字を書きましょう",
+    "answer": "音",
+    "hint": "歌や楽器の音",
+    "category": "文章の穴埋め",
+    "targetKanji": "音"
+  },
+  {
+    "id": "g3s005",
+    "type": "sentence",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「お___さんに手紙を書く」漢字を書きましょう",
+    "answer": "母",
+    "hint": "おかあさん",
+    "category": "文章の穴埋め",
+    "targetKanji": "母"
+  },
+  {
+    "id": "g3rad001",
+    "type": "radical",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「湖」の部首は？",
+    "answer": "さんずい（氵）",
+    "choices": [
+      "さんずい（氵）",
+      "つちへん（土）",
+      "こへん（子）",
+      "にんべん（亻）"
+    ],
+    "hint": "水に関係する部首",
+    "category": "部首",
+    "targetKanji": "湖"
+  },
+  {
+    "id": "g3rad002",
+    "type": "radical",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「植」の部首は？",
+    "answer": "きへん（木）",
+    "choices": [
+      "きへん（木）",
+      "さんずい（氵）",
+      "つちへん（土）",
+      "くさかんむり（艹）"
+    ],
+    "hint": "木に関係する部首",
+    "category": "部首",
+    "targetKanji": "植"
+  },
+  {
+    "id": "g3rad003",
+    "type": "radical",
+    "grade": 3,
+    "difficulty": 2,
+    "question": "「鉄」の部首は？",
+    "answer": "かねへん（金）",
+    "choices": [
+      "かねへん（金）",
+      "きへん（木）",
+      "つちへん（土）",
+      "いしへん（石）"
+    ],
+    "hint": "金属に関係する部首",
+    "category": "部首",
+    "targetKanji": "鉄"
+  }
+]

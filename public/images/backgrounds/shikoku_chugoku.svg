@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+        <rect width="100%" height="100%" fill="#f0f8ff" />
+        <path d="M 100,200 L 300,150 L 500,150 L 700,200 L 650,400 L 450,450 L 250,450 L 100,400 Z" fill="#ffb4a2" opacity="0.5" stroke="#fff" stroke-width="4" />
+        
+        <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="64" fill="rgba(255,255,255,0.7)" font-weight="bold">四国中国</text>
+    </svg>

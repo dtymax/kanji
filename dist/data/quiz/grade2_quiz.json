@@ -1,0 +1,536 @@
+[
+  {
+    "id": "g2r001",
+    "type": "reading",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「友だち」の読み方は？",
+    "answer": "ともだち",
+    "choices": [
+      "ともだち",
+      "ゆうだち",
+      "ゆうたち",
+      "ともたち"
+    ],
+    "hint": "「友」は「とも」と読みます",
+    "category": "熟語の読み",
+    "targetKanji": "友"
+  },
+  {
+    "id": "g2r002",
+    "type": "reading",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「教室」の読み方は？",
+    "answer": "きょうしつ",
+    "choices": [
+      "きょうしつ",
+      "きょうしき",
+      "おしえしつ",
+      "おしえしき"
+    ],
+    "hint": "「教」は「キョウ」と読みます",
+    "category": "熟語の読み",
+    "targetKanji": "教"
+  },
+  {
+    "id": "g2r003",
+    "type": "reading",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「毎朝」の読み方は？",
+    "answer": "まいあさ",
+    "choices": [
+      "まいあさ",
+      "まいちょう",
+      "つねあさ",
+      "まいちゅう"
+    ],
+    "hint": "「毎」は「マイ」、「朝」は「あさ」",
+    "category": "熟語の読み",
+    "targetKanji": "毎"
+  },
+  {
+    "id": "g2r004",
+    "type": "reading",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「電話」の読み方は？",
+    "answer": "でんわ",
+    "choices": [
+      "でんわ",
+      "でんはなし",
+      "いなずまわ",
+      "でんかい"
+    ],
+    "hint": "「電」は「デン」、「話」は「ワ」",
+    "category": "熟語の読み",
+    "targetKanji": "電"
+  },
+  {
+    "id": "g2r005",
+    "type": "reading",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「時間」の読み方は？",
+    "answer": "じかん",
+    "choices": [
+      "じかん",
+      "ときま",
+      "ときかん",
+      "じあいだ"
+    ],
+    "hint": "「時」は「ジ」、「間」は「カン」",
+    "category": "熟語の読み",
+    "targetKanji": "時"
+  },
+  {
+    "id": "g2r006",
+    "type": "reading",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「計算」の読み方は？",
+    "answer": "けいさん",
+    "choices": [
+      "けいさん",
+      "はかりざん",
+      "けいざん",
+      "はかりさん"
+    ],
+    "hint": "「計」は「ケイ」、「算」は「サン」",
+    "category": "熟語の読み",
+    "targetKanji": "計"
+  },
+  {
+    "id": "g2r007",
+    "type": "reading",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「遠足」の読み方は？",
+    "answer": "えんそく",
+    "choices": [
+      "えんそく",
+      "とおあし",
+      "えんあし",
+      "とおそく"
+    ],
+    "hint": "「遠」は「エン」、「足」は「ソク」",
+    "category": "熟語の読み",
+    "targetKanji": "遠"
+  },
+  {
+    "id": "g2r008",
+    "type": "reading",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「国語」の読み方は？",
+    "answer": "こくご",
+    "choices": [
+      "こくご",
+      "くにご",
+      "くにがたり",
+      "こくがたり"
+    ],
+    "hint": "「国」は「コク」、「語」は「ゴ」",
+    "category": "熟語の読み",
+    "targetKanji": "国"
+  },
+  {
+    "id": "g2r009",
+    "type": "reading",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「黄色」の読み方は？",
+    "answer": "きいろ",
+    "choices": [
+      "きいろ",
+      "おうしょく",
+      "こうしょく",
+      "きしょく"
+    ],
+    "hint": "「黄」は「き」と読みます",
+    "category": "熟語の読み",
+    "targetKanji": "黄"
+  },
+  {
+    "id": "g2r010",
+    "type": "reading",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「新聞」の読み方は？",
+    "answer": "しんぶん",
+    "choices": [
+      "しんぶん",
+      "あたらしもん",
+      "しんもん",
+      "にいぶん"
+    ],
+    "hint": "「新」は「シン」、「聞」は「ブン」",
+    "category": "熟語の読み",
+    "targetKanji": "新"
+  },
+  {
+    "id": "g2w001",
+    "type": "writing",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「とり」を漢字で書きましょう",
+    "answer": "鳥",
+    "hint": "11画の漢字です",
+    "category": "漢字の書き取り",
+    "targetKanji": "鳥"
+  },
+  {
+    "id": "g2w002",
+    "type": "writing",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「うま」を漢字で書きましょう",
+    "answer": "馬",
+    "hint": "10画の漢字です",
+    "category": "漢字の書き取り",
+    "targetKanji": "馬"
+  },
+  {
+    "id": "g2w003",
+    "type": "writing",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「かぜ」を漢字で書きましょう",
+    "answer": "風",
+    "hint": "9画の漢字です",
+    "category": "漢字の書き取り",
+    "targetKanji": "風"
+  },
+  {
+    "id": "g2w004",
+    "type": "writing",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「くも」を漢字で書きましょう",
+    "answer": "雲",
+    "hint": "12画。雨かんむりがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "雲"
+  },
+  {
+    "id": "g2w005",
+    "type": "writing",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「いえ」を漢字で書きましょう",
+    "answer": "家",
+    "hint": "10画。うかんむりがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "家"
+  },
+  {
+    "id": "g2w006",
+    "type": "writing",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「こえ」を漢字で書きましょう",
+    "answer": "声",
+    "hint": "7画の漢字です",
+    "category": "漢字の書き取り",
+    "targetKanji": "声"
+  },
+  {
+    "id": "g2w007",
+    "type": "writing",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「ゆき」を漢字で書きましょう",
+    "answer": "雪",
+    "hint": "11画。雨かんむりがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "雪"
+  },
+  {
+    "id": "g2w008",
+    "type": "writing",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「ほし」を漢字で書きましょう",
+    "answer": "星",
+    "hint": "日と生を合わせた字です",
+    "category": "漢字の書き取り",
+    "targetKanji": "星"
+  },
+  {
+    "id": "g2o001",
+    "type": "okurigana",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「走___」正しい送り仮名は？",
+    "answer": "る",
+    "choices": [
+      "る",
+      "はしる",
+      "り",
+      "す"
+    ],
+    "hint": "「はしる」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "走"
+  },
+  {
+    "id": "g2o002",
+    "type": "okurigana",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「歌___」正しい送り仮名は？",
+    "answer": "う",
+    "choices": [
+      "う",
+      "うたう",
+      "い",
+      "か"
+    ],
+    "hint": "「うたう」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "歌"
+  },
+  {
+    "id": "g2o003",
+    "type": "okurigana",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「読___」正しい送り仮名は？",
+    "answer": "む",
+    "choices": [
+      "む",
+      "み",
+      "め",
+      "よむ"
+    ],
+    "hint": "「よむ」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "読"
+  },
+  {
+    "id": "g2o004",
+    "type": "okurigana",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「強___」正しい送り仮名は？",
+    "answer": "い",
+    "choices": [
+      "い",
+      "つよい",
+      "く",
+      "さ"
+    ],
+    "hint": "「つよい」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "強"
+  },
+  {
+    "id": "g2o005",
+    "type": "okurigana",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「通___」正しい送り仮名は？",
+    "answer": "る",
+    "choices": [
+      "る",
+      "り",
+      "す",
+      "とおる"
+    ],
+    "hint": "「とおる」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "通"
+  },
+  {
+    "id": "g2a001",
+    "type": "antonym",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「新」の反対の漢字は？",
+    "answer": "古",
+    "choices": [
+      "古",
+      "旧",
+      "昔",
+      "前"
+    ],
+    "hint": "新しいの反対",
+    "category": "対義語",
+    "targetKanji": "新"
+  },
+  {
+    "id": "g2a002",
+    "type": "antonym",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「強」の反対の漢字は？",
+    "answer": "弱",
+    "choices": [
+      "弱",
+      "軽",
+      "細",
+      "少"
+    ],
+    "hint": "強いの反対",
+    "category": "対義語",
+    "targetKanji": "強"
+  },
+  {
+    "id": "g2a003",
+    "type": "antonym",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「多」の反対の漢字は？",
+    "answer": "少",
+    "choices": [
+      "少",
+      "小",
+      "低",
+      "弱"
+    ],
+    "hint": "多いの反対",
+    "category": "対義語",
+    "targetKanji": "多"
+  },
+  {
+    "id": "g2a004",
+    "type": "antonym",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「長」の反対の漢字は？",
+    "answer": "短",
+    "choices": [
+      "短",
+      "少",
+      "小",
+      "低"
+    ],
+    "hint": "長いの反対（2年生では習いませんが…）",
+    "category": "対義語",
+    "targetKanji": "長"
+  },
+  {
+    "id": "g2a005",
+    "type": "antonym",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「売」の反対の漢字は？",
+    "answer": "買",
+    "choices": [
+      "買",
+      "得",
+      "取",
+      "受"
+    ],
+    "hint": "売るの反対",
+    "category": "対義語",
+    "targetKanji": "売"
+  },
+  {
+    "id": "g2s001",
+    "type": "sentence",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「___をよむのが好きです」漢字を書きましょう",
+    "answer": "本",
+    "hint": "読むものです",
+    "category": "文章の穴埋め",
+    "targetKanji": "本"
+  },
+  {
+    "id": "g2s002",
+    "type": "sentence",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「___曜日にえんそくがある」漢字を書きましょう",
+    "answer": "月",
+    "hint": "一週間の最初の日",
+    "category": "文章の穴埋め",
+    "targetKanji": "月"
+  },
+  {
+    "id": "g2s003",
+    "type": "sentence",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「___の中をおよぐ」漢字を書きましょう",
+    "answer": "海",
+    "hint": "広い水のあるところ",
+    "category": "文章の穴埋め",
+    "targetKanji": "海"
+  },
+  {
+    "id": "g2s004",
+    "type": "sentence",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「___に絵をかく」漢字を書きましょう",
+    "answer": "紙",
+    "hint": "書いたり描いたりするもの",
+    "category": "文章の穴埋め",
+    "targetKanji": "紙"
+  },
+  {
+    "id": "g2s005",
+    "type": "sentence",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「___校から帰る」漢字を書きましょう",
+    "answer": "学",
+    "hint": "勉強するところ",
+    "category": "文章の穴埋め",
+    "targetKanji": "学"
+  },
+  {
+    "id": "g2rad001",
+    "type": "radical",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「語」の部首は？",
+    "answer": "ごんべん（言）",
+    "choices": [
+      "ごんべん（言）",
+      "くちへん（口）",
+      "にんべん（亻）",
+      "きへん（木）"
+    ],
+    "hint": "言葉に関係する部首",
+    "category": "部首",
+    "targetKanji": "語"
+  },
+  {
+    "id": "g2rad002",
+    "type": "radical",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「池」の部首は？",
+    "answer": "さんずい（氵）",
+    "choices": [
+      "さんずい（氵）",
+      "つちへん（土）",
+      "にんべん（亻）",
+      "きへん（木）"
+    ],
+    "hint": "水に関係する部首",
+    "category": "部首",
+    "targetKanji": "池"
+  },
+  {
+    "id": "g2rad003",
+    "type": "radical",
+    "grade": 2,
+    "difficulty": 1,
+    "question": "「雲」の部首は？",
+    "answer": "あめかんむり（雨）",
+    "choices": [
+      "あめかんむり（雨）",
+      "くさかんむり（艹）",
+      "うかんむり（宀）",
+      "たけかんむり（竹）"
+    ],
+    "hint": "天気に関係する部首",
+    "category": "部首",
+    "targetKanji": "雲"
+  }
+]

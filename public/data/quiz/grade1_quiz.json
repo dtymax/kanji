@@ -1,0 +1,5327 @@
+[
+  {
+    "id": "r001",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「学校」の読み方は？",
+    "answer": "がっこう",
+    "choices": [
+      "がっこう",
+      "がくこう",
+      "がこう",
+      "がっきょう"
+    ],
+    "hint": "学校（がっこう）の「学」。がっこう",
+    "category": "熟語の読み",
+    "targetKanji": "学"
+  },
+  {
+    "id": "r002",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「花火」の読み方は？",
+    "answer": "はなび",
+    "choices": [
+      "はなび",
+      "かび",
+      "はなか",
+      "かか"
+    ],
+    "hint": "花火（はなび）の「花」。はな",
+    "category": "熟語の読み",
+    "targetKanji": "花"
+  },
+  {
+    "id": "r003",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「天気」の読み方は？",
+    "answer": "てんき",
+    "choices": [
+      "てんき",
+      "あまき",
+      "てんけ",
+      "あまけ"
+    ],
+    "hint": "天皇（てんのう）の「天」",
+    "category": "熟語の読み",
+    "targetKanji": "天"
+  },
+  {
+    "id": "r004",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「水曜日」の読み方は？",
+    "answer": "すいようび",
+    "choices": [
+      "すいようび",
+      "みずようび",
+      "すいにちび",
+      "みずにちび"
+    ],
+    "hint": "水準（すいじゅん）の「水」。みず",
+    "category": "熟語の読み",
+    "targetKanji": "水"
+  },
+  {
+    "id": "r005",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「先生」の読み方は？",
+    "answer": "せんせい",
+    "choices": [
+      "せんせい",
+      "さきせい",
+      "せんしょう",
+      "さきしょう"
+    ],
+    "hint": "先月（せんげつ）の「先」",
+    "category": "熟語の読み",
+    "targetKanji": "先"
+  },
+  {
+    "id": "r006",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「大人」の読み方は？",
+    "answer": "おとな",
+    "choices": [
+      "おとな",
+      "だいじん",
+      "おおびと",
+      "たいにん"
+    ],
+    "hint": "最大（さいだい）の「大」。おおきい",
+    "category": "熟語の読み",
+    "targetKanji": "大"
+  },
+  {
+    "id": "r007",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「左右」の読み方は？",
+    "answer": "さゆう",
+    "choices": [
+      "さゆう",
+      "ひだりみぎ",
+      "さう",
+      "さみぎ"
+    ],
+    "hint": "左翼（さよく）の「左」",
+    "category": "熟語の読み",
+    "targetKanji": "左"
+  },
+  {
+    "id": "r008",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「入口」の読み方は？",
+    "answer": "いりぐち",
+    "choices": [
+      "いりぐち",
+      "にゅうこう",
+      "いりこう",
+      "にゅうぐち"
+    ],
+    "hint": "輸入（ゆにゅう）の「入」。はいること",
+    "category": "熟語の読み",
+    "targetKanji": "入"
+  },
+  {
+    "id": "r009",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「青空」の読み方は？",
+    "answer": "あおぞら",
+    "choices": [
+      "あおぞら",
+      "せいくう",
+      "あおくう",
+      "せいぞら"
+    ],
+    "hint": "青年（せいねん）の「青」",
+    "category": "熟語の読み",
+    "targetKanji": "青"
+  },
+  {
+    "id": "r010",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「休日」の読み方は？",
+    "answer": "きゅうじつ",
+    "choices": [
+      "きゅうじつ",
+      "やすみび",
+      "きゅうにち",
+      "やすみにち"
+    ],
+    "hint": "休日（きゅうじつ）の「休」",
+    "category": "熟語の読み",
+    "targetKanji": "休"
+  },
+  {
+    "id": "w001",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「つきやま」の漢字を書きましょう（ヒント：築◯）",
+    "answer": "山",
+    "hint": "「やま」という意味、部首は「やま」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "山"
+  },
+  {
+    "id": "w002",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「かわぐち」の漢字を書きましょう（ヒント：◯口）",
+    "answer": "川",
+    "hint": "「かわ」という意味、部首は「かわ」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "川"
+  },
+  {
+    "id": "w003",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「あかり」の漢字を書きましょう（ヒント：灯◯）",
+    "answer": "火",
+    "hint": "「ひ」という意味、部首は「ひ」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "火"
+  },
+  {
+    "id": "w004",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「すいでん」の漢字を書きましょう（ヒント：◯田）",
+    "answer": "水",
+    "hint": "「みず」という意味、部首は「みず」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "水"
+  },
+  {
+    "id": "w005",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「じょうぎ」の漢字を書きましょう（ヒント：定◯）",
+    "answer": "木",
+    "hint": "「き」という意味、部首は「き」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "木"
+  },
+  {
+    "id": "w006",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「めいげつ」の漢字を書きましょう（ヒント：名◯）",
+    "answer": "月",
+    "hint": "「つき」という意味、部首は「つき」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "月"
+  },
+  {
+    "id": "w007",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「にほん」の漢字を書きましょう（ヒント：◯本）",
+    "answer": "日",
+    "hint": "「ひ」という意味、部首は「にち」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "日"
+  },
+  {
+    "id": "w008",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「だんせいてき」の漢字を書きましょう（ヒント：◯性的）",
+    "answer": "男",
+    "hint": "長男（ちょうなん）の「男」、部首は「た」、7画",
+    "category": "漢字の書き取り",
+    "targetKanji": "男"
+  },
+  {
+    "id": "w009",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「びじょ」の漢字を書きましょう（ヒント：美◯）",
+    "answer": "女",
+    "hint": "「おんな」という意味、部首は「おんな」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "女"
+  },
+  {
+    "id": "w010",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「はなびら」の漢字を書きましょう（ヒント：◯びら）",
+    "answer": "花",
+    "hint": "「はな」という意味、部首は「くさかんむり」、7画",
+    "category": "漢字の書き取り",
+    "targetKanji": "花"
+  },
+  {
+    "id": "o001",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「大き___」正しい送り仮名はどれ？",
+    "answer": "い",
+    "choices": [
+      "い",
+      "き",
+      "おおき",
+      "な"
+    ],
+    "hint": "「おおきい」と読みます。最大（さいだい）の「大」。おおきい",
+    "category": "送り仮名",
+    "targetKanji": "大"
+  },
+  {
+    "id": "o002",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「正し___」正しい送り仮名はどれ？",
+    "answer": "い",
+    "choices": [
+      "い",
+      "しい",
+      "く",
+      "り"
+    ],
+    "hint": "「ただしい」と読みます。改正（かいせい）の「正」。ただしい",
+    "category": "送り仮名",
+    "targetKanji": "正"
+  },
+  {
+    "id": "o003",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「休___」正しい送り仮名はどれ？",
+    "answer": "む",
+    "choices": [
+      "む",
+      "やむ",
+      "む",
+      "み"
+    ],
+    "hint": "「やすむ」と読みます。休日（きゅうじつ）の「休」",
+    "category": "送り仮名",
+    "targetKanji": "休"
+  },
+  {
+    "id": "o004",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「見___」正しい送り仮名はどれ？",
+    "answer": "る",
+    "choices": [
+      "る",
+      "みる",
+      "え",
+      "せ"
+    ],
+    "hint": "「みる」と読みます。会見（かいけん）の「見」。かんがえ",
+    "category": "送り仮名",
+    "targetKanji": "見"
+  },
+  {
+    "id": "o005",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「立___」正しい送り仮名はどれ？",
+    "answer": "つ",
+    "choices": [
+      "つ",
+      "たつ",
+      "ち",
+      "す"
+    ],
+    "hint": "「たつ」と読みます。立場（たちば）の「立」。あがること",
+    "category": "送り仮名",
+    "targetKanji": "立"
+  },
+  {
+    "id": "s001",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「友だちとがっ___で遊ぶ」かっこに入る漢字を書きましょう",
+    "answer": "校",
+    "hint": "学校（がっこう）の「校」。がっこう",
+    "category": "文章の穴埋め",
+    "targetKanji": "校"
+  },
+  {
+    "id": "s002",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「きょうは___気がいい」かっこに入る漢字を書きましょう",
+    "answer": "天",
+    "hint": "天皇（てんのう）の「天」",
+    "category": "文章の穴埋め",
+    "targetKanji": "天"
+  },
+  {
+    "id": "s003",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「___の中から虫が出てきた」かっこに入る漢字を書きましょう",
+    "answer": "土",
+    "hint": "領土（りょうど）の「土」。つち",
+    "category": "文章の穴埋め",
+    "targetKanji": "土"
+  },
+  {
+    "id": "s004",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「___生に教えてもらう」かっこに入る漢字を書きましょう",
+    "answer": "先",
+    "hint": "先月（せんげつ）の「先」",
+    "category": "文章の穴埋め",
+    "targetKanji": "先"
+  },
+  {
+    "id": "s005",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「___がふってきた」かっこに入る漢字を書きましょう",
+    "answer": "雨",
+    "hint": "大雨（おおあめ）の「雨」。あめ",
+    "category": "文章の穴埋め",
+    "targetKanji": "雨"
+  },
+  {
+    "id": "rad001",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「休」の部首は？",
+    "answer": "にんべん（亻）",
+    "choices": [
+      "にんべん（亻）",
+      "きへん（木）",
+      "くちへん（口）",
+      "ひへん（日）"
+    ],
+    "hint": "部首の名前は「にんべん」",
+    "category": "部首",
+    "targetKanji": "休"
+  },
+  {
+    "id": "rad002",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「花」の部首は？",
+    "answer": "くさかんむり（艹）",
+    "choices": [
+      "くさかんむり（艹）",
+      "きへん（木）",
+      "にんべん（亻）",
+      "ひへん（日）"
+    ],
+    "hint": "部首の名前は「くさかんむり」、「花」は「はな」に関する漢字",
+    "category": "部首",
+    "targetKanji": "花"
+  },
+  {
+    "id": "rad003",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「校」の部首は？",
+    "answer": "きへん（木）",
+    "choices": [
+      "きへん（木）",
+      "くさかんむり（艹）",
+      "にんべん（亻）",
+      "くにがまえ（囗）"
+    ],
+    "hint": "部首の名前は「き」、「校」は「がっこう」に関する漢字",
+    "category": "部首",
+    "targetKanji": "校"
+  },
+  {
+    "id": "g1a039",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ひゃく」の漢字を書きましょう（ヒント：◯〇〇）",
+    "answer": "一",
+    "hint": "一人（ひとり）の「一」、部首は「いち」、1画",
+    "category": "漢字の書き取り",
+    "targetKanji": "一"
+  },
+  {
+    "id": "g1a041",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「みぎがわ」の漢字を書きましょう（ヒント：◯がわ）",
+    "answer": "右",
+    "hint": "「ただしい」という意味、部首は「くち」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "右"
+  },
+  {
+    "id": "g1a043",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「えんこ」の漢字を書きましょう（ヒント：◯弧）",
+    "answer": "円",
+    "hint": "「まる」という意味、部首は「けいがまえ」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "円"
+  },
+  {
+    "id": "g1a045",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「おうさま」の漢字を書きましょう（ヒント：◯さま）",
+    "answer": "王",
+    "hint": "「おう」という意味、部首は「おう」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "王"
+  },
+  {
+    "id": "g1a047",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ろくおん」の漢字を書きましょう（ヒント：錄◯）",
+    "answer": "音",
+    "hint": "「おんがく」という意味、部首は「おと」、9画",
+    "category": "漢字の書き取り",
+    "targetKanji": "音"
+  },
+  {
+    "id": "g1a049",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ひょうてんか」の漢字を書きましょう（ヒント：氷点◯）",
+    "answer": "下",
+    "hint": "「ひくい」という意味、部首は「いち」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "下"
+  },
+  {
+    "id": "g1a051",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「かいがら」の漢字を書きましょう（ヒント：◯がら）",
+    "answer": "貝",
+    "hint": "貝殻（かいがら）の「貝」、部首は「かい」、7画",
+    "category": "漢字の書き取り",
+    "targetKanji": "貝"
+  },
+  {
+    "id": "g1a053",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「きがかり」の漢字を書きましょう（ヒント：◯がかり）",
+    "answer": "気",
+    "hint": "人気（にんき）の「気」、部首は「きがまえ」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "気"
+  },
+  {
+    "id": "g1a055",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ひゃくじゅうきゅうばん」の漢字を書きましょう（ヒント：一一◯番）",
+    "answer": "九",
+    "hint": "九月（くがつ）の「九」、部首は「おつ」、2画",
+    "category": "漢字の書き取り",
+    "targetKanji": "九"
+  },
+  {
+    "id": "g1a057",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「おとしだま」の漢字を書きましょう（ヒント：お年◯）",
+    "answer": "玉",
+    "hint": "玉子（たまご）の「玉」、部首は「たま」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "玉"
+  },
+  {
+    "id": "g1a059",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「きんよう」の漢字を書きましょう（ヒント：◯曜）",
+    "answer": "金",
+    "hint": "「きん」という意味、部首は「かね」、8画",
+    "category": "漢字の書き取り",
+    "targetKanji": "金"
+  },
+  {
+    "id": "g1a061",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「くうぐん」の漢字を書きましょう（ヒント：◯軍）",
+    "answer": "空",
+    "hint": "「からっぽ」という意味、部首は「あな」、8画",
+    "category": "漢字の書き取り",
+    "targetKanji": "空"
+  },
+  {
+    "id": "g1a063",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「かいいぬ」の漢字を書きましょう（ヒント：飼い◯）",
+    "answer": "犬",
+    "hint": "「いぬ」という意味、部首は「いぬ」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "犬"
+  },
+  {
+    "id": "g1a065",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ごじゅうおん」の漢字を書きましょう（ヒント：◯十音）",
+    "answer": "五",
+    "hint": "五〇（ごじゅう）の「五」、部首は「に」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "五"
+  },
+  {
+    "id": "g1a067",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「かわぐち」の漢字を書きましょう（ヒント：川◯）",
+    "answer": "口",
+    "hint": "「くち」という意味、部首は「くち」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "口"
+  },
+  {
+    "id": "g1a069",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「さんかくけい」の漢字を書きましょう（ヒント：◯角形）",
+    "answer": "三",
+    "hint": "三〇（さんじゅう）の「三」、部首は「いち」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "三"
+  },
+  {
+    "id": "g1a071",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「こもりうた」の漢字を書きましょう（ヒント：◯守り唄）",
+    "answer": "子",
+    "hint": "「こ」という意味、部首は「こ」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "子"
+  },
+  {
+    "id": "g1a073",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「しき」の漢字を書きましょう（ヒント：◯季）",
+    "answer": "四",
+    "hint": "四〇（よんじゅう）の「四」、部首は「くにがまえ」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "四"
+  },
+  {
+    "id": "g1a075",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「きいと」の漢字を書きましょう（ヒント：生◯）",
+    "answer": "糸",
+    "hint": "糸口（いとぐち）の「糸」、部首は「いと」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "糸"
+  },
+  {
+    "id": "g1a077",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「じゅうじか」の漢字を書きましょう（ヒント：十◯架）",
+    "answer": "字",
+    "hint": "「もじ」という意味、部首は「こ」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "字"
+  },
+  {
+    "id": "g1a079",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「みみもと」の漢字を書きましょう（ヒント：◯もと）",
+    "answer": "耳",
+    "hint": "「みみ」という意味、部首は「みみ」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "耳"
+  },
+  {
+    "id": "g1a081",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「しちじゅう」の漢字を書きましょう（ヒント：◯〇）",
+    "answer": "七",
+    "hint": "七月（しちがつ）の「七」、部首は「いち」、2画",
+    "category": "漢字の書き取り",
+    "targetKanji": "七"
+  },
+  {
+    "id": "g1a083",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「しゃりょう」の漢字を書きましょう（ヒント：◯両）",
+    "answer": "車",
+    "hint": "「くるま」という意味、部首は「くるま」、7画",
+    "category": "漢字の書き取り",
+    "targetKanji": "車"
+  },
+  {
+    "id": "g1a085",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「てぬぐい」の漢字を書きましょう（ヒント：◯ぬぐい）",
+    "answer": "手",
+    "hint": "「て」という意味、部首は「て」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "手"
+  },
+  {
+    "id": "g1a087",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「じゅうぶん」の漢字を書きましょう（ヒント：◯分）",
+    "answer": "十",
+    "hint": "十分（じゅうぶん）の「十」、部首は「じゅう」、2画",
+    "category": "漢字の書き取り",
+    "targetKanji": "十"
+  },
+  {
+    "id": "g1a089",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「たきだし」の漢字を書きましょう（ヒント：炊き◯し）",
+    "answer": "出",
+    "hint": "「でること」という意味、部首は「うけばこ」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "出"
+  },
+  {
+    "id": "g1a091",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「こども」の漢字を書きましょう（ヒント：◯供）",
+    "answer": "小",
+    "hint": "「こ」という意味、部首は「しょう」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "小"
+  },
+  {
+    "id": "g1a093",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「しんりん」の漢字を書きましょう（ヒント：◯林）",
+    "answer": "森",
+    "hint": "森林（しんりん）の「森」、部首は「き」、12画",
+    "category": "漢字の書き取り",
+    "targetKanji": "森"
+  },
+  {
+    "id": "g1a095",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ひとごみ」の漢字を書きましょう（ヒント：◯ごみ）",
+    "answer": "人",
+    "hint": "「ひと」という意味、部首は「ひと」、2画",
+    "category": "漢字の書き取り",
+    "targetKanji": "人"
+  },
+  {
+    "id": "g1a097",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「じんせい」の漢字を書きましょう（ヒント：人◯）",
+    "answer": "生",
+    "hint": "「いのち」という意味、部首は「いきる」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "生"
+  },
+  {
+    "id": "g1a099",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ゆうぎり」の漢字を書きましょう（ヒント：◯霧）",
+    "answer": "夕",
+    "hint": "「ゆうがた」という意味、部首は「ゆう」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "夕"
+  },
+  {
+    "id": "g1a101",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「せきたん」の漢字を書きましょう（ヒント：◯炭）",
+    "answer": "石",
+    "hint": "石油（せきゆ）の「石」、部首は「いし」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "石"
+  },
+  {
+    "id": "g1a103",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「あかい」の漢字を書きましょう（ヒント：◯い）",
+    "answer": "赤",
+    "hint": "赤字（あかじ）の「赤」、部首は「あか」、7画",
+    "category": "漢字の書き取り",
+    "targetKanji": "赤"
+  },
+  {
+    "id": "g1a105",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「なんぜん」の漢字を書きましょう（ヒント：何◯）",
+    "answer": "千",
+    "hint": "「おおい」という意味、部首は「じゅう」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "千"
+  },
+  {
+    "id": "g1a107",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「はやい」の漢字を書きましょう（ヒント：◯い）",
+    "answer": "早",
+    "hint": "「はやい」という意味、部首は「にち」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "早"
+  },
+  {
+    "id": "g1a109",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ざっそう」の漢字を書きましょう（ヒント：雑◯）",
+    "answer": "草",
+    "hint": "「くさ」という意味、部首は「くさかんむり」、9画",
+    "category": "漢字の書き取り",
+    "targetKanji": "草"
+  },
+  {
+    "id": "g1a111",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「あしあと」の漢字を書きましょう（ヒント：◯あと）",
+    "answer": "足",
+    "hint": "「あし」という意味、部首は「あし」、7画",
+    "category": "漢字の書き取り",
+    "targetKanji": "足"
+  },
+  {
+    "id": "g1a113",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ぎょそん」の漢字を書きましょう（ヒント：漁◯）",
+    "answer": "村",
+    "hint": "「まち」という意味、部首は「き」、7画",
+    "category": "漢字の書き取り",
+    "targetKanji": "村"
+  },
+  {
+    "id": "g1a115",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「しない」の漢字を書きましょう（ヒント：◯刀）",
+    "answer": "竹",
+    "hint": "竹林（ちくりん）の「竹」、部首は「たけ」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "竹"
+  },
+  {
+    "id": "g1a117",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「せなか」の漢字を書きましょう（ヒント：背◯）",
+    "answer": "中",
+    "hint": "中央（ちゅうおう）の「中」、部首は「ぼう」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "中"
+  },
+  {
+    "id": "g1a119",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「こんちゅう」の漢字を書きましょう（ヒント：昆◯）",
+    "answer": "虫",
+    "hint": "「むし」という意味、部首は「むし」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "虫"
+  },
+  {
+    "id": "g1a121",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「まちなか」の漢字を書きましょう（ヒント：◯中）",
+    "answer": "町",
+    "hint": "「まち」という意味、部首は「た」、7画",
+    "category": "漢字の書き取り",
+    "targetKanji": "町"
+  },
+  {
+    "id": "g1a123",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「すいでん」の漢字を書きましょう（ヒント：水◯）",
+    "answer": "田",
+    "hint": "水田（すいでん）の「田」、部首は「た」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "田"
+  },
+  {
+    "id": "g1a125",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「じなん」の漢字を書きましょう（ヒント：◯男）",
+    "answer": "二",
+    "hint": "二人（ふたり）の「二」、部首は「に」、2画",
+    "category": "漢字の書き取り",
+    "targetKanji": "二"
+  },
+  {
+    "id": "g1a127",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「しんねん」の漢字を書きましょう（ヒント：新◯）",
+    "answer": "年",
+    "hint": "「とし」という意味、部首は「かん」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "年"
+  },
+  {
+    "id": "g1a129",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「はくじょう」の漢字を書きましょう（ヒント：◯状）",
+    "answer": "白",
+    "hint": "白書（はくしょ）の「白」、部首は「しろ」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "白"
+  },
+  {
+    "id": "g1a131",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「やえざくら」の漢字を書きましょう（ヒント：◯重桜）",
+    "answer": "八",
+    "hint": "八月（はちがつ）の「八」、部首は「はち」、2画",
+    "category": "漢字の書き取り",
+    "targetKanji": "八"
+  },
+  {
+    "id": "g1a133",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ひゃっかてん」の漢字を書きましょう（ヒント：◯貨店）",
+    "answer": "百",
+    "hint": "二百（にひゃく）の「百」、部首は「しろ」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "百"
+  },
+  {
+    "id": "g1a135",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「もんよう」の漢字を書きましょう（ヒント：◯様）",
+    "answer": "文",
+    "hint": "「げいじゅつ」という意味、部首は「ぶん」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "文"
+  },
+  {
+    "id": "g1a137",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「にほん」の漢字を書きましょう（ヒント：日◯）",
+    "answer": "本",
+    "hint": "「ほん」という意味、部首は「き」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "本"
+  },
+  {
+    "id": "g1a139",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「めいげつ」の漢字を書きましょう（ヒント：◯月）",
+    "answer": "名",
+    "hint": "「なまえ」という意味、部首は「くち」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "名"
+  },
+  {
+    "id": "g1a141",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ぬいめ」の漢字を書きましょう（ヒント：縫い◯）",
+    "answer": "目",
+    "hint": "「くらす」という意味、部首は「め」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "目"
+  },
+  {
+    "id": "g1a143",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「えんしんりょく」の漢字を書きましょう（ヒント：遠心◯）",
+    "answer": "力",
+    "hint": "「きょうりょく」という意味、部首は「ちから」、2画",
+    "category": "漢字の書き取り",
+    "targetKanji": "力"
+  },
+  {
+    "id": "g1a145",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「のうりん」の漢字を書きましょう（ヒント：農◯）",
+    "answer": "林",
+    "hint": "森林（しんりん）の「林」、部首は「き」、8画",
+    "category": "漢字の書き取り",
+    "targetKanji": "林"
+  },
+  {
+    "id": "g1a147",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ろくじゅう」の漢字を書きましょう（ヒント：◯〇）",
+    "answer": "六",
+    "hint": "六月（ろくがつ）の「六」、部首は「はち」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "六"
+  },
+  {
+    "id": "g1a17729904200920",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「つゆあけ」の漢字を書きましょう（ヒント：梅◯明け）",
+    "answer": "雨",
+    "hint": "「あめ」という意味、部首は「あめ」、8画",
+    "category": "漢字の書き取り",
+    "targetKanji": "雨"
+  },
+  {
+    "id": "g1a17729904200921",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「がくい」の漢字を書きましょう（ヒント：◯位）",
+    "answer": "学",
+    "hint": "「がっこう」という意味、部首は「こ」、8画",
+    "category": "漢字の書き取り",
+    "targetKanji": "学"
+  },
+  {
+    "id": "g1a17729904200922",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「きゅうこう」の漢字を書きましょう（ヒント：◯校）",
+    "answer": "休",
+    "hint": "休日（きゅうじつ）の「休」、部首は「にんべん」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "休"
+  },
+  {
+    "id": "g1a17729904200923",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ろけん」の漢字を書きましょう（ヒント：露◯）",
+    "answer": "見",
+    "hint": "「かんがえ」という意味、部首は「みる」、7画",
+    "category": "漢字の書き取り",
+    "targetKanji": "見"
+  },
+  {
+    "id": "g1a17729904200924",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「きゅうこう」の漢字を書きましょう（ヒント：休◯）",
+    "answer": "校",
+    "hint": "「がっこう」という意味、部首は「き」、10画",
+    "category": "漢字の書き取り",
+    "targetKanji": "校"
+  },
+  {
+    "id": "g1a17729904200925",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「ひだりがわ」の漢字を書きましょう（ヒント：◯側）",
+    "answer": "左",
+    "hint": "左翼（さよく）の「左」、部首は「たくみ」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "左"
+  },
+  {
+    "id": "g1a17729904200926",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「あげる」の漢字を書きましょう（ヒント：◯げる）",
+    "answer": "上",
+    "hint": "上げる（あげる）の「上」、部首は「いち」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "上"
+  },
+  {
+    "id": "g1a17729904200927",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「がしょう」の漢字を書きましょう（ヒント：賀◯）",
+    "answer": "正",
+    "hint": "「ただしい」という意味、部首は「とめる」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "正"
+  },
+  {
+    "id": "g1a17729904200928",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「あおいろ」の漢字を書きましょう（ヒント：◯色）",
+    "answer": "青",
+    "hint": "青年（せいねん）の「青」、部首は「あお」、8画",
+    "category": "漢字の書き取り",
+    "targetKanji": "青"
+  },
+  {
+    "id": "g1a17729904200929",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「そせん」の漢字を書きましょう（ヒント：祖◯）",
+    "answer": "先",
+    "hint": "先月（せんげつ）の「先」、部首は「にんにょう」、6画",
+    "category": "漢字の書き取り",
+    "targetKanji": "先"
+  },
+  {
+    "id": "g1a177299042009210",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「おおや」の漢字を書きましょう（ヒント：◯家）",
+    "answer": "大",
+    "hint": "「おおきい」という意味、部首は「だい」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "大"
+  },
+  {
+    "id": "g1a177299042009211",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「てんのう」の漢字を書きましょう（ヒント：◯皇）",
+    "answer": "天",
+    "hint": "天皇（てんのう）の「天」、部首は「だい」、4画",
+    "category": "漢字の書き取り",
+    "targetKanji": "天"
+  },
+  {
+    "id": "g1a177299042009212",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「どよう」の漢字を書きましょう（ヒント：◯曜）",
+    "answer": "土",
+    "hint": "「つち」という意味、部首は「つち」、3画",
+    "category": "漢字の書き取り",
+    "targetKanji": "土"
+  },
+  {
+    "id": "g1a177299042009213",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「にゅうし」の漢字を書きましょう（ヒント：◯試）",
+    "answer": "入",
+    "hint": "「はいること」という意味、部首は「いる」、2画",
+    "category": "漢字の書き取り",
+    "targetKanji": "入"
+  },
+  {
+    "id": "g1a177299042009214",
+    "type": "writing",
+    "grade": 1,
+    "difficulty": 2,
+    "question": "「つみたて」の漢字を書きましょう（ヒント：積み◯て）",
+    "answer": "立",
+    "hint": "「あがること」という意味、部首は「たつ」、5画",
+    "category": "漢字の書き取り",
+    "targetKanji": "立"
+  },
+  {
+    "id": "g1r1773011288193",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「一つ」の読み方は？",
+    "answer": "ひとつ",
+    "choices": [
+      "ごがつ",
+      "ニョ",
+      "ひとつ",
+      "て"
+    ],
+    "hint": "一人（ひとり）の「一」",
+    "category": "熟語の読み",
+    "targetKanji": "一"
+  },
+  {
+    "id": "g1ok1773011288194",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「一___」正しい送り仮名はどれ？",
+    "answer": "つ",
+    "choices": [
+      "つ",
+      "った",
+      "き",
+      "ましい"
+    ],
+    "hint": "「ひとつ」と読みます。一人（ひとり）の「一」",
+    "category": "送り仮名",
+    "targetKanji": "一"
+  },
+  {
+    "id": "g1st1773011288195",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ひとつ」→「___つ」に入る漢字を書きましょう",
+    "answer": "一",
+    "hint": "読み方は「ひとつ」。一人（ひとり）の「一」",
+    "category": "文章の穴埋め",
+    "targetKanji": "一"
+  },
+  {
+    "id": "g1rd1773011288196",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「一」の部首は？",
+    "answer": "いち（一）",
+    "choices": [
+      "いち（一）",
+      "くさかんむり（艹）",
+      "くるま（車）",
+      "しょう（小）"
+    ],
+    "hint": "部首の名前は「いち」",
+    "category": "部首",
+    "targetKanji": "一"
+  },
+  {
+    "id": "g1r1773011288197",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「右手」の読み方は？",
+    "answer": "みぎて",
+    "choices": [
+      "ニョ",
+      "じょおう",
+      "ただしい",
+      "みぎて"
+    ],
+    "hint": "右翼（うよく）の「右」。ただしい",
+    "category": "熟語の読み",
+    "targetKanji": "右"
+  },
+  {
+    "id": "g1st1773011288199",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「みぎて」→「___手」に入る漢字を書きましょう",
+    "answer": "右",
+    "hint": "読み方は「みぎて」。右翼（うよく）の「右」。ただしい",
+    "category": "文章の穴埋め",
+    "targetKanji": "右"
+  },
+  {
+    "id": "g1rd1773011288200",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「右」の部首は？",
+    "answer": "くち（口）",
+    "choices": [
+      "くち（口）",
+      "くさかんむり（艹）",
+      "むし（虫）",
+      "たま（玉）"
+    ],
+    "hint": "部首の名前は「くち」、「右」は「ただしい」に関する漢字",
+    "category": "部首",
+    "targetKanji": "右"
+  },
+  {
+    "id": "g1r1773011288201",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「大雨」の読み方は？",
+    "answer": "おおあめ",
+    "choices": [
+      "おおあめ",
+      "たいぼく",
+      "あかちゃん",
+      "ちょうちょう"
+    ],
+    "hint": "大雨（おおあめ）の「雨」。あめ",
+    "category": "熟語の読み",
+    "targetKanji": "雨"
+  },
+  {
+    "id": "g1rd1773011288202",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「雨」の部首は？",
+    "answer": "あめ（雨）",
+    "choices": [
+      "あめ（雨）",
+      "かね（金）",
+      "にち（日）",
+      "たくみ（工）"
+    ],
+    "hint": "部首の名前は「あめ」、「雨」は「あめ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "雨"
+  },
+  {
+    "id": "g1r1773011288203",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「百円」の読み方は？",
+    "answer": "ひゃくえん",
+    "choices": [
+      "とし",
+      "カ",
+      "シュ",
+      "ひゃくえん"
+    ],
+    "hint": "円高（えんだか）の「円」。まる",
+    "category": "熟語の読み",
+    "targetKanji": "円"
+  },
+  {
+    "id": "g1ok1773011288204",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「円___」正しい送り仮名はどれ？",
+    "answer": "い",
+    "choices": [
+      "う",
+      "い",
+      "ましい",
+      "ける"
+    ],
+    "hint": "「まるい」と読みます。円高（えんだか）の「円」。まる",
+    "category": "送り仮名",
+    "targetKanji": "円"
+  },
+  {
+    "id": "g1st1773011288205",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ひゃくえん」→「百___」に入る漢字を書きましょう",
+    "answer": "円",
+    "hint": "読み方は「ひゃくえん」。円高（えんだか）の「円」。まる",
+    "category": "文章の穴埋め",
+    "targetKanji": "円"
+  },
+  {
+    "id": "g1rd1773011288206",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「円」の部首は？",
+    "answer": "けいがまえ（冂）",
+    "choices": [
+      "くるま（車）",
+      "いち（一）",
+      "けいがまえ（冂）",
+      "あな（穴）"
+    ],
+    "hint": "部首の名前は「けいがまえ」、「円」は「まる」に関する漢字",
+    "category": "部首",
+    "targetKanji": "円"
+  },
+  {
+    "id": "g1r1773011288207",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「王さま」の読み方は？",
+    "answer": "おうさま",
+    "choices": [
+      "ちからもち",
+      "イチ",
+      "しろ",
+      "おうさま"
+    ],
+    "hint": "女王（じょおう）の「王」。おう",
+    "category": "熟語の読み",
+    "targetKanji": "王"
+  },
+  {
+    "id": "g1st1773011288208",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「おうさま」→「___さま」に入る漢字を書きましょう",
+    "answer": "王",
+    "hint": "読み方は「おうさま」。女王（じょおう）の「王」。おう",
+    "category": "文章の穴埋め",
+    "targetKanji": "王"
+  },
+  {
+    "id": "g1rd1773011288209",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「王」の部首は？",
+    "answer": "おう（王）",
+    "choices": [
+      "かい（貝）",
+      "かね（金）",
+      "め（目）",
+      "おう（王）"
+    ],
+    "hint": "部首の名前は「おう」、「王」は「おう」に関する漢字",
+    "category": "部首",
+    "targetKanji": "王"
+  },
+  {
+    "id": "g1r1773011288210",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「音楽」の読み方は？",
+    "answer": "おんがく",
+    "choices": [
+      "おんがく",
+      "しも",
+      "ウ",
+      "みみ"
+    ],
+    "hint": "音楽（おんがく）の「音」。おんがく",
+    "category": "熟語の読み",
+    "targetKanji": "音"
+  },
+  {
+    "id": "g1st1773011288211",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「おんがく」→「___楽」に入る漢字を書きましょう",
+    "answer": "音",
+    "hint": "読み方は「おんがく」。音楽（おんがく）の「音」。おんがく",
+    "category": "文章の穴埋め",
+    "targetKanji": "音"
+  },
+  {
+    "id": "g1rd1773011288212",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「音」の部首は？",
+    "answer": "おと（音）",
+    "choices": [
+      "ひ（火）",
+      "くち（口）",
+      "おと（音）",
+      "しろ（白）"
+    ],
+    "hint": "部首の名前は「おと」、「音」は「おんがく」に関する漢字",
+    "category": "部首",
+    "targetKanji": "音"
+  },
+  {
+    "id": "g1r1773011288213",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「下る」の読み方は？",
+    "answer": "くだる",
+    "choices": [
+      "チク",
+      "まんなか",
+      "くだる",
+      "めいじん"
+    ],
+    "hint": "下車（げしゃ）の「下」。ひくい",
+    "category": "熟語の読み",
+    "targetKanji": "下"
+  },
+  {
+    "id": "g1ok1773011288214",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「下___」正しい送り仮名はどれ？",
+    "answer": "げる",
+    "choices": [
+      "べる",
+      "きい",
+      "たい",
+      "げる"
+    ],
+    "hint": "「さげる」と読みます。下車（げしゃ）の「下」。ひくい",
+    "category": "送り仮名",
+    "targetKanji": "下"
+  },
+  {
+    "id": "g1st1773011288216",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「くだる」→「___る」に入る漢字を書きましょう",
+    "answer": "下",
+    "hint": "読み方は「くだる」。下車（げしゃ）の「下」。ひくい",
+    "category": "文章の穴埋め",
+    "targetKanji": "下"
+  },
+  {
+    "id": "g1rd1773011288217",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「下」の部首は？",
+    "answer": "いち（一）",
+    "choices": [
+      "たけ（竹）",
+      "あお（青）",
+      "こ（子）",
+      "いち（一）"
+    ],
+    "hint": "部首の名前は「いち」、「下」は「ひくい」に関する漢字",
+    "category": "部首",
+    "targetKanji": "下"
+  },
+  {
+    "id": "g1r1773011288218",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「火山」の読み方は？",
+    "answer": "かざん",
+    "choices": [
+      "ジツ",
+      "まず",
+      "かざん",
+      "ろくがつ"
+    ],
+    "hint": "灯火（あかり）の「火」。ひ",
+    "category": "熟語の読み",
+    "targetKanji": "火"
+  },
+  {
+    "id": "g1st1773011288220",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「かざん」→「___山」に入る漢字を書きましょう",
+    "answer": "火",
+    "hint": "読み方は「かざん」。灯火（あかり）の「火」。ひ",
+    "category": "文章の穴埋め",
+    "targetKanji": "火"
+  },
+  {
+    "id": "g1rd1773011288221",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「火」の部首は？",
+    "answer": "ひ（火）",
+    "choices": [
+      "たつ（立）",
+      "ひ（火）",
+      "くさかんむり（艹）",
+      "いきる（生）"
+    ],
+    "hint": "部首の名前は「ひ」、「火」は「ひ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "火"
+  },
+  {
+    "id": "g1st1773011288222",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「はなび」→「___火」に入る漢字を書きましょう",
+    "answer": "花",
+    "hint": "読み方は「はなび」。花火（はなび）の「花」。はな",
+    "category": "文章の穴埋め",
+    "targetKanji": "花"
+  },
+  {
+    "id": "g1r1773011288223",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「貝がら」の読み方は？",
+    "answer": "かいがら",
+    "choices": [
+      "さき",
+      "かいがら",
+      "あく",
+      "ひと"
+    ],
+    "hint": "貝殻（かいがら）の「貝」",
+    "category": "熟語の読み",
+    "targetKanji": "貝"
+  },
+  {
+    "id": "g1st1773011288224",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「かいがら」→「___がら」に入る漢字を書きましょう",
+    "answer": "貝",
+    "hint": "読み方は「かいがら」。貝殻（かいがら）の「貝」",
+    "category": "文章の穴埋め",
+    "targetKanji": "貝"
+  },
+  {
+    "id": "g1rd1773011288225",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「貝」の部首は？",
+    "answer": "かい（貝）",
+    "choices": [
+      "こ（子）",
+      "かい（貝）",
+      "た（田）",
+      "あな（穴）"
+    ],
+    "hint": "部首の名前は「かい」",
+    "category": "部首",
+    "targetKanji": "貝"
+  },
+  {
+    "id": "g1ok1773011288226",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「学___」正しい送り仮名はどれ？",
+    "answer": "ぶ",
+    "choices": [
+      "さい",
+      "ぶ",
+      "える",
+      "ね"
+    ],
+    "hint": "「まなぶ」と読みます。学校（がっこう）の「学」。がっこう",
+    "category": "送り仮名",
+    "targetKanji": "学"
+  },
+  {
+    "id": "g1st1773011288227",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「がっこう」→「___校」に入る漢字を書きましょう",
+    "answer": "学",
+    "hint": "読み方は「がっこう」。学校（がっこう）の「学」。がっこう",
+    "category": "文章の穴埋め",
+    "targetKanji": "学"
+  },
+  {
+    "id": "g1rd1773011288228",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「学」の部首は？",
+    "answer": "こ（子）",
+    "choices": [
+      "つち（土）",
+      "ゆう（夕）",
+      "た（田）",
+      "こ（子）"
+    ],
+    "hint": "部首の名前は「こ」、「学」は「がっこう」に関する漢字",
+    "category": "部首",
+    "targetKanji": "学"
+  },
+  {
+    "id": "g1r1773011288229",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「天気」の読み方は？",
+    "answer": "てんき",
+    "choices": [
+      "てんき",
+      "クウ",
+      "たまいれ",
+      "スイ"
+    ],
+    "hint": "人気（にんき）の「気」",
+    "category": "熟語の読み",
+    "targetKanji": "気"
+  },
+  {
+    "id": "g1st1773011288230",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「てんき」→「天___」に入る漢字を書きましょう",
+    "answer": "気",
+    "hint": "読み方は「てんき」。人気（にんき）の「気」",
+    "category": "文章の穴埋め",
+    "targetKanji": "気"
+  },
+  {
+    "id": "g1rd1773011288231",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「気」の部首は？",
+    "answer": "きがまえ（气）",
+    "choices": [
+      "いち（一）",
+      "あめ（雨）",
+      "きがまえ（气）",
+      "くさかんむり（艹）"
+    ],
+    "hint": "部首の名前は「きがまえ」",
+    "category": "部首",
+    "targetKanji": "気"
+  },
+  {
+    "id": "g1r1773011288232",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「九つ」の読み方は？",
+    "answer": "ここのつ",
+    "choices": [
+      "でぐち",
+      "ここのつ",
+      "ちか",
+      "すいどう"
+    ],
+    "hint": "九月（くがつ）の「九」",
+    "category": "熟語の読み",
+    "targetKanji": "九"
+  },
+  {
+    "id": "g1ok1773011288233",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「九___」正しい送り仮名はどれ？",
+    "answer": "つ",
+    "choices": [
+      "ぐ",
+      "つ",
+      "たい",
+      "れる"
+    ],
+    "hint": "「ここのつ」と読みます。九月（くがつ）の「九」",
+    "category": "送り仮名",
+    "targetKanji": "九"
+  },
+  {
+    "id": "g1st1773011288234",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ここのつ」→「___つ」に入る漢字を書きましょう",
+    "answer": "九",
+    "hint": "読み方は「ここのつ」。九月（くがつ）の「九」",
+    "category": "文章の穴埋め",
+    "targetKanji": "九"
+  },
+  {
+    "id": "g1rd1773011288235",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「九」の部首は？",
+    "answer": "おつ（乙）",
+    "choices": [
+      "おつ（乙）",
+      "くにがまえ（囗）",
+      "しょう（小）",
+      "にち（日）"
+    ],
+    "hint": "部首の名前は「おつ」",
+    "category": "部首",
+    "targetKanji": "九"
+  },
+  {
+    "id": "g1st1773011288236",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「やすむ」→「___む」に入る漢字を書きましょう",
+    "answer": "休",
+    "hint": "読み方は「やすむ」。休日（きゅうじつ）の「休」",
+    "category": "文章の穴埋め",
+    "targetKanji": "休"
+  },
+  {
+    "id": "g1r1773011288237",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「玉入れ」の読み方は？",
+    "answer": "たまいれ",
+    "choices": [
+      "ショウ",
+      "たまいれ",
+      "チク",
+      "まるい"
+    ],
+    "hint": "玉子（たまご）の「玉」",
+    "category": "熟語の読み",
+    "targetKanji": "玉"
+  },
+  {
+    "id": "g1st1773011288238",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「たまいれ」→「___入れ」に入る漢字を書きましょう",
+    "answer": "玉",
+    "hint": "読み方は「たまいれ」。玉子（たまご）の「玉」",
+    "category": "文章の穴埋め",
+    "targetKanji": "玉"
+  },
+  {
+    "id": "g1rd1773011288239",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「玉」の部首は？",
+    "answer": "たま（玉）",
+    "choices": [
+      "たま（玉）",
+      "ひと（人）",
+      "うけばこ（凵）",
+      "あな（穴）"
+    ],
+    "hint": "部首の名前は「たま」",
+    "category": "部首",
+    "targetKanji": "玉"
+  },
+  {
+    "id": "g1r1773011288240",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「お金」の読み方は？",
+    "answer": "おかね",
+    "choices": [
+      "ガク",
+      "くち",
+      "な",
+      "おかね"
+    ],
+    "hint": "資金（しきん）の「金」。きん",
+    "category": "熟語の読み",
+    "targetKanji": "金"
+  },
+  {
+    "id": "g1st1773011288241",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「おかね」→「お___」に入る漢字を書きましょう",
+    "answer": "金",
+    "hint": "読み方は「おかね」。資金（しきん）の「金」。きん",
+    "category": "文章の穴埋め",
+    "targetKanji": "金"
+  },
+  {
+    "id": "g1rd1773011288242",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「金」の部首は？",
+    "answer": "かね（金）",
+    "choices": [
+      "おう（王）",
+      "だい（大）",
+      "あめ（雨）",
+      "かね（金）"
+    ],
+    "hint": "部首の名前は「かね」、「金」は「きん」に関する漢字",
+    "category": "部首",
+    "targetKanji": "金"
+  },
+  {
+    "id": "g1r1773011288243",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「空気」の読み方は？",
+    "answer": "くうき",
+    "choices": [
+      "くうき",
+      "ただしい",
+      "はなび",
+      "きんようび"
+    ],
+    "hint": "空港（くうこう）の「空」。からっぽ",
+    "category": "熟語の読み",
+    "targetKanji": "空"
+  },
+  {
+    "id": "g1ok1773011288244",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「空___」正しい送り仮名はどれ？",
+    "answer": "く",
+    "choices": [
+      "れ",
+      "った",
+      "く",
+      "ない"
+    ],
+    "hint": "「あく」と読みます。空港（くうこう）の「空」。からっぽ",
+    "category": "送り仮名",
+    "targetKanji": "空"
+  },
+  {
+    "id": "g1st1773011288245",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「くうき」→「___気」に入る漢字を書きましょう",
+    "answer": "空",
+    "hint": "読み方は「くうき」。空港（くうこう）の「空」。からっぽ",
+    "category": "文章の穴埋め",
+    "targetKanji": "空"
+  },
+  {
+    "id": "g1rd1773011288246",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「空」の部首は？",
+    "answer": "あな（穴）",
+    "choices": [
+      "あな（穴）",
+      "あか（赤）",
+      "いきる（生）",
+      "しょう（小）"
+    ],
+    "hint": "部首の名前は「あな」、「空」は「からっぽ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "空"
+  },
+  {
+    "id": "g1r1773011288247",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「月曜日」の読み方は？",
+    "answer": "げつようび",
+    "choices": [
+      "げつようび",
+      "あま",
+      "オン",
+      "いちにち"
+    ],
+    "hint": "今月（こんげつ）の「月」。つき",
+    "category": "熟語の読み",
+    "targetKanji": "月"
+  },
+  {
+    "id": "g1st1773011288248",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「げつようび」→「___曜日」に入る漢字を書きましょう",
+    "answer": "月",
+    "hint": "読み方は「げつようび」。今月（こんげつ）の「月」。つき",
+    "category": "文章の穴埋め",
+    "targetKanji": "月"
+  },
+  {
+    "id": "g1rd1773011288249",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「月」の部首は？",
+    "answer": "つき（月）",
+    "choices": [
+      "にんべん（亻）",
+      "いし（石）",
+      "つき（月）",
+      "め（目）"
+    ],
+    "hint": "部首の名前は「つき」、「月」は「つき」に関する漢字",
+    "category": "部首",
+    "targetKanji": "月"
+  },
+  {
+    "id": "g1r1773011288250",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「子犬」の読み方は？",
+    "answer": "こいぬ",
+    "choices": [
+      "テン",
+      "あま",
+      "やま",
+      "こいぬ"
+    ],
+    "hint": "愛犬（あいけん）の「犬」。いぬ",
+    "category": "熟語の読み",
+    "targetKanji": "犬"
+  },
+  {
+    "id": "g1st1773011288251",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「こいぬ」→「子___」に入る漢字を書きましょう",
+    "answer": "犬",
+    "hint": "読み方は「こいぬ」。愛犬（あいけん）の「犬」。いぬ",
+    "category": "文章の穴埋め",
+    "targetKanji": "犬"
+  },
+  {
+    "id": "g1rd1773011288252",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「犬」の部首は？",
+    "answer": "いぬ（犬）",
+    "choices": [
+      "き（木）",
+      "おと（音）",
+      "いぬ（犬）",
+      "だい（大）"
+    ],
+    "hint": "部首の名前は「いぬ」、「犬」は「いぬ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "犬"
+  },
+  {
+    "id": "g1r1773011288253",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「花見」の読み方は？",
+    "answer": "はなみ",
+    "choices": [
+      "ここのつ",
+      "チョウ",
+      "みみ",
+      "はなみ"
+    ],
+    "hint": "会見（かいけん）の「見」。かんがえ",
+    "category": "熟語の読み",
+    "targetKanji": "見"
+  },
+  {
+    "id": "g1st1773011288254",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「はなみ」→「花___」に入る漢字を書きましょう",
+    "answer": "見",
+    "hint": "読み方は「はなみ」。会見（かいけん）の「見」。かんがえ",
+    "category": "文章の穴埋め",
+    "targetKanji": "見"
+  },
+  {
+    "id": "g1rd1773011288255",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「見」の部首は？",
+    "answer": "みる（見）",
+    "choices": [
+      "くち（口）",
+      "ぼう（丨）",
+      "みる（見）",
+      "て（手）"
+    ],
+    "hint": "部首の名前は「みる」、「見」は「かんがえ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "見"
+  },
+  {
+    "id": "g1r1773011288256",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「五つ」の読み方は？",
+    "answer": "いつつ",
+    "choices": [
+      "たつ",
+      "やすむ",
+      "ケン",
+      "いつつ"
+    ],
+    "hint": "五〇（ごじゅう）の「五」",
+    "category": "熟語の読み",
+    "targetKanji": "五"
+  },
+  {
+    "id": "g1ok1773011288257",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「五___」正しい送り仮名はどれ？",
+    "answer": "つ",
+    "choices": [
+      "え",
+      "つ",
+      "さい",
+      "りる"
+    ],
+    "hint": "「いつつ」と読みます。五〇（ごじゅう）の「五」",
+    "category": "送り仮名",
+    "targetKanji": "五"
+  },
+  {
+    "id": "g1st1773011288258",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「いつつ」→「___つ」に入る漢字を書きましょう",
+    "answer": "五",
+    "hint": "読み方は「いつつ」。五〇（ごじゅう）の「五」",
+    "category": "文章の穴埋め",
+    "targetKanji": "五"
+  },
+  {
+    "id": "g1rd1773011288259",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「五」の部首は？",
+    "answer": "に（二）",
+    "choices": [
+      "はち（八）",
+      "ひ（火）",
+      "に（二）",
+      "くさかんむり（艹）"
+    ],
+    "hint": "部首の名前は「に」",
+    "category": "部首",
+    "targetKanji": "五"
+  },
+  {
+    "id": "g1r1773011288260",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「入口」の読み方は？",
+    "answer": "いりぐち",
+    "choices": [
+      "ジン",
+      "いりぐち",
+      "めだま",
+      "てがみ"
+    ],
+    "hint": "川口（かわぐち）の「口」。くち",
+    "category": "熟語の読み",
+    "targetKanji": "口"
+  },
+  {
+    "id": "g1st1773011288261",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「いりぐち」→「入___」に入る漢字を書きましょう",
+    "answer": "口",
+    "hint": "読み方は「いりぐち」。川口（かわぐち）の「口」。くち",
+    "category": "文章の穴埋め",
+    "targetKanji": "口"
+  },
+  {
+    "id": "g1rd1773011288262",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「口」の部首は？",
+    "answer": "くち（口）",
+    "choices": [
+      "おつ（乙）",
+      "きがまえ（气）",
+      "かん（干）",
+      "くち（口）"
+    ],
+    "hint": "部首の名前は「くち」、「口」は「くち」に関する漢字",
+    "category": "部首",
+    "targetKanji": "口"
+  },
+  {
+    "id": "g1r1773011288263",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「学校」の読み方は？",
+    "answer": "がっこう",
+    "choices": [
+      "がっこう",
+      "まさ",
+      "まなぶ",
+      "さんびゃく"
+    ],
+    "hint": "学校（がっこう）の「校」。がっこう",
+    "category": "熟語の読み",
+    "targetKanji": "校"
+  },
+  {
+    "id": "g1st1773011288264",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ひだりて」→「___手」に入る漢字を書きましょう",
+    "answer": "左",
+    "hint": "読み方は「ひだりて」。左翼（さよく）の「左」",
+    "category": "文章の穴埋め",
+    "targetKanji": "左"
+  },
+  {
+    "id": "g1rd1773011288265",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「左」の部首は？",
+    "answer": "たくみ（工）",
+    "choices": [
+      "にち（日）",
+      "いし（石）",
+      "じゅう（十）",
+      "たくみ（工）"
+    ],
+    "hint": "部首の名前は「たくみ」",
+    "category": "部首",
+    "targetKanji": "左"
+  },
+  {
+    "id": "g1r1773011288266",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「三つ」の読み方は？",
+    "answer": "みっつ",
+    "choices": [
+      "セキ",
+      "みっつ",
+      "ス",
+      "たんぼ"
+    ],
+    "hint": "三〇（さんじゅう）の「三」",
+    "category": "熟語の読み",
+    "targetKanji": "三"
+  },
+  {
+    "id": "g1ok1773011288267",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「三___」正しい送り仮名はどれ？",
+    "answer": "つ",
+    "choices": [
+      "った",
+      "え",
+      "ね",
+      "つ"
+    ],
+    "hint": "「みつ」と読みます。三〇（さんじゅう）の「三」",
+    "category": "送り仮名",
+    "targetKanji": "三"
+  },
+  {
+    "id": "g1st1773011288268",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「みっつ」→「___つ」に入る漢字を書きましょう",
+    "answer": "三",
+    "hint": "読み方は「みっつ」。三〇（さんじゅう）の「三」",
+    "category": "文章の穴埋め",
+    "targetKanji": "三"
+  },
+  {
+    "id": "g1rd1773011288269",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「三」の部首は？",
+    "answer": "いち（一）",
+    "choices": [
+      "いち（一）",
+      "あお（青）",
+      "けいがまえ（冂）",
+      "くさかんむり（艹）"
+    ],
+    "hint": "部首の名前は「いち」",
+    "category": "部首",
+    "targetKanji": "三"
+  },
+  {
+    "id": "g1r1773011288270",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「山道」の読み方は？",
+    "answer": "やまみち",
+    "choices": [
+      "ケン",
+      "スイ",
+      "コン",
+      "やまみち"
+    ],
+    "hint": "火山（かざん）の「山」。やま",
+    "category": "熟語の読み",
+    "targetKanji": "山"
+  },
+  {
+    "id": "g1st1773011288272",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「やまみち」→「___道」に入る漢字を書きましょう",
+    "answer": "山",
+    "hint": "読み方は「やまみち」。火山（かざん）の「山」。やま",
+    "category": "文章の穴埋め",
+    "targetKanji": "山"
+  },
+  {
+    "id": "g1rd1773011288273",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「山」の部首は？",
+    "answer": "やま（山）",
+    "choices": [
+      "やま（山）",
+      "みず（水）",
+      "あな（穴）",
+      "き（木）"
+    ],
+    "hint": "部首の名前は「やま」、「山」は「やま」に関する漢字",
+    "category": "部首",
+    "targetKanji": "山"
+  },
+  {
+    "id": "g1r1773011288274",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「子ども」の読み方は？",
+    "answer": "こども",
+    "choices": [
+      "てんき",
+      "ちいさい",
+      "ガク",
+      "こども"
+    ],
+    "hint": "子供（こども）の「子」。こ",
+    "category": "熟語の読み",
+    "targetKanji": "子"
+  },
+  {
+    "id": "g1st1773011288275",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「こども」→「___ども」に入る漢字を書きましょう",
+    "answer": "子",
+    "hint": "読み方は「こども」。子供（こども）の「子」。こ",
+    "category": "文章の穴埋め",
+    "targetKanji": "子"
+  },
+  {
+    "id": "g1rd1773011288276",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「子」の部首は？",
+    "answer": "こ（子）",
+    "choices": [
+      "き（木）",
+      "だい（大）",
+      "たくみ（工）",
+      "こ（子）"
+    ],
+    "hint": "部首の名前は「こ」、「子」は「こ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "子"
+  },
+  {
+    "id": "g1r1773011288277",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「四つ」の読み方は？",
+    "answer": "よっつ",
+    "choices": [
+      "なな",
+      "よっつ",
+      "さきに",
+      "みぎて"
+    ],
+    "hint": "四〇（よんじゅう）の「四」",
+    "category": "熟語の読み",
+    "targetKanji": "四"
+  },
+  {
+    "id": "g1ok1773011288278",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「四___」正しい送り仮名はどれ？",
+    "answer": "つ",
+    "choices": [
+      "する",
+      "け",
+      "つ",
+      "え"
+    ],
+    "hint": "「よつ」と読みます。四〇（よんじゅう）の「四」",
+    "category": "送り仮名",
+    "targetKanji": "四"
+  },
+  {
+    "id": "g1st1773011288279",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「よっつ」→「___つ」に入る漢字を書きましょう",
+    "answer": "四",
+    "hint": "読み方は「よっつ」。四〇（よんじゅう）の「四」",
+    "category": "文章の穴埋め",
+    "targetKanji": "四"
+  },
+  {
+    "id": "g1rd1773011288280",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「四」の部首は？",
+    "answer": "くにがまえ（囗）",
+    "choices": [
+      "くにがまえ（囗）",
+      "あな（穴）",
+      "とめる（止）",
+      "ひと（人）"
+    ],
+    "hint": "部首の名前は「くにがまえ」",
+    "category": "部首",
+    "targetKanji": "四"
+  },
+  {
+    "id": "g1r1773011288281",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「毛糸」の読み方は？",
+    "answer": "けいと",
+    "choices": [
+      "むつ",
+      "さき",
+      "けいと",
+      "ダン"
+    ],
+    "hint": "糸口（いとぐち）の「糸」",
+    "category": "熟語の読み",
+    "targetKanji": "糸"
+  },
+  {
+    "id": "g1st1773011288282",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「けいと」→「毛___」に入る漢字を書きましょう",
+    "answer": "糸",
+    "hint": "読み方は「けいと」。糸口（いとぐち）の「糸」",
+    "category": "文章の穴埋め",
+    "targetKanji": "糸"
+  },
+  {
+    "id": "g1rd1773011288283",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「糸」の部首は？",
+    "answer": "いと（糸）",
+    "choices": [
+      "くにがまえ（囗）",
+      "いと（糸）",
+      "たくみ（工）",
+      "はち（八）"
+    ],
+    "hint": "部首の名前は「いと」",
+    "category": "部首",
+    "targetKanji": "糸"
+  },
+  {
+    "id": "g1r1773011288284",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「文字」の読み方は？",
+    "answer": "もじ",
+    "choices": [
+      "みせる",
+      "みみ",
+      "もじ",
+      "タイ"
+    ],
+    "hint": "数字（すうじ）の「字」。もじ",
+    "category": "熟語の読み",
+    "targetKanji": "字"
+  },
+  {
+    "id": "g1st1773011288285",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「もじ」→「文___」に入る漢字を書きましょう",
+    "answer": "字",
+    "hint": "読み方は「もじ」。数字（すうじ）の「字」。もじ",
+    "category": "文章の穴埋め",
+    "targetKanji": "字"
+  },
+  {
+    "id": "g1rd1773011288286",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「字」の部首は？",
+    "answer": "こ（子）",
+    "choices": [
+      "こ（子）",
+      "て（手）",
+      "いち（一）",
+      "いきる（生）"
+    ],
+    "hint": "部首の名前は「こ」、「字」は「もじ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "字"
+  },
+  {
+    "id": "g1r1773011288287",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「耳たぶ」の読み方は？",
+    "answer": "みみたぶ",
+    "choices": [
+      "みみたぶ",
+      "よ",
+      "た",
+      "と"
+    ],
+    "hint": "耳目（じもく）の「耳」。みみ",
+    "category": "熟語の読み",
+    "targetKanji": "耳"
+  },
+  {
+    "id": "g1st1773011288288",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「みみたぶ」→「___たぶ」に入る漢字を書きましょう",
+    "answer": "耳",
+    "hint": "読み方は「みみたぶ」。耳目（じもく）の「耳」。みみ",
+    "category": "文章の穴埋め",
+    "targetKanji": "耳"
+  },
+  {
+    "id": "g1rd1773011288289",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「耳」の部首は？",
+    "answer": "みみ（耳）",
+    "choices": [
+      "くち（口）",
+      "いきる（生）",
+      "みみ（耳）",
+      "にんにょう（儿）"
+    ],
+    "hint": "部首の名前は「みみ」、「耳」は「みみ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "耳"
+  },
+  {
+    "id": "g1r1773011288290",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「七つ」の読み方は？",
+    "answer": "ななつ",
+    "choices": [
+      "ななつ",
+      "つき",
+      "じんこう",
+      "めのまえ"
+    ],
+    "hint": "七月（しちがつ）の「七」",
+    "category": "熟語の読み",
+    "targetKanji": "七"
+  },
+  {
+    "id": "g1ok1773011288291",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「七___」正しい送り仮名はどれ？",
+    "answer": "つ",
+    "choices": [
+      "りる",
+      "う",
+      "す",
+      "つ"
+    ],
+    "hint": "「ななつ」と読みます。七月（しちがつ）の「七」",
+    "category": "送り仮名",
+    "targetKanji": "七"
+  },
+  {
+    "id": "g1st1773011288292",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ななつ」→「___つ」に入る漢字を書きましょう",
+    "answer": "七",
+    "hint": "読み方は「ななつ」。七月（しちがつ）の「七」",
+    "category": "文章の穴埋め",
+    "targetKanji": "七"
+  },
+  {
+    "id": "g1rd1773011288293",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「七」の部首は？",
+    "answer": "いち（一）",
+    "choices": [
+      "あな（穴）",
+      "いち（一）",
+      "て（手）",
+      "ぶん（文）"
+    ],
+    "hint": "部首の名前は「いち」",
+    "category": "部首",
+    "targetKanji": "七"
+  },
+  {
+    "id": "g1r1773011288294",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「自動車」の読み方は？",
+    "answer": "じどうしゃ",
+    "choices": [
+      "ジ",
+      "たいぼく",
+      "じどうしゃ",
+      "おおあめ"
+    ],
+    "hint": "車両（しゃりょう）の「車」。くるま",
+    "category": "熟語の読み",
+    "targetKanji": "車"
+  },
+  {
+    "id": "g1st1773011288295",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「じどうしゃ」→「自動___」に入る漢字を書きましょう",
+    "answer": "車",
+    "hint": "読み方は「じどうしゃ」。車両（しゃりょう）の「車」。くるま",
+    "category": "文章の穴埋め",
+    "targetKanji": "車"
+  },
+  {
+    "id": "g1rd1773011288296",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「車」の部首は？",
+    "answer": "くるま（車）",
+    "choices": [
+      "くるま（車）",
+      "つき（月）",
+      "いち（一）",
+      "くにがまえ（囗）"
+    ],
+    "hint": "部首の名前は「くるま」、「車」は「くるま」に関する漢字",
+    "category": "部首",
+    "targetKanji": "車"
+  },
+  {
+    "id": "g1r1773011288297",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「右手」の読み方は？",
+    "answer": "みぎて",
+    "choices": [
+      "シャ",
+      "みぎて",
+      "エン",
+      "なま"
+    ],
+    "hint": "選手（せんしゅ）の「手」。て",
+    "category": "熟語の読み",
+    "targetKanji": "手"
+  },
+  {
+    "id": "g1st1773011288298",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「みぎて」→「右___」に入る漢字を書きましょう",
+    "answer": "手",
+    "hint": "読み方は「みぎて」。選手（せんしゅ）の「手」。て",
+    "category": "文章の穴埋め",
+    "targetKanji": "手"
+  },
+  {
+    "id": "g1rd1773011288299",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「手」の部首は？",
+    "answer": "て（手）",
+    "choices": [
+      "て（手）",
+      "あお（青）",
+      "つち（土）",
+      "うけばこ（凵）"
+    ],
+    "hint": "部首の名前は「て」、「手」は「て」に関する漢字",
+    "category": "部首",
+    "targetKanji": "手"
+  },
+  {
+    "id": "g1r1773011288300",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「十月」の読み方は？",
+    "answer": "じゅうがつ",
+    "choices": [
+      "ダン",
+      "じゅうがつ",
+      "はやおき",
+      "たんぼ"
+    ],
+    "hint": "十分（じゅうぶん）の「十」",
+    "category": "熟語の読み",
+    "targetKanji": "十"
+  },
+  {
+    "id": "g1st1773011288301",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「じゅうがつ」→「___月」に入る漢字を書きましょう",
+    "answer": "十",
+    "hint": "読み方は「じゅうがつ」。十分（じゅうぶん）の「十」",
+    "category": "文章の穴埋め",
+    "targetKanji": "十"
+  },
+  {
+    "id": "g1rd1773011288302",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「十」の部首は？",
+    "answer": "じゅう（十）",
+    "choices": [
+      "ひ（火）",
+      "かい（貝）",
+      "じゅう（十）",
+      "あお（青）"
+    ],
+    "hint": "部首の名前は「じゅう」",
+    "category": "部首",
+    "targetKanji": "十"
+  },
+  {
+    "id": "g1r1773011288303",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「出口」の読み方は？",
+    "answer": "でぐち",
+    "choices": [
+      "がっこう",
+      "でぐち",
+      "キュウ",
+      "から"
+    ],
+    "hint": "貸出（かしだし）の「出」。でること",
+    "category": "熟語の読み",
+    "targetKanji": "出"
+  },
+  {
+    "id": "g1ok1773011288304",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「出___」正しい送り仮名はどれ？",
+    "answer": "る",
+    "choices": [
+      "る",
+      "す",
+      "まる",
+      "い"
+    ],
+    "hint": "「でる」と読みます。貸出（かしだし）の「出」。でること",
+    "category": "送り仮名",
+    "targetKanji": "出"
+  },
+  {
+    "id": "g1st1773011288306",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「でぐち」→「___口」に入る漢字を書きましょう",
+    "answer": "出",
+    "hint": "読み方は「でぐち」。貸出（かしだし）の「出」。でること",
+    "category": "文章の穴埋め",
+    "targetKanji": "出"
+  },
+  {
+    "id": "g1rd1773011288307",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「出」の部首は？",
+    "answer": "うけばこ（凵）",
+    "choices": [
+      "かん（干）",
+      "いち（一）",
+      "くにがまえ（囗）",
+      "うけばこ（凵）"
+    ],
+    "hint": "部首の名前は「うけばこ」、「出」は「でること」に関する漢字",
+    "category": "部首",
+    "targetKanji": "出"
+  },
+  {
+    "id": "g1r1773011288308",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「女子」の読み方は？",
+    "answer": "じょし",
+    "choices": [
+      "なの",
+      "うわ",
+      "じょし",
+      "がっこう"
+    ],
+    "hint": "女子（じょし）の「女」。おんな",
+    "category": "熟語の読み",
+    "targetKanji": "女"
+  },
+  {
+    "id": "g1st1773011288310",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「じょし」→「___子」に入る漢字を書きましょう",
+    "answer": "女",
+    "hint": "読み方は「じょし」。女子（じょし）の「女」。おんな",
+    "category": "文章の穴埋め",
+    "targetKanji": "女"
+  },
+  {
+    "id": "g1rd1773011288311",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「女」の部首は？",
+    "answer": "おんな（女）",
+    "choices": [
+      "ひと（人）",
+      "おんな（女）",
+      "かい（貝）",
+      "いと（糸）"
+    ],
+    "hint": "部首の名前は「おんな」、「女」は「おんな」に関する漢字",
+    "category": "部首",
+    "targetKanji": "女"
+  },
+  {
+    "id": "g1r1773011288312",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「小さい」の読み方は？",
+    "answer": "ちいさい",
+    "choices": [
+      "コウ",
+      "くち",
+      "み",
+      "ちいさい"
+    ],
+    "hint": "小供（こども）の「小」。こ",
+    "category": "熟語の読み",
+    "targetKanji": "小"
+  },
+  {
+    "id": "g1ok1773011288313",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「小___」正しい送り仮名はどれ？",
+    "answer": "さい",
+    "choices": [
+      "しい",
+      "る",
+      "う",
+      "さい"
+    ],
+    "hint": "「ちいさい」と読みます。小供（こども）の「小」。こ",
+    "category": "送り仮名",
+    "targetKanji": "小"
+  },
+  {
+    "id": "g1st1773011288315",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ちいさい」→「___さい」に入る漢字を書きましょう",
+    "answer": "小",
+    "hint": "読み方は「ちいさい」。小供（こども）の「小」。こ",
+    "category": "文章の穴埋め",
+    "targetKanji": "小"
+  },
+  {
+    "id": "g1rd1773011288316",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「小」の部首は？",
+    "answer": "しょう（小）",
+    "choices": [
+      "にんにょう（儿）",
+      "しょう（小）",
+      "いと（糸）",
+      "き（木）"
+    ],
+    "hint": "部首の名前は「しょう」、「小」は「こ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "小"
+  },
+  {
+    "id": "g1r1773011288317",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「上る」の読み方は？",
+    "answer": "のぼる",
+    "choices": [
+      "けんがく",
+      "ふみ",
+      "のぼる",
+      "ひゃくえん"
+    ],
+    "hint": "上げる（あげる）の「上」",
+    "category": "熟語の読み",
+    "targetKanji": "上"
+  },
+  {
+    "id": "g1ok1773011288318",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「上___」正しい送り仮名はどれ？",
+    "answer": "げる",
+    "choices": [
+      "ある",
+      "い",
+      "げる",
+      "ける"
+    ],
+    "hint": "「あげる」と読みます。上げる（あげる）の「上」",
+    "category": "送り仮名",
+    "targetKanji": "上"
+  },
+  {
+    "id": "g1st1773011288319",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「のぼる」→「___る」に入る漢字を書きましょう",
+    "answer": "上",
+    "hint": "読み方は「のぼる」。上げる（あげる）の「上」",
+    "category": "文章の穴埋め",
+    "targetKanji": "上"
+  },
+  {
+    "id": "g1rd1773011288320",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「上」の部首は？",
+    "answer": "いち（一）",
+    "choices": [
+      "あお（青）",
+      "いち（一）",
+      "おう（王）",
+      "にち（日）"
+    ],
+    "hint": "部首の名前は「いち」",
+    "category": "部首",
+    "targetKanji": "上"
+  },
+  {
+    "id": "g1r1773011288321",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「森林」の読み方は？",
+    "answer": "しんりん",
+    "choices": [
+      "あし",
+      "しんりん",
+      "ちからもち",
+      "かい"
+    ],
+    "hint": "森林（しんりん）の「森」",
+    "category": "熟語の読み",
+    "targetKanji": "森"
+  },
+  {
+    "id": "g1st1773011288322",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「しんりん」→「___林」に入る漢字を書きましょう",
+    "answer": "森",
+    "hint": "読み方は「しんりん」。森林（しんりん）の「森」",
+    "category": "文章の穴埋め",
+    "targetKanji": "森"
+  },
+  {
+    "id": "g1rd1773011288323",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「森」の部首は？",
+    "answer": "き（木）",
+    "choices": [
+      "いと（糸）",
+      "き（木）",
+      "けいがまえ（冂）",
+      "とめる（止）"
+    ],
+    "hint": "部首の名前は「き」",
+    "category": "部首",
+    "targetKanji": "森"
+  },
+  {
+    "id": "g1r1773011288324",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「一人」の読み方は？",
+    "answer": "ひとり",
+    "choices": [
+      "あかい",
+      "ひとり",
+      "ほん",
+      "ダイ"
+    ],
+    "hint": "一人（ひとり）の「人」。ひと",
+    "category": "熟語の読み",
+    "targetKanji": "人"
+  },
+  {
+    "id": "g1st1773011288325",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ひとり」→「一___」に入る漢字を書きましょう",
+    "answer": "人",
+    "hint": "読み方は「ひとり」。一人（ひとり）の「人」。ひと",
+    "category": "文章の穴埋め",
+    "targetKanji": "人"
+  },
+  {
+    "id": "g1rd1773011288326",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「人」の部首は？",
+    "answer": "ひと（人）",
+    "choices": [
+      "にち（日）",
+      "あな（穴）",
+      "たつ（立）",
+      "ひと（人）"
+    ],
+    "hint": "部首の名前は「ひと」、「人」は「ひと」に関する漢字",
+    "category": "部首",
+    "targetKanji": "人"
+  },
+  {
+    "id": "g1st1773011288328",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「すいようび」→「___曜日」に入る漢字を書きましょう",
+    "answer": "水",
+    "hint": "読み方は「すいようび」。水準（すいじゅん）の「水」。みず",
+    "category": "文章の穴埋め",
+    "targetKanji": "水"
+  },
+  {
+    "id": "g1rd1773011288329",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「水」の部首は？",
+    "answer": "みず（水）",
+    "choices": [
+      "かん（干）",
+      "かね（金）",
+      "みず（水）",
+      "くち（口）"
+    ],
+    "hint": "部首の名前は「みず」、「水」は「みず」に関する漢字",
+    "category": "部首",
+    "targetKanji": "水"
+  },
+  {
+    "id": "g1r1773011288330",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「正しい」の読み方は？",
+    "answer": "ただしい",
+    "choices": [
+      "みつ",
+      "ただしい",
+      "ほん",
+      "とお"
+    ],
+    "hint": "改正（かいせい）の「正」。ただしい",
+    "category": "熟語の読み",
+    "targetKanji": "正"
+  },
+  {
+    "id": "g1st1773011288331",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ただしい」→「___しい」に入る漢字を書きましょう",
+    "answer": "正",
+    "hint": "読み方は「ただしい」。改正（かいせい）の「正」。ただしい",
+    "category": "文章の穴埋め",
+    "targetKanji": "正"
+  },
+  {
+    "id": "g1rd1773011288332",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「正」の部首は？",
+    "answer": "とめる（止）",
+    "choices": [
+      "とめる（止）",
+      "けいがまえ（冂）",
+      "ひと（人）",
+      "いし（石）"
+    ],
+    "hint": "部首の名前は「とめる」、「正」は「ただしい」に関する漢字",
+    "category": "部首",
+    "targetKanji": "正"
+  },
+  {
+    "id": "g1r1773011288333",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「先生」の読み方は？",
+    "answer": "せんせい",
+    "choices": [
+      "せんせい",
+      "すいどう",
+      "はやおき",
+      "ジョウ"
+    ],
+    "hint": "学生（がくせい）の「生」。いのち",
+    "category": "熟語の読み",
+    "targetKanji": "生"
+  },
+  {
+    "id": "g1ok1773011288334",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「生___」正しい送り仮名はどれ？",
+    "answer": "きる",
+    "choices": [
+      "きる",
+      "う",
+      "える",
+      "い"
+    ],
+    "hint": "「いきる」と読みます。学生（がくせい）の「生」。いのち",
+    "category": "送り仮名",
+    "targetKanji": "生"
+  },
+  {
+    "id": "g1st1773011288335",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「せんせい」→「先___」に入る漢字を書きましょう",
+    "answer": "生",
+    "hint": "読み方は「せんせい」。学生（がくせい）の「生」。いのち",
+    "category": "文章の穴埋め",
+    "targetKanji": "生"
+  },
+  {
+    "id": "g1rd1773011288336",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「生」の部首は？",
+    "answer": "いきる（生）",
+    "choices": [
+      "あな（穴）",
+      "みみ（耳）",
+      "いきる（生）",
+      "にんべん（亻）"
+    ],
+    "hint": "部首の名前は「いきる」、「生」は「いのち」に関する漢字",
+    "category": "部首",
+    "targetKanji": "生"
+  },
+  {
+    "id": "g1ok1773011288337",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「青___」正しい送り仮名はどれ？",
+    "answer": "い",
+    "choices": [
+      "ぐ",
+      "け",
+      "い",
+      "する"
+    ],
+    "hint": "「あおい」と読みます。青年（せいねん）の「青」",
+    "category": "送り仮名",
+    "targetKanji": "青"
+  },
+  {
+    "id": "g1st1773011288339",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「あおぞら」→「___空」に入る漢字を書きましょう",
+    "answer": "青",
+    "hint": "読み方は「あおぞら」。青年（せいねん）の「青」",
+    "category": "文章の穴埋め",
+    "targetKanji": "青"
+  },
+  {
+    "id": "g1rd1773011288340",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「青」の部首は？",
+    "answer": "あお（青）",
+    "choices": [
+      "ゆう（夕）",
+      "にち（日）",
+      "あな（穴）",
+      "あお（青）"
+    ],
+    "hint": "部首の名前は「あお」",
+    "category": "部首",
+    "targetKanji": "青"
+  },
+  {
+    "id": "g1r1773011288341",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「夕方」の読み方は？",
+    "answer": "ゆうがた",
+    "choices": [
+      "あか",
+      "ゆうがた",
+      "みつ",
+      "うてん"
+    ],
+    "hint": "夕食（ゆうしょく）の「夕」。ゆうがた",
+    "category": "熟語の読み",
+    "targetKanji": "夕"
+  },
+  {
+    "id": "g1st1773011288342",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ゆうがた」→「___方」に入る漢字を書きましょう",
+    "answer": "夕",
+    "hint": "読み方は「ゆうがた」。夕食（ゆうしょく）の「夕」。ゆうがた",
+    "category": "文章の穴埋め",
+    "targetKanji": "夕"
+  },
+  {
+    "id": "g1rd1773011288343",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「夕」の部首は？",
+    "answer": "ゆう（夕）",
+    "choices": [
+      "あか（赤）",
+      "ゆう（夕）",
+      "たつ（立）",
+      "くさかんむり（艹）"
+    ],
+    "hint": "部首の名前は「ゆう」、「夕」は「ゆうがた」に関する漢字",
+    "category": "部首",
+    "targetKanji": "夕"
+  },
+  {
+    "id": "g1r1773011288344",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「石ころ」の読み方は？",
+    "answer": "いしころ",
+    "choices": [
+      "でんしゃ",
+      "ギョク",
+      "いつ",
+      "いしころ"
+    ],
+    "hint": "石油（せきゆ）の「石」",
+    "category": "熟語の読み",
+    "targetKanji": "石"
+  },
+  {
+    "id": "g1st1773011288345",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「いしころ」→「___ころ」に入る漢字を書きましょう",
+    "answer": "石",
+    "hint": "読み方は「いしころ」。石油（せきゆ）の「石」",
+    "category": "文章の穴埋め",
+    "targetKanji": "石"
+  },
+  {
+    "id": "g1rd1773011288346",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「石」の部首は？",
+    "answer": "いし（石）",
+    "choices": [
+      "しろ（白）",
+      "おつ（乙）",
+      "おと（音）",
+      "いし（石）"
+    ],
+    "hint": "部首の名前は「いし」",
+    "category": "部首",
+    "targetKanji": "石"
+  },
+  {
+    "id": "g1r1773011288347",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「赤い」の読み方は？",
+    "answer": "あかい",
+    "choices": [
+      "なの",
+      "あかい",
+      "たてる",
+      "くち"
+    ],
+    "hint": "赤字（あかじ）の「赤」",
+    "category": "熟語の読み",
+    "targetKanji": "赤"
+  },
+  {
+    "id": "g1ok1773011288348",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「赤___」正しい送り仮名はどれ？",
+    "answer": "い",
+    "choices": [
+      "い",
+      "き",
+      "ける",
+      "る"
+    ],
+    "hint": "「あかい」と読みます。赤字（あかじ）の「赤」",
+    "category": "送り仮名",
+    "targetKanji": "赤"
+  },
+  {
+    "id": "g1st1773011288350",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「あかい」→「___い」に入る漢字を書きましょう",
+    "answer": "赤",
+    "hint": "読み方は「あかい」。赤字（あかじ）の「赤」",
+    "category": "文章の穴埋め",
+    "targetKanji": "赤"
+  },
+  {
+    "id": "g1rd1773011288351",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「赤」の部首は？",
+    "answer": "あか（赤）",
+    "choices": [
+      "かん（干）",
+      "あか（赤）",
+      "やま（山）",
+      "だい（大）"
+    ],
+    "hint": "部首の名前は「あか」",
+    "category": "部首",
+    "targetKanji": "赤"
+  },
+  {
+    "id": "g1r1773011288352",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「千円」の読み方は？",
+    "answer": "せんえん",
+    "choices": [
+      "ふみ",
+      "あおい",
+      "しんりん",
+      "せんえん"
+    ],
+    "hint": "三千（さんぜん）の「千」。おおい",
+    "category": "熟語の読み",
+    "targetKanji": "千"
+  },
+  {
+    "id": "g1st1773011288353",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「せんえん」→「___円」に入る漢字を書きましょう",
+    "answer": "千",
+    "hint": "読み方は「せんえん」。三千（さんぜん）の「千」。おおい",
+    "category": "文章の穴埋め",
+    "targetKanji": "千"
+  },
+  {
+    "id": "g1rd1773011288354",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「千」の部首は？",
+    "answer": "じゅう（十）",
+    "choices": [
+      "たつ（立）",
+      "じゅう（十）",
+      "けいがまえ（冂）",
+      "き（木）"
+    ],
+    "hint": "部首の名前は「じゅう」、「千」は「おおい」に関する漢字",
+    "category": "部首",
+    "targetKanji": "千"
+  },
+  {
+    "id": "g1r1773011288355",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「小川」の読み方は？",
+    "answer": "おがわ",
+    "choices": [
+      "こいぬ",
+      "ソク",
+      "おがわ",
+      "でぐち"
+    ],
+    "hint": "川口（かわぐち）の「川」。かわ",
+    "category": "熟語の読み",
+    "targetKanji": "川"
+  },
+  {
+    "id": "g1st1773011288357",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「おがわ」→「小___」に入る漢字を書きましょう",
+    "answer": "川",
+    "hint": "読み方は「おがわ」。川口（かわぐち）の「川」。かわ",
+    "category": "文章の穴埋め",
+    "targetKanji": "川"
+  },
+  {
+    "id": "g1rd1773011288358",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「川」の部首は？",
+    "answer": "かわ（川）",
+    "choices": [
+      "くさかんむり（艹）",
+      "いぬ（犬）",
+      "くち（口）",
+      "かわ（川）"
+    ],
+    "hint": "部首の名前は「かわ」、「川」は「かわ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "川"
+  },
+  {
+    "id": "g1ok1773011288359",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「先___」正しい送り仮名はどれ？",
+    "answer": "ず",
+    "choices": [
+      "きい",
+      "った",
+      "さい",
+      "ず"
+    ],
+    "hint": "「さき」と読みます。先月（せんげつ）の「先」",
+    "category": "送り仮名",
+    "targetKanji": "先"
+  },
+  {
+    "id": "g1rd1773011288360",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「先」の部首は？",
+    "answer": "にんにょう（儿）",
+    "choices": [
+      "くち（口）",
+      "に（二）",
+      "にんにょう（儿）",
+      "あめ（雨）"
+    ],
+    "hint": "部首の名前は「にんにょう」",
+    "category": "部首",
+    "targetKanji": "先"
+  },
+  {
+    "id": "g1r1773011288361",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「早い」の読み方は？",
+    "answer": "はやい",
+    "choices": [
+      "シャク",
+      "はやい",
+      "まず",
+      "くさばな"
+    ],
+    "hint": "早い（はやい）の「早」。はやい",
+    "category": "熟語の読み",
+    "targetKanji": "早"
+  },
+  {
+    "id": "g1ok1773011288362",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「早___」正しい送り仮名はどれ？",
+    "answer": "い",
+    "choices": [
+      "い",
+      "す",
+      "たい",
+      "める"
+    ],
+    "hint": "「はやい」と読みます。早い（はやい）の「早」。はやい",
+    "category": "送り仮名",
+    "targetKanji": "早"
+  },
+  {
+    "id": "g1st1773011288363",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「はやい」→「___い」に入る漢字を書きましょう",
+    "answer": "早",
+    "hint": "読み方は「はやい」。早い（はやい）の「早」。はやい",
+    "category": "文章の穴埋め",
+    "targetKanji": "早"
+  },
+  {
+    "id": "g1rd1773011288364",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「早」の部首は？",
+    "answer": "にち（日）",
+    "choices": [
+      "たつ（立）",
+      "しょう（小）",
+      "いぬ（犬）",
+      "にち（日）"
+    ],
+    "hint": "部首の名前は「にち」、「早」は「はやい」に関する漢字",
+    "category": "部首",
+    "targetKanji": "早"
+  },
+  {
+    "id": "g1r1773011288365",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「草花」の読み方は？",
+    "answer": "くさばな",
+    "choices": [
+      "くさばな",
+      "リョク",
+      "クウ",
+      "あお"
+    ],
+    "hint": "草綿（わた）の「草」。くさ",
+    "category": "熟語の読み",
+    "targetKanji": "草"
+  },
+  {
+    "id": "g1st1773011288366",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「くさばな」→「___花」に入る漢字を書きましょう",
+    "answer": "草",
+    "hint": "読み方は「くさばな」。草綿（わた）の「草」。くさ",
+    "category": "文章の穴埋め",
+    "targetKanji": "草"
+  },
+  {
+    "id": "g1rd1773011288367",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「草」の部首は？",
+    "answer": "くさかんむり（艹）",
+    "choices": [
+      "いる（入）",
+      "たつ（立）",
+      "くさかんむり（艹）",
+      "かん（干）"
+    ],
+    "hint": "部首の名前は「くさかんむり」、「草」は「くさ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "草"
+  },
+  {
+    "id": "g1r1773011288368",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「足りる」の読み方は？",
+    "answer": "たりる",
+    "choices": [
+      "とおか",
+      "おがわ",
+      "たりる",
+      "さんびゃく"
+    ],
+    "hint": "足跡（あしあと）の「足」。あし",
+    "category": "熟語の読み",
+    "targetKanji": "足"
+  },
+  {
+    "id": "g1ok1773011288369",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「足___」正しい送り仮名はどれ？",
+    "answer": "りる",
+    "choices": [
+      "む",
+      "ける",
+      "りる",
+      "って"
+    ],
+    "hint": "「たりる」と読みます。足跡（あしあと）の「足」。あし",
+    "category": "送り仮名",
+    "targetKanji": "足"
+  },
+  {
+    "id": "g1st1773011288370",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「たりる」→「___りる」に入る漢字を書きましょう",
+    "answer": "足",
+    "hint": "読み方は「たりる」。足跡（あしあと）の「足」。あし",
+    "category": "文章の穴埋め",
+    "targetKanji": "足"
+  },
+  {
+    "id": "g1rd1773011288371",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「足」の部首は？",
+    "answer": "あし（足）",
+    "choices": [
+      "おう（王）",
+      "あし（足）",
+      "にんべん（亻）",
+      "みず（水）"
+    ],
+    "hint": "部首の名前は「あし」、「足」は「あし」に関する漢字",
+    "category": "部首",
+    "targetKanji": "足"
+  },
+  {
+    "id": "g1r1773011288372",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「村人」の読み方は？",
+    "answer": "むらびと",
+    "choices": [
+      "はいる",
+      "しろい",
+      "む",
+      "むらびと"
+    ],
+    "hint": "農村（のうそん）の「村」。まち",
+    "category": "熟語の読み",
+    "targetKanji": "村"
+  },
+  {
+    "id": "g1st1773011288373",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「むらびと」→「___人」に入る漢字を書きましょう",
+    "answer": "村",
+    "hint": "読み方は「むらびと」。農村（のうそん）の「村」。まち",
+    "category": "文章の穴埋め",
+    "targetKanji": "村"
+  },
+  {
+    "id": "g1rd1773011288374",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「村」の部首は？",
+    "answer": "き（木）",
+    "choices": [
+      "くさかんむり（艹）",
+      "おと（音）",
+      "き（木）",
+      "た（田）"
+    ],
+    "hint": "部首の名前は「き」、「村」は「まち」に関する漢字",
+    "category": "部首",
+    "targetKanji": "村"
+  },
+  {
+    "id": "g1st1773011288375",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「おおきい」→「___きい」に入る漢字を書きましょう",
+    "answer": "大",
+    "hint": "読み方は「おおきい」。最大（さいだい）の「大」。おおきい",
+    "category": "文章の穴埋め",
+    "targetKanji": "大"
+  },
+  {
+    "id": "g1rd1773011288376",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「大」の部首は？",
+    "answer": "だい（大）",
+    "choices": [
+      "おう（王）",
+      "だい（大）",
+      "いぬ（犬）",
+      "はち（八）"
+    ],
+    "hint": "部首の名前は「だい」、「大」は「おおきい」に関する漢字",
+    "category": "部首",
+    "targetKanji": "大"
+  },
+  {
+    "id": "g1r1773011288377",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「男子」の読み方は？",
+    "answer": "だんし",
+    "choices": [
+      "ニョ",
+      "ケ",
+      "ふじさん",
+      "だんし"
+    ],
+    "hint": "長男（ちょうなん）の「男」",
+    "category": "熟語の読み",
+    "targetKanji": "男"
+  },
+  {
+    "id": "g1st1773011288378",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「だんし」→「___子」に入る漢字を書きましょう",
+    "answer": "男",
+    "hint": "読み方は「だんし」。長男（ちょうなん）の「男」",
+    "category": "文章の穴埋め",
+    "targetKanji": "男"
+  },
+  {
+    "id": "g1rd1773011288379",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「男」の部首は？",
+    "answer": "た（田）",
+    "choices": [
+      "た（田）",
+      "しょう（小）",
+      "はち（八）",
+      "いち（一）"
+    ],
+    "hint": "部首の名前は「た」",
+    "category": "部首",
+    "targetKanji": "男"
+  },
+  {
+    "id": "g1r1773011288380",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「竹やぶ」の読み方は？",
+    "answer": "たけやぶ",
+    "choices": [
+      "コン",
+      "ひとつ",
+      "イン",
+      "たけやぶ"
+    ],
+    "hint": "竹林（ちくりん）の「竹」",
+    "category": "熟語の読み",
+    "targetKanji": "竹"
+  },
+  {
+    "id": "g1st1773011288381",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「たけやぶ」→「___やぶ」に入る漢字を書きましょう",
+    "answer": "竹",
+    "hint": "読み方は「たけやぶ」。竹林（ちくりん）の「竹」",
+    "category": "文章の穴埋め",
+    "targetKanji": "竹"
+  },
+  {
+    "id": "g1rd1773011288382",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「竹」の部首は？",
+    "answer": "たけ（竹）",
+    "choices": [
+      "たけ（竹）",
+      "みる（見）",
+      "あな（穴）",
+      "に（二）"
+    ],
+    "hint": "部首の名前は「たけ」",
+    "category": "部首",
+    "targetKanji": "竹"
+  },
+  {
+    "id": "g1r1773011288383",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「中学校」の読み方は？",
+    "answer": "ちゅうがっこう",
+    "choices": [
+      "ろくがつ",
+      "まず",
+      "ちゅうがっこう",
+      "むらびと"
+    ],
+    "hint": "中央（ちゅうおう）の「中」",
+    "category": "熟語の読み",
+    "targetKanji": "中"
+  },
+  {
+    "id": "g1st1773011288384",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ちゅうがっこう」→「___学校」に入る漢字を書きましょう",
+    "answer": "中",
+    "hint": "読み方は「ちゅうがっこう」。中央（ちゅうおう）の「中」",
+    "category": "文章の穴埋め",
+    "targetKanji": "中"
+  },
+  {
+    "id": "g1rd1773011288385",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「中」の部首は？",
+    "answer": "ぼう（丨）",
+    "choices": [
+      "ゆう（夕）",
+      "けいがまえ（冂）",
+      "ぼう（丨）",
+      "くさかんむり（艹）"
+    ],
+    "hint": "部首の名前は「ぼう」",
+    "category": "部首",
+    "targetKanji": "中"
+  },
+  {
+    "id": "g1r1773011288386",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「虫取り」の読み方は？",
+    "answer": "むしとり",
+    "choices": [
+      "げんき",
+      "ダン",
+      "ごがつ",
+      "むしとり"
+    ],
+    "hint": "昆虫（こんちゅう）の「虫」。むし",
+    "category": "熟語の読み",
+    "targetKanji": "虫"
+  },
+  {
+    "id": "g1st1773011288387",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「むしとり」→「___取り」に入る漢字を書きましょう",
+    "answer": "虫",
+    "hint": "読み方は「むしとり」。昆虫（こんちゅう）の「虫」。むし",
+    "category": "文章の穴埋め",
+    "targetKanji": "虫"
+  },
+  {
+    "id": "g1rd1773011288388",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「虫」の部首は？",
+    "answer": "むし（虫）",
+    "choices": [
+      "じゅう（十）",
+      "にち（日）",
+      "むし（虫）",
+      "いち（一）"
+    ],
+    "hint": "部首の名前は「むし」、「虫」は「むし」に関する漢字",
+    "category": "部首",
+    "targetKanji": "虫"
+  },
+  {
+    "id": "g1r1773011288389",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「町並み」の読み方は？",
+    "answer": "まちなみ",
+    "choices": [
+      "うわ",
+      "まちなみ",
+      "ニン",
+      "あげる"
+    ],
+    "hint": "下町（したまち）の「町」。まち",
+    "category": "熟語の読み",
+    "targetKanji": "町"
+  },
+  {
+    "id": "g1st1773011288390",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「まちなみ」→「___並み」に入る漢字を書きましょう",
+    "answer": "町",
+    "hint": "読み方は「まちなみ」。下町（したまち）の「町」。まち",
+    "category": "文章の穴埋め",
+    "targetKanji": "町"
+  },
+  {
+    "id": "g1rd1773011288391",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「町」の部首は？",
+    "answer": "た（田）",
+    "choices": [
+      "かね（金）",
+      "あな（穴）",
+      "た（田）",
+      "ぶん（文）"
+    ],
+    "hint": "部首の名前は「た」、「町」は「まち」に関する漢字",
+    "category": "部首",
+    "targetKanji": "町"
+  },
+  {
+    "id": "g1rd1773011288392",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「天」の部首は？",
+    "answer": "だい（大）",
+    "choices": [
+      "だい（大）",
+      "たま（玉）",
+      "くさかんむり（艹）",
+      "いる（入）"
+    ],
+    "hint": "部首の名前は「だい」",
+    "category": "部首",
+    "targetKanji": "天"
+  },
+  {
+    "id": "g1r1773011288393",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「田んぼ」の読み方は？",
+    "answer": "たんぼ",
+    "choices": [
+      "ここの",
+      "がっこう",
+      "たんぼ",
+      "まちなみ"
+    ],
+    "hint": "水田（すいでん）の「田」",
+    "category": "熟語の読み",
+    "targetKanji": "田"
+  },
+  {
+    "id": "g1st1773011288394",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「たんぼ」→「___んぼ」に入る漢字を書きましょう",
+    "answer": "田",
+    "hint": "読み方は「たんぼ」。水田（すいでん）の「田」",
+    "category": "文章の穴埋め",
+    "targetKanji": "田"
+  },
+  {
+    "id": "g1rd1773011288395",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「田」の部首は？",
+    "answer": "た（田）",
+    "choices": [
+      "いと（糸）",
+      "みみ（耳）",
+      "た（田）",
+      "やま（山）"
+    ],
+    "hint": "部首の名前は「た」",
+    "category": "部首",
+    "targetKanji": "田"
+  },
+  {
+    "id": "g1r1773011288396",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「土曜日」の読み方は？",
+    "answer": "どようび",
+    "choices": [
+      "コウ",
+      "どようび",
+      "くるま",
+      "ジョウ"
+    ],
+    "hint": "領土（りょうど）の「土」。つち",
+    "category": "熟語の読み",
+    "targetKanji": "土"
+  },
+  {
+    "id": "g1rd1773011288397",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「土」の部首は？",
+    "answer": "つち（土）",
+    "choices": [
+      "つち（土）",
+      "たつ（立）",
+      "ひ（火）",
+      "いきる（生）"
+    ],
+    "hint": "部首の名前は「つち」、「土」は「つち」に関する漢字",
+    "category": "部首",
+    "targetKanji": "土"
+  },
+  {
+    "id": "g1r1773011288398",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「二つ」の読み方は？",
+    "answer": "ふたつ",
+    "choices": [
+      "ふたつ",
+      "ク",
+      "みぎ",
+      "じゅうがつ"
+    ],
+    "hint": "二人（ふたり）の「二」",
+    "category": "熟語の読み",
+    "targetKanji": "二"
+  },
+  {
+    "id": "g1ok1773011288399",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「二___」正しい送り仮名はどれ？",
+    "answer": "つ",
+    "choices": [
+      "う",
+      "ない",
+      "つ",
+      "て"
+    ],
+    "hint": "「ふたつ」と読みます。二人（ふたり）の「二」",
+    "category": "送り仮名",
+    "targetKanji": "二"
+  },
+  {
+    "id": "g1st1773011288400",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ふたつ」→「___つ」に入る漢字を書きましょう",
+    "answer": "二",
+    "hint": "読み方は「ふたつ」。二人（ふたり）の「二」",
+    "category": "文章の穴埋め",
+    "targetKanji": "二"
+  },
+  {
+    "id": "g1rd1773011288401",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「二」の部首は？",
+    "answer": "に（二）",
+    "choices": [
+      "じゅう（十）",
+      "かわ（川）",
+      "に（二）",
+      "やま（山）"
+    ],
+    "hint": "部首の名前は「に」",
+    "category": "部首",
+    "targetKanji": "二"
+  },
+  {
+    "id": "g1r1773011288402",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「日曜日」の読み方は？",
+    "answer": "にちようび",
+    "choices": [
+      "つき",
+      "いぬごや",
+      "にちようび",
+      "おがわ"
+    ],
+    "hint": "毎日（まいにち）の「日」。ひ",
+    "category": "熟語の読み",
+    "targetKanji": "日"
+  },
+  {
+    "id": "g1st1773011288403",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「にちようび」→「___曜日」に入る漢字を書きましょう",
+    "answer": "日",
+    "hint": "読み方は「にちようび」。毎日（まいにち）の「日」。ひ",
+    "category": "文章の穴埋め",
+    "targetKanji": "日"
+  },
+  {
+    "id": "g1rd1773011288404",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「日」の部首は？",
+    "answer": "にち（日）",
+    "choices": [
+      "にち（日）",
+      "て（手）",
+      "むし（虫）",
+      "にんにょう（儿）"
+    ],
+    "hint": "部首の名前は「にち」、「日」は「ひ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "日"
+  },
+  {
+    "id": "g1ok1773011288405",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「入___」正しい送り仮名はどれ？",
+    "answer": "る",
+    "choices": [
+      "け",
+      "く",
+      "み",
+      "る"
+    ],
+    "hint": "「いる」と読みます。輸入（ゆにゅう）の「入」。はいること",
+    "category": "送り仮名",
+    "targetKanji": "入"
+  },
+  {
+    "id": "g1st1773011288406",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「いりぐち」→「___口」に入る漢字を書きましょう",
+    "answer": "入",
+    "hint": "読み方は「いりぐち」。輸入（ゆにゅう）の「入」。はいること",
+    "category": "文章の穴埋め",
+    "targetKanji": "入"
+  },
+  {
+    "id": "g1rd1773011288407",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「入」の部首は？",
+    "answer": "いる（入）",
+    "choices": [
+      "おつ（乙）",
+      "て（手）",
+      "おと（音）",
+      "いる（入）"
+    ],
+    "hint": "部首の名前は「いる」、「入」は「はいること」に関する漢字",
+    "category": "部首",
+    "targetKanji": "入"
+  },
+  {
+    "id": "g1r1773011288408",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「今年」の読み方は？",
+    "answer": "ことし",
+    "choices": [
+      "イン",
+      "ことし",
+      "キ",
+      "ジン"
+    ],
+    "hint": "昨年（さくねん）の「年」。とし",
+    "category": "熟語の読み",
+    "targetKanji": "年"
+  },
+  {
+    "id": "g1st1773011288409",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ことし」→「今___」に入る漢字を書きましょう",
+    "answer": "年",
+    "hint": "読み方は「ことし」。昨年（さくねん）の「年」。とし",
+    "category": "文章の穴埋め",
+    "targetKanji": "年"
+  },
+  {
+    "id": "g1rd1773011288410",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「年」の部首は？",
+    "answer": "かん（干）",
+    "choices": [
+      "かん（干）",
+      "くさかんむり（艹）",
+      "あか（赤）",
+      "あお（青）"
+    ],
+    "hint": "部首の名前は「かん」、「年」は「とし」に関する漢字",
+    "category": "部首",
+    "targetKanji": "年"
+  },
+  {
+    "id": "g1r1773011288411",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「白い」の読み方は？",
+    "answer": "しろい",
+    "choices": [
+      "くち",
+      "たんぼ",
+      "おおあめ",
+      "しろい"
+    ],
+    "hint": "白書（はくしょ）の「白」",
+    "category": "熟語の読み",
+    "targetKanji": "白"
+  },
+  {
+    "id": "g1ok1773011288412",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「白___」正しい送り仮名はどれ？",
+    "answer": "い",
+    "choices": [
+      "ぬ",
+      "い",
+      "ない",
+      "べる"
+    ],
+    "hint": "「しろい」と読みます。白書（はくしょ）の「白」",
+    "category": "送り仮名",
+    "targetKanji": "白"
+  },
+  {
+    "id": "g1st1773011288413",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「しろい」→「___い」に入る漢字を書きましょう",
+    "answer": "白",
+    "hint": "読み方は「しろい」。白書（はくしょ）の「白」",
+    "category": "文章の穴埋め",
+    "targetKanji": "白"
+  },
+  {
+    "id": "g1rd1773011288414",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「白」の部首は？",
+    "answer": "しろ（白）",
+    "choices": [
+      "むし（虫）",
+      "しろ（白）",
+      "にち（日）",
+      "おつ（乙）"
+    ],
+    "hint": "部首の名前は「しろ」",
+    "category": "部首",
+    "targetKanji": "白"
+  },
+  {
+    "id": "g1r1773011288415",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「八つ」の読み方は？",
+    "answer": "やっつ",
+    "choices": [
+      "かみ",
+      "やっつ",
+      "まさ",
+      "な"
+    ],
+    "hint": "八月（はちがつ）の「八」",
+    "category": "熟語の読み",
+    "targetKanji": "八"
+  },
+  {
+    "id": "g1ok1773011288416",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「八___」正しい送り仮名はどれ？",
+    "answer": "つ",
+    "choices": [
+      "ある",
+      "つ",
+      "かる",
+      "い"
+    ],
+    "hint": "「やつ」と読みます。八月（はちがつ）の「八」",
+    "category": "送り仮名",
+    "targetKanji": "八"
+  },
+  {
+    "id": "g1st1773011288417",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「やっつ」→「___つ」に入る漢字を書きましょう",
+    "answer": "八",
+    "hint": "読み方は「やっつ」。八月（はちがつ）の「八」",
+    "category": "文章の穴埋め",
+    "targetKanji": "八"
+  },
+  {
+    "id": "g1rd1773011288418",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「八」の部首は？",
+    "answer": "はち（八）",
+    "choices": [
+      "うけばこ（凵）",
+      "くち（口）",
+      "はち（八）",
+      "て（手）"
+    ],
+    "hint": "部首の名前は「はち」",
+    "category": "部首",
+    "targetKanji": "八"
+  },
+  {
+    "id": "g1r1773011288419",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「百円」の読み方は？",
+    "answer": "ひゃくえん",
+    "choices": [
+      "セイ",
+      "もりのなか",
+      "や",
+      "ひゃくえん"
+    ],
+    "hint": "二百（にひゃく）の「百」",
+    "category": "熟語の読み",
+    "targetKanji": "百"
+  },
+  {
+    "id": "g1st1773011288420",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ひゃくえん」→「___円」に入る漢字を書きましょう",
+    "answer": "百",
+    "hint": "読み方は「ひゃくえん」。二百（にひゃく）の「百」",
+    "category": "文章の穴埋め",
+    "targetKanji": "百"
+  },
+  {
+    "id": "g1rd1773011288421",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「百」の部首は？",
+    "answer": "しろ（白）",
+    "choices": [
+      "あか（赤）",
+      "かね（金）",
+      "うけばこ（凵）",
+      "しろ（白）"
+    ],
+    "hint": "部首の名前は「しろ」",
+    "category": "部首",
+    "targetKanji": "百"
+  },
+  {
+    "id": "g1r1773011288422",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「文字」の読み方は？",
+    "answer": "もじ",
+    "choices": [
+      "ひとつ",
+      "げつようび",
+      "いと",
+      "もじ"
+    ],
+    "hint": "文化（ぶんか）の「文」。げいじゅつ",
+    "category": "熟語の読み",
+    "targetKanji": "文"
+  },
+  {
+    "id": "g1st1773011288423",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「もじ」→「___字」に入る漢字を書きましょう",
+    "answer": "文",
+    "hint": "読み方は「もじ」。文化（ぶんか）の「文」。げいじゅつ",
+    "category": "文章の穴埋め",
+    "targetKanji": "文"
+  },
+  {
+    "id": "g1rd1773011288424",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「文」の部首は？",
+    "answer": "ぶん（文）",
+    "choices": [
+      "つち（土）",
+      "うけばこ（凵）",
+      "ぶん（文）",
+      "め（目）"
+    ],
+    "hint": "部首の名前は「ぶん」、「文」は「げいじゅつ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "文"
+  },
+  {
+    "id": "g1r1773011288425",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「木曜日」の読み方は？",
+    "answer": "もくようび",
+    "choices": [
+      "だす",
+      "いつ",
+      "もくようび",
+      "やま"
+    ],
+    "hint": "木造（もくぞう）の「木」。き",
+    "category": "熟語の読み",
+    "targetKanji": "木"
+  },
+  {
+    "id": "g1st1773011288426",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「もくようび」→「___曜日」に入る漢字を書きましょう",
+    "answer": "木",
+    "hint": "読み方は「もくようび」。木造（もくぞう）の「木」。き",
+    "category": "文章の穴埋め",
+    "targetKanji": "木"
+  },
+  {
+    "id": "g1rd1773011288427",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「木」の部首は？",
+    "answer": "き（木）",
+    "choices": [
+      "て（手）",
+      "ひ（火）",
+      "き（木）",
+      "に（二）"
+    ],
+    "hint": "部首の名前は「き」、「木」は「き」に関する漢字",
+    "category": "部首",
+    "targetKanji": "木"
+  },
+  {
+    "id": "g1r1773011288428",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「本」の読み方は？",
+    "answer": "ほん",
+    "choices": [
+      "ス",
+      "ク",
+      "ほん",
+      "うてん"
+    ],
+    "hint": "本部（ほんぶ）の「本」。ほん",
+    "category": "熟語の読み",
+    "targetKanji": "本"
+  },
+  {
+    "id": "g1rd1773011288429",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「本」の部首は？",
+    "answer": "き（木）",
+    "choices": [
+      "くち（口）",
+      "みず（水）",
+      "き（木）",
+      "いち（一）"
+    ],
+    "hint": "部首の名前は「き」、「本」は「ほん」に関する漢字",
+    "category": "部首",
+    "targetKanji": "本"
+  },
+  {
+    "id": "g1r1773011288430",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「名前」の読み方は？",
+    "answer": "なまえ",
+    "choices": [
+      "キ",
+      "なまえ",
+      "じょし",
+      "はいる"
+    ],
+    "hint": "名前（なまえ）の「名」。なまえ",
+    "category": "熟語の読み",
+    "targetKanji": "名"
+  },
+  {
+    "id": "g1st1773011288431",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「なまえ」→「___前」に入る漢字を書きましょう",
+    "answer": "名",
+    "hint": "読み方は「なまえ」。名前（なまえ）の「名」。なまえ",
+    "category": "文章の穴埋め",
+    "targetKanji": "名"
+  },
+  {
+    "id": "g1rd1773011288432",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「名」の部首は？",
+    "answer": "くち（口）",
+    "choices": [
+      "くち（口）",
+      "いる（入）",
+      "かわ（川）",
+      "ひ（火）"
+    ],
+    "hint": "部首の名前は「くち」、「名」は「なまえ」に関する漢字",
+    "category": "部首",
+    "targetKanji": "名"
+  },
+  {
+    "id": "g1r1773011288433",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「目玉」の読み方は？",
+    "answer": "めだま",
+    "choices": [
+      "おお",
+      "てがみ",
+      "めだま",
+      "ボク"
+    ],
+    "hint": "目的（もくてき）の「目」。くらす",
+    "category": "熟語の読み",
+    "targetKanji": "目"
+  },
+  {
+    "id": "g1st1773011288434",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「めだま」→「___玉」に入る漢字を書きましょう",
+    "answer": "目",
+    "hint": "読み方は「めだま」。目的（もくてき）の「目」。くらす",
+    "category": "文章の穴埋め",
+    "targetKanji": "目"
+  },
+  {
+    "id": "g1rd1773011288435",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「目」の部首は？",
+    "answer": "め（目）",
+    "choices": [
+      "め（目）",
+      "くち（口）",
+      "にんにょう（儿）",
+      "あめ（雨）"
+    ],
+    "hint": "部首の名前は「め」、「目」は「くらす」に関する漢字",
+    "category": "部首",
+    "targetKanji": "目"
+  },
+  {
+    "id": "g1r1773011288436",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「立つ」の読み方は？",
+    "answer": "たつ",
+    "choices": [
+      "まち",
+      "たつ",
+      "いぬ",
+      "まさ"
+    ],
+    "hint": "立場（たちば）の「立」。あがること",
+    "category": "熟語の読み",
+    "targetKanji": "立"
+  },
+  {
+    "id": "g1st1773011288437",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「たつ」→「___つ」に入る漢字を書きましょう",
+    "answer": "立",
+    "hint": "読み方は「たつ」。立場（たちば）の「立」。あがること",
+    "category": "文章の穴埋め",
+    "targetKanji": "立"
+  },
+  {
+    "id": "g1rd1773011288438",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「立」の部首は？",
+    "answer": "たつ（立）",
+    "choices": [
+      "たつ（立）",
+      "くにがまえ（囗）",
+      "いと（糸）",
+      "あめ（雨）"
+    ],
+    "hint": "部首の名前は「たつ」、「立」は「あがること」に関する漢字",
+    "category": "部首",
+    "targetKanji": "立"
+  },
+  {
+    "id": "g1r1773011288439",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「力持ち」の読み方は？",
+    "answer": "ちからもち",
+    "choices": [
+      "あしおと",
+      "なな",
+      "ちからもち",
+      "カ"
+    ],
+    "hint": "共力（きょうりょく）の「力」。きょうりょく",
+    "category": "熟語の読み",
+    "targetKanji": "力"
+  },
+  {
+    "id": "g1st1773011288440",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「ちからもち」→「___持ち」に入る漢字を書きましょう",
+    "answer": "力",
+    "hint": "読み方は「ちからもち」。共力（きょうりょく）の「力」。きょうりょく",
+    "category": "文章の穴埋め",
+    "targetKanji": "力"
+  },
+  {
+    "id": "g1rd1773011288441",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「力」の部首は？",
+    "answer": "ちから（力）",
+    "choices": [
+      "かい（貝）",
+      "たくみ（工）",
+      "ちから（力）",
+      "あめ（雨）"
+    ],
+    "hint": "部首の名前は「ちから」、「力」は「きょうりょく」に関する漢字",
+    "category": "部首",
+    "targetKanji": "力"
+  },
+  {
+    "id": "g1r1773011288442",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「林」の読み方は？",
+    "answer": "はやし",
+    "choices": [
+      "みみ",
+      "はやし",
+      "いと",
+      "かざん"
+    ],
+    "hint": "森林（しんりん）の「林」",
+    "category": "熟語の読み",
+    "targetKanji": "林"
+  },
+  {
+    "id": "g1rd1773011288443",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「林」の部首は？",
+    "answer": "き（木）",
+    "choices": [
+      "にち（日）",
+      "きがまえ（气）",
+      "き（木）",
+      "たま（玉）"
+    ],
+    "hint": "部首の名前は「き」",
+    "category": "部首",
+    "targetKanji": "林"
+  },
+  {
+    "id": "g1r1773011288444",
+    "type": "reading",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「六つ」の読み方は？",
+    "answer": "むっつ",
+    "choices": [
+      "ひだり",
+      "むっつ",
+      "うまれる",
+      "キン"
+    ],
+    "hint": "六月（ろくがつ）の「六」",
+    "category": "熟語の読み",
+    "targetKanji": "六"
+  },
+  {
+    "id": "g1ok1773011288445",
+    "type": "okurigana",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「六___」正しい送り仮名はどれ？",
+    "answer": "つ",
+    "choices": [
+      "て",
+      "つ",
+      "せ",
+      "りる"
+    ],
+    "hint": "「むつ」と読みます。六月（ろくがつ）の「六」",
+    "category": "送り仮名",
+    "targetKanji": "六"
+  },
+  {
+    "id": "g1st1773011288446",
+    "type": "sentence",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「むっつ」→「___つ」に入る漢字を書きましょう",
+    "answer": "六",
+    "hint": "読み方は「むっつ」。六月（ろくがつ）の「六」",
+    "category": "文章の穴埋め",
+    "targetKanji": "六"
+  },
+  {
+    "id": "g1rd1773011288447",
+    "type": "radical",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「六」の部首は？",
+    "answer": "はち（八）",
+    "choices": [
+      "きがまえ（气）",
+      "たけ（竹）",
+      "かわ（川）",
+      "はち（八）"
+    ],
+    "hint": "部首の名前は「はち」",
+    "category": "部首",
+    "targetKanji": "六"
+  },
+  {
+    "id": "g1an1773012417647",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「右」の反対の意味の漢字は？",
+    "answer": "左",
+    "choices": [
+      "金",
+      "左",
+      "子",
+      "水"
+    ],
+    "hint": "「右」は右翼（うよく）の「右」。ただしい。答えは左翼（さよく）の「左」",
+    "category": "対義語",
+    "targetKanji": "右"
+  },
+  {
+    "id": "g1an1773012417648",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「下」の反対の意味の漢字は？",
+    "answer": "上",
+    "choices": [
+      "上",
+      "見",
+      "山",
+      "花"
+    ],
+    "hint": "「下」は下車（げしゃ）の「下」。ひくい。答えは上げる（あげる）の「上」",
+    "category": "対義語",
+    "targetKanji": "下"
+  },
+  {
+    "id": "g1an1773012417649",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「火」の反対の意味の漢字は？",
+    "answer": "水",
+    "choices": [
+      "早",
+      "田",
+      "水",
+      "男"
+    ],
+    "hint": "「火」は灯火（あかり）の「火」。ひ。答えは水準（すいじゅん）の「水」。みず",
+    "category": "対義語",
+    "targetKanji": "火"
+  },
+  {
+    "id": "g1an1773012417650",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「月」の反対の意味の漢字は？",
+    "answer": "日",
+    "choices": [
+      "白",
+      "足",
+      "日",
+      "土"
+    ],
+    "hint": "「月」は今月（こんげつ）の「月」。つき。答えは毎日（まいにち）の「日」。ひ",
+    "category": "対義語",
+    "targetKanji": "月"
+  },
+  {
+    "id": "g1an1773012417651",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「左」の反対の意味の漢字は？",
+    "answer": "右",
+    "choices": [
+      "土",
+      "青",
+      "千",
+      "右"
+    ],
+    "hint": "「左」は左翼（さよく）の「左」。答えは右翼（うよく）の「右」。ただしい",
+    "category": "対義語",
+    "targetKanji": "左"
+  },
+  {
+    "id": "g1an1773012417652",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「山」の反対の意味の漢字は？",
+    "answer": "川",
+    "choices": [
+      "音",
+      "水",
+      "川",
+      "車"
+    ],
+    "hint": "「山」は火山（かざん）の「山」。やま。答えは川口（かわぐち）の「川」。かわ",
+    "category": "対義語",
+    "targetKanji": "山"
+  },
+  {
+    "id": "g1an1773012417653",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「耳」の反対の意味の漢字は？",
+    "answer": "目",
+    "choices": [
+      "目",
+      "金",
+      "林",
+      "校"
+    ],
+    "hint": "「耳」は耳目（じもく）の「耳」。みみ。答えは目的（もくてき）の「目」。くらす",
+    "category": "対義語",
+    "targetKanji": "耳"
+  },
+  {
+    "id": "g1an1773012417654",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「手」の反対の意味の漢字は？",
+    "answer": "足",
+    "choices": [
+      "王",
+      "足",
+      "生",
+      "金"
+    ],
+    "hint": "「手」は選手（せんしゅ）の「手」。て。答えは足跡（あしあと）の「足」。あし",
+    "category": "対義語",
+    "targetKanji": "手"
+  },
+  {
+    "id": "g1an1773012417655",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「出」の反対の意味の漢字は？",
+    "answer": "入",
+    "choices": [
+      "入",
+      "火",
+      "九",
+      "男"
+    ],
+    "hint": "「出」は貸出（かしだし）の「出」。でること。答えは輸入（ゆにゅう）の「入」。はいること",
+    "category": "対義語",
+    "targetKanji": "出"
+  },
+  {
+    "id": "g1an1773012417656",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「女」の反対の意味の漢字は？",
+    "answer": "男",
+    "choices": [
+      "男",
+      "王",
+      "貝",
+      "力"
+    ],
+    "hint": "「女」は女子（じょし）の「女」。おんな。答えは長男（ちょうなん）の「男」",
+    "category": "対義語",
+    "targetKanji": "女"
+  },
+  {
+    "id": "g1an1773012417657",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「小」の反対の意味の漢字は？",
+    "answer": "大",
+    "choices": [
+      "下",
+      "大",
+      "口",
+      "村"
+    ],
+    "hint": "「小」は小供（こども）の「小」。こ。答えは最大（さいだい）の「大」。おおきい",
+    "category": "対義語",
+    "targetKanji": "小"
+  },
+  {
+    "id": "g1an1773012417658",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「上」の反対の意味の漢字は？",
+    "answer": "下",
+    "choices": [
+      "四",
+      "先",
+      "子",
+      "下"
+    ],
+    "hint": "「上」は上げる（あげる）の「上」。答えは下車（げしゃ）の「下」。ひくい",
+    "category": "対義語",
+    "targetKanji": "上"
+  },
+  {
+    "id": "g1an1773012417659",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「水」の反対の意味の漢字は？",
+    "answer": "火",
+    "choices": [
+      "虫",
+      "赤",
+      "火",
+      "村"
+    ],
+    "hint": "「水」は水準（すいじゅん）の「水」。みず。答えは灯火（あかり）の「火」。ひ",
+    "category": "対義語",
+    "targetKanji": "水"
+  },
+  {
+    "id": "g1an1773012417660",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「川」の反対の意味の漢字は？",
+    "answer": "山",
+    "choices": [
+      "山",
+      "男",
+      "上",
+      "雨"
+    ],
+    "hint": "「川」は川口（かわぐち）の「川」。かわ。答えは火山（かざん）の「山」。やま",
+    "category": "対義語",
+    "targetKanji": "川"
+  },
+  {
+    "id": "g1an1773012417661",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「足」の反対の意味の漢字は？",
+    "answer": "手",
+    "choices": [
+      "手",
+      "子",
+      "一",
+      "八"
+    ],
+    "hint": "「足」は足跡（あしあと）の「足」。あし。答えは選手（せんしゅ）の「手」。て",
+    "category": "対義語",
+    "targetKanji": "足"
+  },
+  {
+    "id": "g1an1773012417662",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「大」の反対の意味の漢字は？",
+    "answer": "小",
+    "choices": [
+      "字",
+      "九",
+      "小",
+      "右"
+    ],
+    "hint": "「大」は最大（さいだい）の「大」。おおきい。答えは小供（こども）の「小」。こ",
+    "category": "対義語",
+    "targetKanji": "大"
+  },
+  {
+    "id": "g1an1773012417663",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「男」の反対の意味の漢字は？",
+    "answer": "女",
+    "choices": [
+      "人",
+      "女",
+      "四",
+      "下"
+    ],
+    "hint": "「男」は長男（ちょうなん）の「男」。答えは女子（じょし）の「女」。おんな",
+    "category": "対義語",
+    "targetKanji": "男"
+  },
+  {
+    "id": "g1an1773012417664",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「日」の反対の意味の漢字は？",
+    "answer": "月",
+    "choices": [
+      "月",
+      "水",
+      "足",
+      "青"
+    ],
+    "hint": "「日」は毎日（まいにち）の「日」。ひ。答えは今月（こんげつ）の「月」。つき",
+    "category": "対義語",
+    "targetKanji": "日"
+  },
+  {
+    "id": "g1an1773012417665",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「入」の反対の意味の漢字は？",
+    "answer": "出",
+    "choices": [
+      "出",
+      "名",
+      "山",
+      "口"
+    ],
+    "hint": "「入」は輸入（ゆにゅう）の「入」。はいること。答えは貸出（かしだし）の「出」。でること",
+    "category": "対義語",
+    "targetKanji": "入"
+  },
+  {
+    "id": "g1an1773012417666",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「白」の反対の意味の漢字は？",
+    "answer": "赤",
+    "choices": [
+      "赤",
+      "糸",
+      "人",
+      "石"
+    ],
+    "hint": "「白」は白書（はくしょ）の「白」。答えは赤字（あかじ）の「赤」",
+    "category": "対義語",
+    "targetKanji": "白"
+  },
+  {
+    "id": "g1an1773012417667",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「目」の反対の意味の漢字は？",
+    "answer": "耳",
+    "choices": [
+      "一",
+      "耳",
+      "右",
+      "下"
+    ],
+    "hint": "「目」は目的（もくてき）の「目」。くらす。答えは耳目（じもく）の「耳」。みみ",
+    "category": "対義語",
+    "targetKanji": "目"
+  },
+  {
+    "id": "g1an1773012417668",
+    "type": "antonym",
+    "grade": 1,
+    "difficulty": 1,
+    "question": "「力」の反対の意味の漢字は？",
+    "answer": "休",
+    "choices": [
+      "小",
+      "休",
+      "車",
+      "七"
+    ],
+    "hint": "「力」は共力（きょうりょく）の「力」。きょうりょく。答えは休日（きゅうじつ）の「休」",
+    "category": "対義語",
+    "targetKanji": "力"
+  }
+]

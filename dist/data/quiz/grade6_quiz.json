@@ -1,0 +1,312 @@
+[
+  {
+    "id": "g6r001",
+    "type": "reading",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「憲法」の読み方は？",
+    "answer": "けんぽう",
+    "choices": [
+      "けんぽう",
+      "けんほう",
+      "のりほう",
+      "のりぽう"
+    ],
+    "hint": "「憲」は「ケン」、「法」は「ポウ/ホウ」",
+    "category": "熟語の読み",
+    "targetKanji": "憲"
+  },
+  {
+    "id": "g6r002",
+    "type": "reading",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「権利」の読み方は？",
+    "answer": "けんり",
+    "choices": [
+      "けんり",
+      "ごんり",
+      "けんとし",
+      "ごんとし"
+    ],
+    "hint": "「権」は「ケン」、「利」は「リ」",
+    "category": "熟語の読み",
+    "targetKanji": "権"
+  },
+  {
+    "id": "g6r003",
+    "type": "reading",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「批判」の読み方は？",
+    "answer": "ひはん",
+    "choices": [
+      "ひはん",
+      "ひばん",
+      "ひぱん",
+      "ひだん"
+    ],
+    "hint": "「批」は「ヒ」、「判」は「ハン」",
+    "category": "熟語の読み",
+    "targetKanji": "批"
+  },
+  {
+    "id": "g6r004",
+    "type": "reading",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「朗読」の読み方は？",
+    "answer": "ろうどく",
+    "choices": [
+      "ろうどく",
+      "あきどく",
+      "ろうとく",
+      "あきとく"
+    ],
+    "hint": "「朗」は「ロウ」、「読」は「ドク」",
+    "category": "熟語の読み",
+    "targetKanji": "朗"
+  },
+  {
+    "id": "g6r005",
+    "type": "reading",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「宝物」の読み方は？",
+    "answer": "たからもの",
+    "choices": [
+      "たからもの",
+      "ほうもつ",
+      "ほうぶつ",
+      "たからぶつ"
+    ],
+    "hint": "「宝」は「たから」と読みます",
+    "category": "熟語の読み",
+    "targetKanji": "宝"
+  },
+  {
+    "id": "g6r006",
+    "type": "reading",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「蒸発」の読み方は？",
+    "answer": "じょうはつ",
+    "choices": [
+      "じょうはつ",
+      "むしはつ",
+      "じょうほつ",
+      "むしほつ"
+    ],
+    "hint": "「蒸」は「ジョウ」、「発」は「ハツ」",
+    "category": "熟語の読み",
+    "targetKanji": "蒸"
+  },
+  {
+    "id": "g6r007",
+    "type": "reading",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「縮小」の読み方は？",
+    "answer": "しゅくしょう",
+    "choices": [
+      "しゅくしょう",
+      "ちぢしょう",
+      "しゅくこ",
+      "ちぢこ"
+    ],
+    "hint": "「縮」は「シュク」、「小」は「ショウ」",
+    "category": "熟語の読み",
+    "targetKanji": "縮"
+  },
+  {
+    "id": "g6r008",
+    "type": "reading",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「遺跡」の読み方は？",
+    "answer": "いせき",
+    "choices": [
+      "いせき",
+      "のこせき",
+      "いあと",
+      "のこあと"
+    ],
+    "hint": "「遺」は「イ」、「跡」は「セキ」",
+    "category": "熟語の読み",
+    "targetKanji": "遺"
+  },
+  {
+    "id": "g6w001",
+    "type": "writing",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「すな」を漢字で書きましょう",
+    "answer": "砂",
+    "hint": "いしへんがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "砂"
+  },
+  {
+    "id": "g6w002",
+    "type": "writing",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「ほね」を漢字で書きましょう",
+    "answer": "骨",
+    "hint": "10画の漢字です",
+    "category": "漢字の書き取り",
+    "targetKanji": "骨"
+  },
+  {
+    "id": "g6w003",
+    "type": "writing",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「きぬ」を漢字で書きましょう",
+    "answer": "絹",
+    "hint": "いとへんがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "絹"
+  },
+  {
+    "id": "g6o001",
+    "type": "okurigana",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「認め___」正しい送り仮名は？",
+    "answer": "る",
+    "choices": [
+      "る",
+      "める",
+      "い",
+      "す"
+    ],
+    "hint": "「みとめる」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "認"
+  },
+  {
+    "id": "g6o002",
+    "type": "okurigana",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「異な___」正しい送り仮名は？",
+    "answer": "る",
+    "choices": [
+      "る",
+      "なる",
+      "い",
+      "く"
+    ],
+    "hint": "「ことなる」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "異"
+  },
+  {
+    "id": "g6o003",
+    "type": "okurigana",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「暮ら___」正しい送り仮名は？",
+    "answer": "す",
+    "choices": [
+      "す",
+      "らす",
+      "し",
+      "る"
+    ],
+    "hint": "「くらす」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "暮"
+  },
+  {
+    "id": "g6a001",
+    "type": "antonym",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「拡大」の反対の言葉は？",
+    "answer": "縮小",
+    "choices": [
+      "縮小",
+      "減少",
+      "削除",
+      "消滅"
+    ],
+    "hint": "大きくする の反対",
+    "category": "対義語",
+    "targetKanji": "拡"
+  },
+  {
+    "id": "g6a002",
+    "type": "antonym",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「賛成」の反対の言葉は？",
+    "answer": "反対",
+    "choices": [
+      "反対",
+      "否定",
+      "批判",
+      "拒否"
+    ],
+    "hint": "同意する の反対",
+    "category": "対義語",
+    "targetKanji": "賛"
+  },
+  {
+    "id": "g6a003",
+    "type": "antonym",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「創造」の反対の言葉は？",
+    "answer": "破壊",
+    "choices": [
+      "破壊",
+      "模倣",
+      "消滅",
+      "削除"
+    ],
+    "hint": "新しく作る の反対",
+    "category": "対義語",
+    "targetKanji": "創"
+  },
+  {
+    "id": "g6s001",
+    "type": "sentence",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「___法を守ることが大切だ」漢字を書きましょう",
+    "answer": "憲",
+    "hint": "国の基本的なきまり",
+    "category": "文章の穴埋め",
+    "targetKanji": "憲"
+  },
+  {
+    "id": "g6s002",
+    "type": "sentence",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「___劇を見に行く」漢字を書きましょう",
+    "answer": "演",
+    "hint": "舞台で見せること",
+    "category": "文章の穴埋め",
+    "targetKanji": "演"
+  },
+  {
+    "id": "g6rad001",
+    "type": "radical",
+    "grade": 6,
+    "difficulty": 3,
+    "question": "「針」の部首は？",
+    "answer": "かねへん（金）",
+    "choices": [
+      "かねへん（金）",
+      "きへん（木）",
+      "いとへん（糸）",
+      "いしへん（石）"
+    ],
+    "hint": "金属に関係する部首",
+    "category": "部首",
+    "targetKanji": "針"
+  }
+]

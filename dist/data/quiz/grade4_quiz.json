@@ -1,0 +1,430 @@
+[
+  {
+    "id": "g4r001",
+    "type": "reading",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「機械」の読み方は？",
+    "answer": "きかい",
+    "choices": [
+      "きかい",
+      "きがい",
+      "はたかい",
+      "はたがい"
+    ],
+    "hint": "「機」は「キ」、「械」は「カイ」",
+    "category": "熟語の読み",
+    "targetKanji": "機"
+  },
+  {
+    "id": "g4r002",
+    "type": "reading",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「議論」の読み方は？",
+    "answer": "ぎろん",
+    "choices": [
+      "ぎろん",
+      "ぎりん",
+      "ごろん",
+      "ごりん"
+    ],
+    "hint": "「議」は「ギ」、「論（6年）」は「ロン」",
+    "category": "熟語の読み",
+    "targetKanji": "議"
+  },
+  {
+    "id": "g4r003",
+    "type": "reading",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「栄養」の読み方は？",
+    "answer": "えいよう",
+    "choices": [
+      "えいよう",
+      "さかよう",
+      "えいやしない",
+      "さかやしない"
+    ],
+    "hint": "「栄」は「エイ」、「養」は「ヨウ」",
+    "category": "熟語の読み",
+    "targetKanji": "栄"
+  },
+  {
+    "id": "g4r004",
+    "type": "reading",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「健康」の読み方は？",
+    "answer": "けんこう",
+    "choices": [
+      "けんこう",
+      "たてこう",
+      "けんやす",
+      "たてやす"
+    ],
+    "hint": "「健」は「ケン」、「康」は「コウ」",
+    "category": "熟語の読み",
+    "targetKanji": "健"
+  },
+  {
+    "id": "g4r005",
+    "type": "reading",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「選挙」の読み方は？",
+    "answer": "せんきょ",
+    "choices": [
+      "せんきょ",
+      "えらきょ",
+      "せんあげ",
+      "えらあげ"
+    ],
+    "hint": "「選」は「セン」、「挙」は「キョ」",
+    "category": "熟語の読み",
+    "targetKanji": "選"
+  },
+  {
+    "id": "g4r006",
+    "type": "reading",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「残念」の読み方は？",
+    "answer": "ざんねん",
+    "choices": [
+      "ざんねん",
+      "のこねん",
+      "ざんおも",
+      "のこおも"
+    ],
+    "hint": "「残」は「ザン」、「念」は「ネン」",
+    "category": "熟語の読み",
+    "targetKanji": "残"
+  },
+  {
+    "id": "g4r007",
+    "type": "reading",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「伝説」の読み方は？",
+    "answer": "でんせつ",
+    "choices": [
+      "でんせつ",
+      "つたせつ",
+      "でんとき",
+      "つたとき"
+    ],
+    "hint": "「伝」は「デン」、「説」は「セツ」",
+    "category": "熟語の読み",
+    "targetKanji": "伝"
+  },
+  {
+    "id": "g4r008",
+    "type": "reading",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「努力」の読み方は？",
+    "answer": "どりょく",
+    "choices": [
+      "どりょく",
+      "つとりょく",
+      "どちから",
+      "つとちから"
+    ],
+    "hint": "「努」は「ド」、「力」は「リョク」",
+    "category": "熟語の読み",
+    "targetKanji": "努"
+  },
+  {
+    "id": "g4r009",
+    "type": "reading",
+    "grade": 4,
+    "difficulty": 3,
+    "question": "「不便」の読み方は？",
+    "answer": "ふべん",
+    "choices": [
+      "ふべん",
+      "ふびん",
+      "ぶべん",
+      "ぶびん"
+    ],
+    "hint": "「不」は「フ」、「便」は「ベン」",
+    "category": "熟語の読み",
+    "targetKanji": "不"
+  },
+  {
+    "id": "g4r010",
+    "type": "reading",
+    "grade": 4,
+    "difficulty": 3,
+    "question": "「約束」の読み方は？",
+    "answer": "やくそく",
+    "choices": [
+      "やくそく",
+      "やくたば",
+      "つづそく",
+      "つづたば"
+    ],
+    "hint": "「約」は「ヤク」、「束」は「ソク」",
+    "category": "熟語の読み",
+    "targetKanji": "約"
+  },
+  {
+    "id": "g4w001",
+    "type": "writing",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「しお」を漢字で書きましょう",
+    "answer": "塩",
+    "hint": "13画。つちへんがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "塩"
+  },
+  {
+    "id": "g4w002",
+    "type": "writing",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「かがみ」を漢字で書きましょう",
+    "answer": "鏡",
+    "hint": "19画。かねへんがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "鏡"
+  },
+  {
+    "id": "g4w003",
+    "type": "writing",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「まつ」を漢字で書きましょう",
+    "answer": "松",
+    "hint": "8画。きへんがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "松"
+  },
+  {
+    "id": "g4w004",
+    "type": "writing",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「はた」（旗）を漢字で書きましょう",
+    "answer": "旗",
+    "hint": "14画の漢字です",
+    "category": "漢字の書き取り",
+    "targetKanji": "旗"
+  },
+  {
+    "id": "g4w005",
+    "type": "writing",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「くすり」を漢字で書きましょう",
+    "answer": "薬",
+    "hint": "16画。くさかんむりがつきます",
+    "category": "漢字の書き取り",
+    "targetKanji": "薬"
+  },
+  {
+    "id": "g4o001",
+    "type": "okurigana",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「変わ___」正しい送り仮名は？",
+    "answer": "る",
+    "choices": [
+      "る",
+      "わる",
+      "り",
+      "い"
+    ],
+    "hint": "「かわる」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "変"
+  },
+  {
+    "id": "g4o002",
+    "type": "okurigana",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「冷た___」正しい送り仮名は？",
+    "answer": "い",
+    "choices": [
+      "い",
+      "たい",
+      "く",
+      "さ"
+    ],
+    "hint": "「つめたい」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "冷"
+  },
+  {
+    "id": "g4o003",
+    "type": "okurigana",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「散___」正しい送り仮名は？",
+    "answer": "る",
+    "choices": [
+      "る",
+      "らす",
+      "り",
+      "す"
+    ],
+    "hint": "「ちる」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "散"
+  },
+  {
+    "id": "g4o004",
+    "type": "okurigana",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「包___」正しい送り仮名は？",
+    "answer": "む",
+    "choices": [
+      "む",
+      "つつむ",
+      "み",
+      "う"
+    ],
+    "hint": "「つつむ」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "包"
+  },
+  {
+    "id": "g4o005",
+    "type": "okurigana",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「望___」正しい送り仮名は？",
+    "answer": "む",
+    "choices": [
+      "む",
+      "のぞむ",
+      "み",
+      "い"
+    ],
+    "hint": "「のぞむ」と読みます",
+    "category": "送り仮名",
+    "targetKanji": "望"
+  },
+  {
+    "id": "g4a001",
+    "type": "antonym",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「成功」の反対の言葉は？",
+    "answer": "失敗",
+    "choices": [
+      "失敗",
+      "努力",
+      "成長",
+      "完成"
+    ],
+    "hint": "うまくいくの反対",
+    "category": "対義語",
+    "targetKanji": "成"
+  },
+  {
+    "id": "g4a002",
+    "type": "antonym",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「建設」の反対の言葉は？",
+    "answer": "破壊",
+    "choices": [
+      "破壊",
+      "改造",
+      "変更",
+      "消滅"
+    ],
+    "hint": "建てるの反対",
+    "category": "対義語",
+    "targetKanji": "建"
+  },
+  {
+    "id": "g4a003",
+    "type": "antonym",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「完成」の反対の言葉は？",
+    "answer": "未完",
+    "choices": [
+      "未完",
+      "失敗",
+      "破壊",
+      "中止"
+    ],
+    "hint": "できあがった の反対",
+    "category": "対義語",
+    "targetKanji": "完"
+  },
+  {
+    "id": "g4s001",
+    "type": "sentence",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「___験に合格する」漢字を書きましょう",
+    "answer": "試",
+    "hint": "テストのこと",
+    "category": "文章の穴埋め",
+    "targetKanji": "試"
+  },
+  {
+    "id": "g4s002",
+    "type": "sentence",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「飛行___に乗る」漢字を書きましょう",
+    "answer": "機",
+    "hint": "空を飛ぶ乗り物",
+    "category": "文章の穴埋め",
+    "targetKanji": "機"
+  },
+  {
+    "id": "g4s003",
+    "type": "sentence",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「信___を守る」漢字を書きましょう",
+    "answer": "号",
+    "hint": "赤・黄・青にかわるもの",
+    "category": "文章の穴埋め",
+    "targetKanji": "号"
+  },
+  {
+    "id": "g4rad001",
+    "type": "radical",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「鏡」の部首は？",
+    "answer": "かねへん（金）",
+    "choices": [
+      "かねへん（金）",
+      "めへん（目）",
+      "きへん（木）",
+      "いしへん（石）"
+    ],
+    "hint": "金属に関係する部首",
+    "category": "部首",
+    "targetKanji": "鏡"
+  },
+  {
+    "id": "g4rad002",
+    "type": "radical",
+    "grade": 4,
+    "difficulty": 2,
+    "question": "「菜」の部首は？",
+    "answer": "くさかんむり（艹）",
+    "choices": [
+      "くさかんむり（艹）",
+      "きへん（木）",
+      "さんずい（氵）",
+      "したごころ（心）"
+    ],
+    "hint": "植物に関係する部首",
+    "category": "部首",
+    "targetKanji": "菜"
+  }
+]

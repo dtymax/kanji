@@ -1,0 +1,7240 @@
+[
+  {
+    "character": "異",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "田",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "イ"
+      ],
+      "kunyomi": [
+        "け",
+        "こと",
+        "こと.なる"
+      ]
+    },
+    "meanings": [
+      "curious",
+      "different",
+      "queerness",
+      "strangeness",
+      "uncommon",
+      "unusual",
+      "wonderful"
+    ],
+    "examples": [
+      {
+        "word": "異常",
+        "reading": "いじょう",
+        "meaning": "異常"
+      },
+      {
+        "word": "相異",
+        "reading": "そうい",
+        "meaning": "相異"
+      },
+      {
+        "word": "特異",
+        "reading": "とくい",
+        "meaning": "特異"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "遺",
+    "grade": 6,
+    "strokes": 15,
+    "radical": "辶",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "イ",
+        "ユイ"
+      ],
+      "kunyomi": [
+        "のこ.す"
+      ]
+    },
+    "meanings": [
+      "bequeath",
+      "leave behind",
+      "reserve"
+    ],
+    "examples": [
+      {
+        "word": "遺体",
+        "reading": "いたい",
+        "meaning": "遺体"
+      },
+      {
+        "word": "遺跡",
+        "reading": "いせき",
+        "meaning": "遺跡"
+      },
+      {
+        "word": "遺蹟",
+        "reading": "いせき",
+        "meaning": "遺蹟"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "域",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "土",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "イキ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "level",
+      "limits",
+      "range",
+      "region",
+      "stage"
+    ],
+    "examples": [
+      {
+        "word": "地域",
+        "reading": "ちいき",
+        "meaning": "地域"
+      },
+      {
+        "word": "区域",
+        "reading": "くいき",
+        "meaning": "区域"
+      },
+      {
+        "word": "領域",
+        "reading": "りょういき",
+        "meaning": "領域"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "宇",
+    "grade": 6,
+    "strokes": 6,
+    "radical": "宀",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ウ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "eaves",
+      "heaven",
+      "house",
+      "roof"
+    ],
+    "examples": [
+      {
+        "word": "宇宙",
+        "reading": "うちゅう",
+        "meaning": "宇宙"
+      },
+      {
+        "word": "大宇宙",
+        "reading": "だいうちゅう",
+        "meaning": "大宇宙"
+      },
+      {
+        "word": "宇頂天",
+        "reading": "うちょうてん",
+        "meaning": "宇頂天"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "映",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "日",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "エイ"
+      ],
+      "kunyomi": [
+        "-ば.え",
+        "うつ.す",
+        "うつ.る",
+        "は.える"
+      ]
+    },
+    "meanings": [
+      "projection",
+      "reflect",
+      "reflection"
+    ],
+    "examples": [
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "meaning": "映画"
+      },
+      {
+        "word": "映畫",
+        "reading": "えいが",
+        "meaning": "映畫"
+      },
+      {
+        "word": "映畵",
+        "reading": "えいが",
+        "meaning": "映畵"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "延",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "廴",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "エン"
+      ],
+      "kunyomi": [
+        "の.ばす",
+        "の.びる",
+        "の.べ",
+        "の.べる"
+      ]
+    },
+    "meanings": [
+      "prolong",
+      "stretching"
+    ],
+    "examples": [
+      {
+        "word": "延長",
+        "reading": "えんちょう",
+        "meaning": "延長"
+      },
+      {
+        "word": "延び",
+        "reading": "のび",
+        "meaning": "延び"
+      },
+      {
+        "word": "延期",
+        "reading": "えんき",
+        "meaning": "延期"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "沿",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "氵",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "エン"
+      ],
+      "kunyomi": [
+        "-ぞ.い",
+        "そ.う"
+      ]
+    },
+    "meanings": [
+      "follow along",
+      "lie along",
+      "run along",
+      "run alongside"
+    ],
+    "examples": [
+      {
+        "word": "沿い",
+        "reading": "ぞい",
+        "meaning": "沿い"
+      },
+      {
+        "word": "沿岸",
+        "reading": "えんがん",
+        "meaning": "沿岸"
+      },
+      {
+        "word": "沿線",
+        "reading": "えんせん",
+        "meaning": "沿線"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "我",
+    "grade": 6,
+    "strokes": 7,
+    "radical": "戈",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ガ"
+      ],
+      "kunyomi": [
+        "わ",
+        "わ.が-",
+        "わが-",
+        "われ"
+      ]
+    },
+    "meanings": [
+      "I",
+      "ego",
+      "oneself",
+      "our",
+      "selfish"
+    ],
+    "examples": [
+      {
+        "word": "我々",
+        "reading": "われわれ",
+        "meaning": "我々"
+      },
+      {
+        "word": "我我",
+        "reading": "われわれ",
+        "meaning": "我我"
+      },
+      {
+        "word": "我国",
+        "reading": "わがくに",
+        "meaning": "我国"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "灰",
+    "grade": 6,
+    "strokes": 6,
+    "radical": "火",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [
+        "はい"
+      ]
+    },
+    "meanings": [
+      "ashes",
+      "cremate",
+      "puckery juice"
+    ],
+    "examples": [
+      {
+        "word": "灰色",
+        "reading": "はいいろ",
+        "meaning": "灰色"
+      },
+      {
+        "word": "灰皿",
+        "reading": "はいざら",
+        "meaning": "灰皿"
+      },
+      {
+        "word": "火山灰",
+        "reading": "かざんばい",
+        "meaning": "火山灰"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "拡",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "扌",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "カク",
+        "コウ"
+      ],
+      "kunyomi": [
+        "ひろ.がる",
+        "ひろ.げる",
+        "ひろ.める"
+      ]
+    },
+    "meanings": [
+      "broaden",
+      "enlarge",
+      "expand",
+      "extend"
+    ],
+    "examples": [
+      {
+        "word": "拡大",
+        "reading": "かくだい",
+        "meaning": "拡大"
+      },
+      {
+        "word": "拡張",
+        "reading": "かくちょう",
+        "meaning": "拡張"
+      },
+      {
+        "word": "拡げる",
+        "reading": "ひろげる",
+        "meaning": "拡げる"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "革",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "革",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "カク"
+      ],
+      "kunyomi": [
+        "かわ"
+      ]
+    },
+    "meanings": [
+      "become serious",
+      "leather",
+      "reform",
+      "skin"
+    ],
+    "examples": [
+      {
+        "word": "改革",
+        "reading": "かいかく",
+        "meaning": "改革"
+      },
+      {
+        "word": "革命",
+        "reading": "かくめい",
+        "meaning": "革命"
+      },
+      {
+        "word": "革新",
+        "reading": "かくしん",
+        "meaning": "革新"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "閣",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "門",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "カク"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "palace",
+      "tall building",
+      "tower"
+    ],
+    "examples": [
+      {
+        "word": "閣僚",
+        "reading": "かくりょう",
+        "meaning": "閣僚"
+      },
+      {
+        "word": "内閣",
+        "reading": "ないかく",
+        "meaning": "内閣"
+      },
+      {
+        "word": "組閣",
+        "reading": "そかく",
+        "meaning": "組閣"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "割",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "刂",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "カツ"
+      ],
+      "kunyomi": [
+        "さ.く",
+        "わ.り",
+        "わ.る",
+        "わ.れる",
+        "わり"
+      ]
+    },
+    "meanings": [
+      "comparatively",
+      "cut",
+      "divide",
+      "proportion",
+      "separate",
+      "split"
+    ],
+    "examples": [
+      {
+        "word": "役割",
+        "reading": "やくわり",
+        "meaning": "役割"
+      },
+      {
+        "word": "割合",
+        "reading": "わりあい",
+        "meaning": "割合"
+      },
+      {
+        "word": "割り",
+        "reading": "わり",
+        "meaning": "割り"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "株",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "木",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シュ"
+      ],
+      "kunyomi": [
+        "かぶ"
+      ]
+    },
+    "meanings": [
+      "counter for small plants",
+      "shares",
+      "stock",
+      "stocks",
+      "stump"
+    ],
+    "examples": [
+      {
+        "word": "株式",
+        "reading": "かぶしき",
+        "meaning": "株式"
+      },
+      {
+        "word": "株主",
+        "reading": "かぶぬし",
+        "meaning": "株主"
+      },
+      {
+        "word": "株価",
+        "reading": "かぶか",
+        "meaning": "株価"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "干",
+    "grade": 6,
+    "strokes": 3,
+    "radical": "干",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "-ぼ.し",
+        "ひ.る",
+        "ほ.し-",
+        "ほ.す"
+      ]
+    },
+    "meanings": [
+      "dry",
+      "ebb",
+      "intercede",
+      "interfere",
+      "parch",
+      "recede"
+    ],
+    "examples": [
+      {
+        "word": "若干",
+        "reading": "じゃっかん",
+        "meaning": "若干"
+      },
+      {
+        "word": "干渉",
+        "reading": "かんしょう",
+        "meaning": "干渉"
+      },
+      {
+        "word": "干与",
+        "reading": "かんよ",
+        "meaning": "干与"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "巻",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "己",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "カン",
+        "ケン"
+      ],
+      "kunyomi": [
+        "ま.き",
+        "ま.く",
+        "まき"
+      ]
+    },
+    "meanings": [
+      "book",
+      "coil",
+      "counter for texts (or book scrolls)",
+      "part",
+      "roll up",
+      "scroll",
+      "tie",
+      "volume",
+      "wind up"
+    ],
+    "examples": [
+      {
+        "word": "巻込む",
+        "reading": "まきこむ",
+        "meaning": "巻込む"
+      },
+      {
+        "word": "巻返し",
+        "reading": "まきかえし",
+        "meaning": "巻返し"
+      },
+      {
+        "word": "巻末",
+        "reading": "かんまつ",
+        "meaning": "巻末"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "看",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "目",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "カン"
+      ],
+      "kunyomi": [
+        "み.る"
+      ]
+    },
+    "meanings": [
+      "see",
+      "watch over"
+    ],
+    "examples": [
+      {
+        "word": "看護",
+        "reading": "かんご",
+        "meaning": "看護"
+      },
+      {
+        "word": "看板",
+        "reading": "かんばん",
+        "meaning": "看板"
+      },
+      {
+        "word": "看護婦",
+        "reading": "かんごふ",
+        "meaning": "看護婦"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "簡",
+    "grade": 6,
+    "strokes": 18,
+    "radical": "竹",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "カン",
+        "ケン"
+      ],
+      "kunyomi": [
+        "えら.ぶ",
+        "ふだ"
+      ]
+    },
+    "meanings": [
+      "brevity",
+      "simplicity"
+    ],
+    "examples": [
+      {
+        "word": "簡単",
+        "reading": "かんたん",
+        "meaning": "簡単"
+      },
+      {
+        "word": "簡短",
+        "reading": "かんたん",
+        "meaning": "簡短"
+      },
+      {
+        "word": "簡端",
+        "reading": "かんたん",
+        "meaning": "簡端"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "危",
+    "grade": 6,
+    "strokes": 6,
+    "radical": "厄",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "あぶ.ない",
+        "あや.うい",
+        "あや.ぶむ"
+      ]
+    },
+    "meanings": [
+      "dangerous",
+      "fear",
+      "uneasy"
+    ],
+    "examples": [
+      {
+        "word": "危機",
+        "reading": "きき",
+        "meaning": "危機"
+      },
+      {
+        "word": "危険",
+        "reading": "きけん",
+        "meaning": "危険"
+      },
+      {
+        "word": "危ぐ",
+        "reading": "きぐ",
+        "meaning": "危ぐ"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "揮",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "扌",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "ふる.う"
+      ]
+    },
+    "meanings": [
+      "brandish",
+      "shake",
+      "swing",
+      "wag",
+      "wave"
+    ],
+    "examples": [
+      {
+        "word": "指揮",
+        "reading": "しき",
+        "meaning": "指揮"
+      },
+      {
+        "word": "発揮",
+        "reading": "はっき",
+        "meaning": "発揮"
+      },
+      {
+        "word": "指揮者",
+        "reading": "しきしゃ",
+        "meaning": "指揮者"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "貴",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "貝",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キ"
+      ],
+      "kunyomi": [
+        "たっと.い",
+        "たっと.ぶ",
+        "とうと.い",
+        "とうと.ぶ"
+      ]
+    },
+    "meanings": [
+      "esteem",
+      "honor",
+      "precious",
+      "prize",
+      "value"
+    ],
+    "examples": [
+      {
+        "word": "貴重",
+        "reading": "きちょう",
+        "meaning": "貴重"
+      },
+      {
+        "word": "貴族",
+        "reading": "きぞく",
+        "meaning": "貴族"
+      },
+      {
+        "word": "貴い",
+        "reading": "たっとい",
+        "meaning": "貴い"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "疑",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "疋",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ギ"
+      ],
+      "kunyomi": [
+        "うたが.う"
+      ]
+    },
+    "meanings": [
+      "be suspicious",
+      "distrust",
+      "doubt",
+      "question"
+    ],
+    "examples": [
+      {
+        "word": "疑い",
+        "reading": "うたがい",
+        "meaning": "疑い"
+      },
+      {
+        "word": "疑問",
+        "reading": "ぎもん",
+        "meaning": "疑問"
+      },
+      {
+        "word": "容疑者",
+        "reading": "ようぎしゃ",
+        "meaning": "容疑者"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "吸",
+    "grade": 6,
+    "strokes": 6,
+    "radical": "口",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キュウ"
+      ],
+      "kunyomi": [
+        "す.う"
+      ]
+    },
+    "meanings": [
+      "imbibe",
+      "inhale",
+      "sip",
+      "suck"
+    ],
+    "examples": [
+      {
+        "word": "呼吸",
+        "reading": "こきゅう",
+        "meaning": "呼吸"
+      },
+      {
+        "word": "吸収",
+        "reading": "きゅうしゅう",
+        "meaning": "吸収"
+      },
+      {
+        "word": "吸殻",
+        "reading": "すいがら",
+        "meaning": "吸殻"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "供",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "亻",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キョウ",
+        "ク",
+        "クウ",
+        "グ"
+      ],
+      "kunyomi": [
+        "-ども",
+        "そな.える",
+        "とも"
+      ]
+    },
+    "meanings": [
+      "accompany",
+      "offer",
+      "present",
+      "serve (meal)",
+      "submit"
+    ],
+    "examples": [
+      {
+        "word": "子供",
+        "reading": "こども",
+        "meaning": "子供"
+      },
+      {
+        "word": "小供",
+        "reading": "こども",
+        "meaning": "小供"
+      },
+      {
+        "word": "供給",
+        "reading": "きょうきゅう",
+        "meaning": "供給"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "胸",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "月",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キョウ"
+      ],
+      "kunyomi": [
+        "むな-",
+        "むね"
+      ]
+    },
+    "meanings": [
+      "bosom",
+      "breast",
+      "chest",
+      "feelings",
+      "heart"
+    ],
+    "examples": [
+      {
+        "word": "度胸",
+        "reading": "どきょう",
+        "meaning": "度胸"
+      },
+      {
+        "word": "胸部",
+        "reading": "きょうぶ",
+        "meaning": "胸部"
+      },
+      {
+        "word": "胸中",
+        "reading": "きょうちゅう",
+        "meaning": "胸中"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "郷",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "阝",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キョウ",
+        "ゴウ"
+      ],
+      "kunyomi": [
+        "さと"
+      ]
+    },
+    "meanings": [
+      "district",
+      "home town",
+      "native place",
+      "village"
+    ],
+    "examples": [
+      {
+        "word": "故郷",
+        "reading": "ふるさと",
+        "meaning": "故郷"
+      },
+      {
+        "word": "郷里",
+        "reading": "きょうり",
+        "meaning": "郷里"
+      },
+      {
+        "word": "郷土",
+        "reading": "きょうど",
+        "meaning": "郷土"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "勤",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "力",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キン",
+        "ゴン"
+      ],
+      "kunyomi": [
+        "-づと.め",
+        "いそ.しむ",
+        "つと.まる",
+        "つと.める"
+      ]
+    },
+    "meanings": [
+      "become employed",
+      "diligence",
+      "serve"
+    ],
+    "examples": [
+      {
+        "word": "勤務",
+        "reading": "きんむ",
+        "meaning": "勤務"
+      },
+      {
+        "word": "通勤",
+        "reading": "つうきん",
+        "meaning": "通勤"
+      },
+      {
+        "word": "勤労",
+        "reading": "きんろう",
+        "meaning": "勤労"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "筋",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "竹",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キン"
+      ],
+      "kunyomi": [
+        "すじ"
+      ]
+    },
+    "meanings": [
+      "descent",
+      "fiber",
+      "muscle",
+      "plan",
+      "plot",
+      "sinew",
+      "tendon"
+    ],
+    "examples": [
+      {
+        "word": "筋肉",
+        "reading": "きんにく",
+        "meaning": "筋肉"
+      },
+      {
+        "word": "鉄筋",
+        "reading": "てっきん",
+        "meaning": "鉄筋"
+      },
+      {
+        "word": "道筋",
+        "reading": "みちすじ",
+        "meaning": "道筋"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "系",
+    "grade": 6,
+    "strokes": 7,
+    "radical": "糸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ケイ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "lineage",
+      "system"
+    ],
+    "examples": [
+      {
+        "word": "系列",
+        "reading": "けいれつ",
+        "meaning": "系列"
+      },
+      {
+        "word": "体系",
+        "reading": "たいけい",
+        "meaning": "体系"
+      },
+      {
+        "word": "系統",
+        "reading": "けいとう",
+        "meaning": "系統"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "敬",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "攵",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キョウ",
+        "ケイ"
+      ],
+      "kunyomi": [
+        "うやま.う"
+      ]
+    },
+    "meanings": [
+      "awe",
+      "honor",
+      "respect",
+      "revere"
+    ],
+    "examples": [
+      {
+        "word": "敬意",
+        "reading": "けいい",
+        "meaning": "敬意"
+      },
+      {
+        "word": "敬称",
+        "reading": "けいしょう",
+        "meaning": "敬称"
+      },
+      {
+        "word": "尊敬",
+        "reading": "そんけい",
+        "meaning": "尊敬"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "警",
+    "grade": 6,
+    "strokes": 19,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ケイ"
+      ],
+      "kunyomi": [
+        "いまし.める"
+      ]
+    },
+    "meanings": [
+      "admonish",
+      "commandment"
+    ],
+    "examples": [
+      {
+        "word": "警察",
+        "reading": "けいさつ",
+        "meaning": "警察"
+      },
+      {
+        "word": "警戒",
+        "reading": "けいかい",
+        "meaning": "警戒"
+      },
+      {
+        "word": "警官",
+        "reading": "けいかん",
+        "meaning": "警官"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "劇",
+    "grade": 6,
+    "strokes": 15,
+    "radical": "刂",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ゲキ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "drama",
+      "play"
+    ],
+    "examples": [
+      {
+        "word": "劇場",
+        "reading": "げきじょう",
+        "meaning": "劇場"
+      },
+      {
+        "word": "演劇",
+        "reading": "えんげき",
+        "meaning": "演劇"
+      },
+      {
+        "word": "急劇",
+        "reading": "きゅうげき",
+        "meaning": "急劇"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "激",
+    "grade": 6,
+    "strokes": 16,
+    "radical": "氵",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ゲキ"
+      ],
+      "kunyomi": [
+        "はげ.しい"
+      ]
+    },
+    "meanings": [
+      "chafe",
+      "enraged",
+      "get excited",
+      "incite",
+      "violent"
+    ],
+    "examples": [
+      {
+        "word": "急激",
+        "reading": "きゅうげき",
+        "meaning": "急激"
+      },
+      {
+        "word": "刺激",
+        "reading": "しげき",
+        "meaning": "刺激"
+      },
+      {
+        "word": "激動",
+        "reading": "げきどう",
+        "meaning": "激動"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "穴",
+    "grade": 6,
+    "strokes": 5,
+    "radical": "穴",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ケツ"
+      ],
+      "kunyomi": [
+        "あな"
+      ]
+    },
+    "meanings": [
+      "aperture",
+      "cave",
+      "den",
+      "hole",
+      "slit"
+    ],
+    "examples": [
+      {
+        "word": "風穴",
+        "reading": "かざあな",
+        "meaning": "風穴"
+      },
+      {
+        "word": "陥穴",
+        "reading": "おとしあな",
+        "meaning": "陥穴"
+      },
+      {
+        "word": "墓穴",
+        "reading": "ぼけつ",
+        "meaning": "墓穴"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "絹",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "糸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": [
+        "きぬ"
+      ]
+    },
+    "meanings": [
+      "silk"
+    ],
+    "examples": [
+      {
+        "word": "絹糸",
+        "reading": "けんし",
+        "meaning": "絹糸"
+      },
+      {
+        "word": "絹布",
+        "reading": "けんぷ",
+        "meaning": "絹布"
+      },
+      {
+        "word": "絹織物",
+        "reading": "きぬおりもの",
+        "meaning": "絹織物"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "権",
+    "grade": 6,
+    "strokes": 15,
+    "radical": "木",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ケン",
+        "ゴン"
+      ],
+      "kunyomi": [
+        "おもり",
+        "かり",
+        "はか.る"
+      ]
+    },
+    "meanings": [
+      "authority",
+      "power",
+      "rights"
+    ],
+    "examples": [
+      {
+        "word": "政権",
+        "reading": "せいけん",
+        "meaning": "政権"
+      },
+      {
+        "word": "人権",
+        "reading": "じんけん",
+        "meaning": "人権"
+      },
+      {
+        "word": "権利",
+        "reading": "けんり",
+        "meaning": "権利"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "憲",
+    "grade": 6,
+    "strokes": 16,
+    "radical": "心",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ケン"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "constitution",
+      "law"
+    ],
+    "examples": [
+      {
+        "word": "憲法",
+        "reading": "けんぽう",
+        "meaning": "憲法"
+      },
+      {
+        "word": "違憲",
+        "reading": "いけん",
+        "meaning": "違憲"
+      },
+      {
+        "word": "憲章",
+        "reading": "けんしょう",
+        "meaning": "憲章"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "源",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "氵",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ゲン"
+      ],
+      "kunyomi": [
+        "みなもと"
+      ]
+    },
+    "meanings": [
+      "origin",
+      "source"
+    ],
+    "examples": [
+      {
+        "word": "資源",
+        "reading": "しげん",
+        "meaning": "資源"
+      },
+      {
+        "word": "電源",
+        "reading": "でんげん",
+        "meaning": "電源"
+      },
+      {
+        "word": "財源",
+        "reading": "ざいげん",
+        "meaning": "財源"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "厳",
+    "grade": 6,
+    "strokes": 17,
+    "radical": "厂",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ゲン",
+        "ゴン"
+      ],
+      "kunyomi": [
+        "いか.めしい",
+        "いつくし",
+        "おごそ.か",
+        "きび.しい"
+      ]
+    },
+    "meanings": [
+      "rigidity",
+      "severity",
+      "stern",
+      "strictness"
+    ],
+    "examples": [
+      {
+        "word": "厳重",
+        "reading": "げんじゅう",
+        "meaning": "厳重"
+      },
+      {
+        "word": "厳格",
+        "reading": "げんかく",
+        "meaning": "厳格"
+      },
+      {
+        "word": "厳密",
+        "reading": "げんみつ",
+        "meaning": "厳密"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "己",
+    "grade": 6,
+    "strokes": 3,
+    "radical": "己",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キ",
+        "コ"
+      ],
+      "kunyomi": [
+        "おのれ",
+        "つちのと",
+        "な"
+      ]
+    },
+    "meanings": [
+      "self"
+    ],
+    "examples": [
+      {
+        "word": "自己",
+        "reading": "じこ",
+        "meaning": "自己"
+      },
+      {
+        "word": "己れ",
+        "reading": "おのれ",
+        "meaning": "己れ"
+      },
+      {
+        "word": "克己",
+        "reading": "こっき",
+        "meaning": "克己"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "呼",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "口",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "コ"
+      ],
+      "kunyomi": [
+        "よ.ぶ"
+      ]
+    },
+    "meanings": [
+      "call",
+      "call out to",
+      "invite"
+    ],
+    "examples": [
+      {
+        "word": "呼ぶ",
+        "reading": "よぶ",
+        "meaning": "呼ぶ"
+      },
+      {
+        "word": "呼吸",
+        "reading": "こきゅう",
+        "meaning": "呼吸"
+      },
+      {
+        "word": "呼名",
+        "reading": "よびな",
+        "meaning": "呼名"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "誤",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ゴ"
+      ],
+      "kunyomi": [
+        "-あやま.る",
+        "あやま.る"
+      ]
+    },
+    "meanings": [
+      "do wrong",
+      "err",
+      "mislead",
+      "mistake"
+    ],
+    "examples": [
+      {
+        "word": "誤解",
+        "reading": "ごかい",
+        "meaning": "誤解"
+      },
+      {
+        "word": "誤り",
+        "reading": "あやまり",
+        "meaning": "誤り"
+      },
+      {
+        "word": "誤ち",
+        "reading": "あやまち",
+        "meaning": "誤ち"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "后",
+    "grade": 6,
+    "strokes": 6,
+    "radical": "口",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "コウ",
+        "ゴ"
+      ],
+      "kunyomi": [
+        "きさき"
+      ]
+    },
+    "meanings": [
+      "after",
+      "back",
+      "behind",
+      "empress",
+      "later",
+      "queen"
+    ],
+    "examples": [
+      {
+        "word": "午后",
+        "reading": "ごご",
+        "meaning": "午后"
+      },
+      {
+        "word": "皇后",
+        "reading": "こうごう",
+        "meaning": "皇后"
+      },
+      {
+        "word": "皇太后",
+        "reading": "こうたいごう",
+        "meaning": "皇太后"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "孝",
+    "grade": 6,
+    "strokes": 7,
+    "radical": "子",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "キョウ",
+        "コウ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "child's respect",
+      "filial piety"
+    ],
+    "examples": [
+      {
+        "word": "孝行",
+        "reading": "こうこう",
+        "meaning": "孝行"
+      },
+      {
+        "word": "親孝行",
+        "reading": "おやこうこう",
+        "meaning": "親孝行"
+      },
+      {
+        "word": "忠孝",
+        "reading": "ちゅうこう",
+        "meaning": "忠孝"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "皇",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "白",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "オウ",
+        "コウ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "emperor"
+    ],
+    "examples": [
+      {
+        "word": "天皇",
+        "reading": "てんのう",
+        "meaning": "天皇"
+      },
+      {
+        "word": "皇后",
+        "reading": "こうごう",
+        "meaning": "皇后"
+      },
+      {
+        "word": "皇室",
+        "reading": "こうしつ",
+        "meaning": "皇室"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "紅",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "糸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ク",
+        "コウ"
+      ],
+      "kunyomi": [
+        "あか.い",
+        "くれない",
+        "べに"
+      ]
+    },
+    "meanings": [
+      "crimson",
+      "deep red"
+    ],
+    "examples": [
+      {
+        "word": "紅い",
+        "reading": "あかい",
+        "meaning": "紅い"
+      },
+      {
+        "word": "紅白",
+        "reading": "こうはく",
+        "meaning": "紅白"
+      },
+      {
+        "word": "紅茶",
+        "reading": "こうちゃ",
+        "meaning": "紅茶"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "降",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "阝",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "コウ",
+        "ゴ"
+      ],
+      "kunyomi": [
+        "お.りる",
+        "お.ろす",
+        "くだ.す",
+        "くだ.る",
+        "ふ.り",
+        "ふ.る"
+      ]
+    },
+    "meanings": [
+      "descend",
+      "fall",
+      "precipitate",
+      "surrender"
+    ],
+    "examples": [
+      {
+        "word": "降り",
+        "reading": "くだり",
+        "meaning": "降り"
+      },
+      {
+        "word": "以降",
+        "reading": "いこう",
+        "meaning": "以降"
+      },
+      {
+        "word": "已降",
+        "reading": "いこう",
+        "meaning": "已降"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "鋼",
+    "grade": 6,
+    "strokes": 16,
+    "radical": "金",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "コウ"
+      ],
+      "kunyomi": [
+        "はがね"
+      ]
+    },
+    "meanings": [
+      "steel"
+    ],
+    "examples": [
+      {
+        "word": "鉄鋼",
+        "reading": "てっこう",
+        "meaning": "鉄鋼"
+      },
+      {
+        "word": "製鋼",
+        "reading": "せいこう",
+        "meaning": "製鋼"
+      },
+      {
+        "word": "鋼材",
+        "reading": "こうざい",
+        "meaning": "鋼材"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "刻",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "刂",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "コク"
+      ],
+      "kunyomi": [
+        "きざ.み",
+        "きざ.む"
+      ]
+    },
+    "meanings": [
+      "carving",
+      "chop",
+      "cut fine",
+      "engrave",
+      "hash",
+      "mince",
+      "time"
+    ],
+    "examples": [
+      {
+        "word": "深刻",
+        "reading": "しんこく",
+        "meaning": "深刻"
+      },
+      {
+        "word": "彫刻",
+        "reading": "ちょうこく",
+        "meaning": "彫刻"
+      },
+      {
+        "word": "時刻",
+        "reading": "じこく",
+        "meaning": "時刻"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "穀",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "殳",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "コク"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "cereals",
+      "grain"
+    ],
+    "examples": [
+      {
+        "word": "穀物",
+        "reading": "こくもつ",
+        "meaning": "穀物"
+      },
+      {
+        "word": "米穀",
+        "reading": "べいこく",
+        "meaning": "米穀"
+      },
+      {
+        "word": "穀倉",
+        "reading": "こくそう",
+        "meaning": "穀倉"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "骨",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "骨",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "コツ"
+      ],
+      "kunyomi": [
+        "ほね"
+      ]
+    },
+    "meanings": [
+      "bone",
+      "frame",
+      "remains",
+      "skeleton"
+    ],
+    "examples": [
+      {
+        "word": "鉄骨",
+        "reading": "てっこつ",
+        "meaning": "鉄骨"
+      },
+      {
+        "word": "骨折",
+        "reading": "こっせつ",
+        "meaning": "骨折"
+      },
+      {
+        "word": "露骨",
+        "reading": "ろこつ",
+        "meaning": "露骨"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "困",
+    "grade": 6,
+    "strokes": 7,
+    "radical": "囗",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "コン"
+      ],
+      "kunyomi": [
+        "こま.る"
+      ]
+    },
+    "meanings": [
+      "annoyed",
+      "become distressed",
+      "quandary"
+    ],
+    "examples": [
+      {
+        "word": "困難",
+        "reading": "こんなん",
+        "meaning": "困難"
+      },
+      {
+        "word": "貧困",
+        "reading": "ひんこん",
+        "meaning": "貧困"
+      },
+      {
+        "word": "困惑",
+        "reading": "こんわく",
+        "meaning": "困惑"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "砂",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "石",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "サ",
+        "シャ"
+      ],
+      "kunyomi": [
+        "すな"
+      ]
+    },
+    "meanings": [
+      "sand"
+    ],
+    "examples": [
+      {
+        "word": "砂漠",
+        "reading": "さばく",
+        "meaning": "砂漠"
+      },
+      {
+        "word": "砂糖",
+        "reading": "さとう",
+        "meaning": "砂糖"
+      },
+      {
+        "word": "砂浜",
+        "reading": "すなはま",
+        "meaning": "砂浜"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "座",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "广",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ザ"
+      ],
+      "kunyomi": [
+        "すわ.る"
+      ]
+    },
+    "meanings": [
+      "cushion",
+      "gathering",
+      "seat",
+      "sit",
+      "squat"
+    ],
+    "examples": [
+      {
+        "word": "座席",
+        "reading": "ざせき",
+        "meaning": "座席"
+      },
+      {
+        "word": "即座",
+        "reading": "そくざ",
+        "meaning": "即座"
+      },
+      {
+        "word": "銀座",
+        "reading": "ぎんざ",
+        "meaning": "銀座"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "済",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "氵",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "サイ",
+        "セイ"
+      ],
+      "kunyomi": [
+        "-す.ます",
+        "-ず.み",
+        "-ずみ",
+        "す.ます",
+        "す.まない",
+        "す.む",
+        "すく.う",
+        "な.す",
+        "わた.る",
+        "わたし"
+      ]
+    },
+    "meanings": [
+      "come to an end",
+      "excusable",
+      "finish",
+      "need not",
+      "relieve (burden)",
+      "settle (debt, etc.)"
+    ],
+    "examples": [
+      {
+        "word": "経済",
+        "reading": "けいざい",
+        "meaning": "経済"
+      },
+      {
+        "word": "返済",
+        "reading": "へんさい",
+        "meaning": "返済"
+      },
+      {
+        "word": "救済",
+        "reading": "きゅうさい",
+        "meaning": "救済"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "裁",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "衣",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "サイ"
+      ],
+      "kunyomi": [
+        "さば.く",
+        "た.つ"
+      ]
+    },
+    "meanings": [
+      "cut out (pattern)",
+      "decision",
+      "judge",
+      "tailor"
+    ],
+    "examples": [
+      {
+        "word": "裁判",
+        "reading": "さいばん",
+        "meaning": "裁判"
+      },
+      {
+        "word": "総裁",
+        "reading": "そうさい",
+        "meaning": "総裁"
+      },
+      {
+        "word": "制裁",
+        "reading": "せいさい",
+        "meaning": "制裁"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "策",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "竹",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "サク"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "means",
+      "plan",
+      "policy",
+      "scheme",
+      "step"
+    ],
+    "examples": [
+      {
+        "word": "政策",
+        "reading": "せいさく",
+        "meaning": "政策"
+      },
+      {
+        "word": "対策",
+        "reading": "たいさく",
+        "meaning": "対策"
+      },
+      {
+        "word": "策戦",
+        "reading": "さくせん",
+        "meaning": "策戦"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "冊",
+    "grade": 6,
+    "strokes": 5,
+    "radical": "冂",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "サク",
+        "サツ"
+      ],
+      "kunyomi": [
+        "ふみ"
+      ]
+    },
+    "meanings": [
+      "counter for books",
+      "tome",
+      "volume"
+    ],
+    "examples": [
+      {
+        "word": "冊子",
+        "reading": "さっし",
+        "meaning": "冊子"
+      },
+      {
+        "word": "短冊",
+        "reading": "たんざく",
+        "meaning": "短冊"
+      },
+      {
+        "word": "小冊子",
+        "reading": "しょうさっし",
+        "meaning": "小冊子"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "蚕",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "虫",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "サン",
+        "テン"
+      ],
+      "kunyomi": [
+        "かいこ",
+        "こ"
+      ]
+    },
+    "meanings": [
+      "silkworm"
+    ],
+    "examples": [
+      {
+        "word": "養蚕",
+        "reading": "ようさん",
+        "meaning": "養蚕"
+      },
+      {
+        "word": "蚕糸",
+        "reading": "さんし",
+        "meaning": "蚕糸"
+      },
+      {
+        "word": "天蚕",
+        "reading": "てんさん",
+        "meaning": "天蚕"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "至",
+    "grade": 6,
+    "strokes": 6,
+    "radical": "至",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "いた.る"
+      ]
+    },
+    "meanings": [
+      "arrive",
+      "attain",
+      "climax",
+      "proceed",
+      "reach",
+      "result in"
+    ],
+    "examples": [
+      {
+        "word": "至上",
+        "reading": "しじょう",
+        "meaning": "至上"
+      },
+      {
+        "word": "至って",
+        "reading": "いたって",
+        "meaning": "至って"
+      },
+      {
+        "word": "至急",
+        "reading": "しきゅう",
+        "meaning": "至急"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "私",
+    "grade": 6,
+    "strokes": 7,
+    "radical": "禾",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "わたくし",
+        "わたし"
+      ]
+    },
+    "meanings": [
+      "I",
+      "me",
+      "private"
+    ],
+    "examples": [
+      {
+        "word": "私立",
+        "reading": "しりつ",
+        "meaning": "私立"
+      },
+      {
+        "word": "私鉄",
+        "reading": "してつ",
+        "meaning": "私鉄"
+      },
+      {
+        "word": "私邸",
+        "reading": "してい",
+        "meaning": "私邸"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "姿",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "女",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "すがた"
+      ]
+    },
+    "meanings": [
+      "figure",
+      "form",
+      "shape"
+    ],
+    "examples": [
+      {
+        "word": "姿勢",
+        "reading": "しせい",
+        "meaning": "姿勢"
+      },
+      {
+        "word": "容姿",
+        "reading": "ようし",
+        "meaning": "容姿"
+      },
+      {
+        "word": "後姿",
+        "reading": "うしろすがた",
+        "meaning": "後姿"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "視",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "見",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "み.る"
+      ]
+    },
+    "meanings": [
+      "inspection",
+      "look at",
+      "regard as",
+      "see"
+    ],
+    "examples": [
+      {
+        "word": "監視",
+        "reading": "かんし",
+        "meaning": "監視"
+      },
+      {
+        "word": "重視",
+        "reading": "じゅうし",
+        "meaning": "重視"
+      },
+      {
+        "word": "視点",
+        "reading": "してん",
+        "meaning": "視点"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "詞",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": [
+        "ことば"
+      ]
+    },
+    "meanings": [
+      "part of speech",
+      "poetry",
+      "words"
+    ],
+    "examples": [
+      {
+        "word": "歌詞",
+        "reading": "かし",
+        "meaning": "歌詞"
+      },
+      {
+        "word": "作詞",
+        "reading": "さくし",
+        "meaning": "作詞"
+      },
+      {
+        "word": "代名詞",
+        "reading": "だいめいし",
+        "meaning": "代名詞"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "誌",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "document",
+      "records"
+    ],
+    "examples": [
+      {
+        "word": "雑誌",
+        "reading": "ざっし",
+        "meaning": "雑誌"
+      },
+      {
+        "word": "誌す",
+        "reading": "しるす",
+        "meaning": "誌す"
+      },
+      {
+        "word": "日誌",
+        "reading": "にっし",
+        "meaning": "日誌"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "磁",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "石",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "magnet",
+      "porcelain"
+    ],
+    "examples": [
+      {
+        "word": "磁石",
+        "reading": "じしゃく",
+        "meaning": "磁石"
+      },
+      {
+        "word": "磁気",
+        "reading": "じき",
+        "meaning": "磁気"
+      },
+      {
+        "word": "磁器",
+        "reading": "じき",
+        "meaning": "磁器"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "射",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "寸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "い.る",
+        "う.つ",
+        "さ.す"
+      ]
+    },
+    "meanings": [
+      "archery",
+      "onto",
+      "shine into",
+      "shoot"
+    ],
+    "examples": [
+      {
+        "word": "射つ",
+        "reading": "うつ",
+        "meaning": "射つ"
+      },
+      {
+        "word": "注射",
+        "reading": "ちゅうしゃ",
+        "meaning": "注射"
+      },
+      {
+        "word": "放射能",
+        "reading": "ほうしゃのう",
+        "meaning": "放射能"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "捨",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "扌",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シャ"
+      ],
+      "kunyomi": [
+        "す.てる"
+      ]
+    },
+    "meanings": [
+      "abandon",
+      "discard",
+      "reject",
+      "resign",
+      "sacrifice",
+      "throw away"
+    ],
+    "examples": [
+      {
+        "word": "使い捨",
+        "reading": "つかいすて",
+        "meaning": "使い捨"
+      },
+      {
+        "word": "捨身",
+        "reading": "すてみ",
+        "meaning": "捨身"
+      },
+      {
+        "word": "切捨て",
+        "reading": "きりすて",
+        "meaning": "切捨て"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "尺",
+    "grade": 6,
+    "strokes": 4,
+    "radical": "尸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シャク",
+        "セキ"
+      ],
+      "kunyomi": [
+        "さし"
+      ]
+    },
+    "meanings": [
+      "Japanese foot",
+      "measure",
+      "rule",
+      "scale",
+      "shaku"
+    ],
+    "examples": [
+      {
+        "word": "尺八",
+        "reading": "しゃくはち",
+        "meaning": "尺八"
+      },
+      {
+        "word": "尺度",
+        "reading": "しゃくど",
+        "meaning": "尺度"
+      },
+      {
+        "word": "短尺",
+        "reading": "たんざく",
+        "meaning": "短尺"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "若",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "艹",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジャク",
+        "ニャ",
+        "ニャク"
+      ],
+      "kunyomi": [
+        "ごと.し",
+        "も.し",
+        "も.しくは",
+        "も.しくわ",
+        "わか-",
+        "わか.い"
+      ]
+    },
+    "meanings": [
+      "if",
+      "immature",
+      "low number",
+      "perhaps",
+      "possibly",
+      "young"
+    ],
+    "examples": [
+      {
+        "word": "若者",
+        "reading": "わかもの",
+        "meaning": "若者"
+      },
+      {
+        "word": "若干",
+        "reading": "じゃっかん",
+        "meaning": "若干"
+      },
+      {
+        "word": "若手",
+        "reading": "わかて",
+        "meaning": "若手"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "樹",
+    "grade": 6,
+    "strokes": 16,
+    "radical": "木",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジュ"
+      ],
+      "kunyomi": [
+        "き"
+      ]
+    },
+    "meanings": [
+      "establish",
+      "set up",
+      "timber",
+      "trees",
+      "wood"
+    ],
+    "examples": [
+      {
+        "word": "樹木",
+        "reading": "じゅもく",
+        "meaning": "樹木"
+      },
+      {
+        "word": "並樹",
+        "reading": "なみき",
+        "meaning": "並樹"
+      },
+      {
+        "word": "樹立",
+        "reading": "じゅりつ",
+        "meaning": "樹立"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "収",
+    "grade": 6,
+    "strokes": 4,
+    "radical": "又",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シュウ"
+      ],
+      "kunyomi": [
+        "おさ.まる",
+        "おさ.める"
+      ]
+    },
+    "meanings": [
+      "income",
+      "obtain",
+      "pay",
+      "reap",
+      "store",
+      "supply"
+    ],
+    "examples": [
+      {
+        "word": "収入",
+        "reading": "しゅうにゅう",
+        "meaning": "収入"
+      },
+      {
+        "word": "収支",
+        "reading": "しゅうし",
+        "meaning": "収支"
+      },
+      {
+        "word": "回収",
+        "reading": "かいしゅう",
+        "meaning": "回収"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "宗",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "宀",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シュウ",
+        "ソウ"
+      ],
+      "kunyomi": [
+        "むね"
+      ]
+    },
+    "meanings": [
+      "denomination",
+      "essence",
+      "main point",
+      "origin",
+      "religion",
+      "sect"
+    ],
+    "examples": [
+      {
+        "word": "宗教",
+        "reading": "しゅうきょう",
+        "meaning": "宗教"
+      },
+      {
+        "word": "宗門",
+        "reading": "しゅうもん",
+        "meaning": "宗門"
+      },
+      {
+        "word": "宗派",
+        "reading": "しゅうは",
+        "meaning": "宗派"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "就",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "尢",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シュウ",
+        "ジュ"
+      ],
+      "kunyomi": [
+        "つ.く",
+        "つ.ける"
+      ]
+    },
+    "meanings": [
+      "concerning",
+      "depart",
+      "per",
+      "settle",
+      "study",
+      "take position"
+    ],
+    "examples": [
+      {
+        "word": "就任",
+        "reading": "しゅうにん",
+        "meaning": "就任"
+      },
+      {
+        "word": "就職",
+        "reading": "しゅうしょく",
+        "meaning": "就職"
+      },
+      {
+        "word": "就労",
+        "reading": "しゅうろう",
+        "meaning": "就労"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "衆",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "血",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シュ",
+        "シュウ"
+      ],
+      "kunyomi": [
+        "おお.い"
+      ]
+    },
+    "meanings": [
+      "great numbers",
+      "masses",
+      "multitude",
+      "populace"
+    ],
+    "examples": [
+      {
+        "word": "大衆",
+        "reading": "たいしゅう",
+        "meaning": "大衆"
+      },
+      {
+        "word": "民衆",
+        "reading": "みんしゅう",
+        "meaning": "民衆"
+      },
+      {
+        "word": "聴衆",
+        "reading": "ちょうしゅう",
+        "meaning": "聴衆"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "従",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "彳",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ショウ",
+        "ジュ",
+        "ジュウ"
+      ],
+      "kunyomi": [
+        "したが.う",
+        "したが.える",
+        "より"
+      ]
+    },
+    "meanings": [
+      "accompany",
+      "comply",
+      "follow",
+      "incidental",
+      "obey",
+      "secondary",
+      "submit to",
+      "subordinate"
+    ],
+    "examples": [
+      {
+        "word": "従来",
+        "reading": "じゅうらい",
+        "meaning": "従来"
+      },
+      {
+        "word": "従業員",
+        "reading": "じゅうぎょういん",
+        "meaning": "従業員"
+      },
+      {
+        "word": "従事",
+        "reading": "じゅうじ",
+        "meaning": "従事"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "縦",
+    "grade": 6,
+    "strokes": 16,
+    "radical": "糸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジュウ"
+      ],
+      "kunyomi": [
+        "たて"
+      ]
+    },
+    "meanings": [
+      "height",
+      "length",
+      "self-indulgent",
+      "vertical",
+      "wayward"
+    ],
+    "examples": [
+      {
+        "word": "操縦",
+        "reading": "そうじゅう",
+        "meaning": "操縦"
+      },
+      {
+        "word": "縦横",
+        "reading": "じゅうおう",
+        "meaning": "縦横"
+      },
+      {
+        "word": "縦え",
+        "reading": "たとえ",
+        "meaning": "縦え"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "縮",
+    "grade": 6,
+    "strokes": 17,
+    "radical": "糸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シュク"
+      ],
+      "kunyomi": [
+        "ちぢ.まる",
+        "ちぢ.む",
+        "ちぢ.める",
+        "ちぢ.らす",
+        "ちぢ.れる"
+      ]
+    },
+    "meanings": [
+      "contract",
+      "reduce",
+      "shrink",
+      "shrivel",
+      "wrinkle"
+    ],
+    "examples": [
+      {
+        "word": "軍縮",
+        "reading": "ぐんしゅく",
+        "meaning": "軍縮"
+      },
+      {
+        "word": "縮小",
+        "reading": "しゅくしょう",
+        "meaning": "縮小"
+      },
+      {
+        "word": "短縮",
+        "reading": "たんしゅく",
+        "meaning": "短縮"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "熟",
+    "grade": 6,
+    "strokes": 15,
+    "radical": "灬",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジュク"
+      ],
+      "kunyomi": [
+        "う.れる"
+      ]
+    },
+    "meanings": [
+      "acquire skill",
+      "mature",
+      "mellow",
+      "ripen"
+    ],
+    "examples": [
+      {
+        "word": "成熟",
+        "reading": "せいじゅく",
+        "meaning": "成熟"
+      },
+      {
+        "word": "熟々",
+        "reading": "つくづく",
+        "meaning": "熟々"
+      },
+      {
+        "word": "熟熟",
+        "reading": "つくづく",
+        "meaning": "熟熟"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "純",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "糸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジュン"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "genuine",
+      "innocence",
+      "net (profit)",
+      "purity"
+    ],
+    "examples": [
+      {
+        "word": "単純",
+        "reading": "たんじゅん",
+        "meaning": "単純"
+      },
+      {
+        "word": "純粋",
+        "reading": "じゅんすい",
+        "meaning": "純粋"
+      },
+      {
+        "word": "純益",
+        "reading": "じゅんえき",
+        "meaning": "純益"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "処",
+    "grade": 6,
+    "strokes": 5,
+    "radical": "几",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ショ"
+      ],
+      "kunyomi": [
+        "-こ",
+        "お.る",
+        "ところ"
+      ]
+    },
+    "meanings": [
+      "act",
+      "behave",
+      "condemn",
+      "deal with",
+      "dispose",
+      "manage",
+      "place",
+      "sentence"
+    ],
+    "examples": [
+      {
+        "word": "処理",
+        "reading": "しょり",
+        "meaning": "処理"
+      },
+      {
+        "word": "処分",
+        "reading": "しょぶん",
+        "meaning": "処分"
+      },
+      {
+        "word": "住処",
+        "reading": "じゅうしょ",
+        "meaning": "住処"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "署",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "网",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ショ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "govt office",
+      "police station",
+      "signature"
+    ],
+    "examples": [
+      {
+        "word": "署名",
+        "reading": "しょめい",
+        "meaning": "署名"
+      },
+      {
+        "word": "署員",
+        "reading": "しょいん",
+        "meaning": "署員"
+      },
+      {
+        "word": "税務署",
+        "reading": "ぜいむしょ",
+        "meaning": "税務署"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "諸",
+    "grade": 6,
+    "strokes": 15,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ショ"
+      ],
+      "kunyomi": [
+        "もろ"
+      ]
+    },
+    "meanings": [
+      "many",
+      "several",
+      "together",
+      "various"
+    ],
+    "examples": [
+      {
+        "word": "諸君",
+        "reading": "しょくん",
+        "meaning": "諸君"
+      },
+      {
+        "word": "諸般",
+        "reading": "しょはん",
+        "meaning": "諸般"
+      },
+      {
+        "word": "諸悪",
+        "reading": "しょあく",
+        "meaning": "諸悪"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "除",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "阝",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジ",
+        "ジョ"
+      ],
+      "kunyomi": [
+        "-よ.け",
+        "のぞ.く"
+      ]
+    },
+    "meanings": [
+      "abolish",
+      "cancel",
+      "division (x/3)",
+      "except",
+      "exclude",
+      "remove"
+    ],
+    "examples": [
+      {
+        "word": "解除",
+        "reading": "かいじょ",
+        "meaning": "解除"
+      },
+      {
+        "word": "排除",
+        "reading": "はいじょ",
+        "meaning": "排除"
+      },
+      {
+        "word": "掃除",
+        "reading": "そうじ",
+        "meaning": "掃除"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "将",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "寸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ショウ",
+        "ソウ"
+      ],
+      "kunyomi": [
+        "はた",
+        "ひきい.る",
+        "まさ",
+        "まさ.に",
+        "もって"
+      ]
+    },
+    "meanings": [
+      "admiral",
+      "and again",
+      "commander",
+      "from now on",
+      "general",
+      "just about",
+      "leader",
+      "or",
+      "soon"
+    ],
+    "examples": [
+      {
+        "word": "将来",
+        "reading": "しょうらい",
+        "meaning": "将来"
+      },
+      {
+        "word": "将棊",
+        "reading": "しょうぎ",
+        "meaning": "将棊"
+      },
+      {
+        "word": "将棋",
+        "reading": "しょうぎ",
+        "meaning": "将棋"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "傷",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "亻",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "いた.む",
+        "いた.める",
+        "きず"
+      ]
+    },
+    "meanings": [
+      "cut",
+      "gash",
+      "hurt",
+      "impair",
+      "injure",
+      "injury",
+      "pain",
+      "scar",
+      "weak point",
+      "wound"
+    ],
+    "examples": [
+      {
+        "word": "傷み",
+        "reading": "いたみ",
+        "meaning": "傷み"
+      },
+      {
+        "word": "重傷",
+        "reading": "じゅうしょう",
+        "meaning": "重傷"
+      },
+      {
+        "word": "軽傷",
+        "reading": "けいしょう",
+        "meaning": "軽傷"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "障",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "阝",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ショウ"
+      ],
+      "kunyomi": [
+        "さわ.る"
+      ]
+    },
+    "meanings": [
+      "harm",
+      "hinder",
+      "hurt"
+    ],
+    "examples": [
+      {
+        "word": "障害",
+        "reading": "しょうがい",
+        "meaning": "障害"
+      },
+      {
+        "word": "障碍",
+        "reading": "しょうがい",
+        "meaning": "障碍"
+      },
+      {
+        "word": "障礙",
+        "reading": "しょうがい",
+        "meaning": "障礙"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "城",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "土",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジョウ",
+        "セイ"
+      ],
+      "kunyomi": [
+        "しろ"
+      ]
+    },
+    "meanings": [
+      "castle"
+    ],
+    "examples": [
+      {
+        "word": "城下町",
+        "reading": "じょうかまち",
+        "meaning": "城下町"
+      },
+      {
+        "word": "古城",
+        "reading": "こじょう",
+        "meaning": "古城"
+      },
+      {
+        "word": "城内",
+        "reading": "じょうない",
+        "meaning": "城内"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "蒸",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "艹",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジョウ",
+        "セイ"
+      ],
+      "kunyomi": [
+        "む.す",
+        "む.らす",
+        "む.れる"
+      ]
+    },
+    "meanings": [
+      "foment",
+      "get musty",
+      "heat",
+      "steam",
+      "sultry"
+    ],
+    "examples": [
+      {
+        "word": "蒸気",
+        "reading": "じょうき",
+        "meaning": "蒸気"
+      },
+      {
+        "word": "蒸汽",
+        "reading": "じょうき",
+        "meaning": "蒸汽"
+      },
+      {
+        "word": "蒸す",
+        "reading": "むす",
+        "meaning": "蒸す"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "針",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "金",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "シン"
+      ],
+      "kunyomi": [
+        "はり"
+      ]
+    },
+    "meanings": [
+      "needle",
+      "pin",
+      "staple",
+      "stinger"
+    ],
+    "examples": [
+      {
+        "word": "方針",
+        "reading": "ほうしん",
+        "meaning": "方針"
+      },
+      {
+        "word": "指針",
+        "reading": "ししん",
+        "meaning": "指針"
+      },
+      {
+        "word": "針金",
+        "reading": "はりがね",
+        "meaning": "針金"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "仁",
+    "grade": 6,
+    "strokes": 4,
+    "radical": "亻",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジン",
+        "ニ",
+        "ニン"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "benevolence",
+      "charity",
+      "humanity",
+      "kernel",
+      "man",
+      "virtue"
+    ],
+    "examples": [
+      {
+        "word": "親仁",
+        "reading": "おやじ",
+        "meaning": "親仁"
+      },
+      {
+        "word": "仁義",
+        "reading": "じんぎ",
+        "meaning": "仁義"
+      },
+      {
+        "word": "仁王",
+        "reading": "におう",
+        "meaning": "仁王"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "垂",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "土",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "スイ"
+      ],
+      "kunyomi": [
+        "-た.れ",
+        "た.らす",
+        "た.れ",
+        "た.れる",
+        "なんなんと.す"
+      ]
+    },
+    "meanings": [
+      "droop",
+      "hang",
+      "slouch",
+      "suspend"
+    ],
+    "examples": [
+      {
+        "word": "垂直",
+        "reading": "すいちょく",
+        "meaning": "垂直"
+      },
+      {
+        "word": "垂幕",
+        "reading": "たれまく",
+        "meaning": "垂幕"
+      },
+      {
+        "word": "垂れ",
+        "reading": "たれ",
+        "meaning": "垂れ"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "推",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "扌",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "スイ"
+      ],
+      "kunyomi": [
+        "お.す"
+      ]
+    },
+    "meanings": [
+      "conjecture",
+      "guess",
+      "infer",
+      "push (for)",
+      "support",
+      "suppose"
+    ],
+    "examples": [
+      {
+        "word": "推進",
+        "reading": "すいしん",
+        "meaning": "推進"
+      },
+      {
+        "word": "推薦",
+        "reading": "すいせん",
+        "meaning": "推薦"
+      },
+      {
+        "word": "推定",
+        "reading": "すいてい",
+        "meaning": "推定"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "寸",
+    "grade": 6,
+    "strokes": 3,
+    "radical": "寸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "スン"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "a little",
+      "measurement",
+      "small",
+      "tenth of a shaku"
+    ],
+    "examples": [
+      {
+        "word": "寸前",
+        "reading": "すんぜん",
+        "meaning": "寸前"
+      },
+      {
+        "word": "寸法",
+        "reading": "すんぽう",
+        "meaning": "寸法"
+      },
+      {
+        "word": "寸断",
+        "reading": "すんだん",
+        "meaning": "寸断"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "盛",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "皿",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ジョウ",
+        "セイ"
+      ],
+      "kunyomi": [
+        "さか.る",
+        "さか.ん",
+        "も.る"
+      ]
+    },
+    "meanings": [
+      "boom",
+      "copulate",
+      "prosper"
+    ],
+    "examples": [
+      {
+        "word": "盛ん",
+        "reading": "さかん",
+        "meaning": "盛ん"
+      },
+      {
+        "word": "盛り",
+        "reading": "さかり",
+        "meaning": "盛り"
+      },
+      {
+        "word": "盛込む",
+        "reading": "もりこむ",
+        "meaning": "盛込む"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "聖",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "耳",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ショウ",
+        "セイ"
+      ],
+      "kunyomi": [
+        "ひじり"
+      ]
+    },
+    "meanings": [
+      "holy",
+      "master",
+      "priest",
+      "sage",
+      "saint"
+    ],
+    "examples": [
+      {
+        "word": "聖書",
+        "reading": "せいしょ",
+        "meaning": "聖書"
+      },
+      {
+        "word": "棋聖",
+        "reading": "きせい",
+        "meaning": "棋聖"
+      },
+      {
+        "word": "神聖",
+        "reading": "しんせい",
+        "meaning": "神聖"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "誠",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "セイ"
+      ],
+      "kunyomi": [
+        "まこと"
+      ]
+    },
+    "meanings": [
+      "admonish",
+      "fidelity",
+      "prohibit",
+      "sincerity",
+      "truth",
+      "warn"
+    ],
+    "examples": [
+      {
+        "word": "誠に",
+        "reading": "まことに",
+        "meaning": "誠に"
+      },
+      {
+        "word": "誠意",
+        "reading": "せいい",
+        "meaning": "誠意"
+      },
+      {
+        "word": "誠実",
+        "reading": "せいじつ",
+        "meaning": "誠実"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "宣",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "宀",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "のたま.う"
+      ]
+    },
+    "meanings": [
+      "announce",
+      "proclaim",
+      "say"
+    ],
+    "examples": [
+      {
+        "word": "宣言",
+        "reading": "せんげん",
+        "meaning": "宣言"
+      },
+      {
+        "word": "宣伝",
+        "reading": "せんでん",
+        "meaning": "宣伝"
+      },
+      {
+        "word": "宣告",
+        "reading": "せんこく",
+        "meaning": "宣告"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "専",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "寸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "もっぱ.ら"
+      ]
+    },
+    "meanings": [
+      "exclusive",
+      "mainly",
+      "solely",
+      "specialty"
+    ],
+    "examples": [
+      {
+        "word": "専務",
+        "reading": "せんむ",
+        "meaning": "専務"
+      },
+      {
+        "word": "専門",
+        "reading": "せんもん",
+        "meaning": "専門"
+      },
+      {
+        "word": "専攻",
+        "reading": "せんこう",
+        "meaning": "専攻"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "泉",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "水",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "いずみ"
+      ]
+    },
+    "meanings": [
+      "fountain",
+      "spring"
+    ],
+    "examples": [
+      {
+        "word": "温泉",
+        "reading": "おんせん",
+        "meaning": "温泉"
+      },
+      {
+        "word": "原泉",
+        "reading": "げんせん",
+        "meaning": "原泉"
+      },
+      {
+        "word": "源泉",
+        "reading": "げんせん",
+        "meaning": "源泉"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "洗",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "氵",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "あら.う"
+      ]
+    },
+    "meanings": [
+      "inquire into",
+      "probe",
+      "wash"
+    ],
+    "examples": [
+      {
+        "word": "洗濯",
+        "reading": "せんたく",
+        "meaning": "洗濯"
+      },
+      {
+        "word": "洗剤",
+        "reading": "せんざい",
+        "meaning": "洗剤"
+      },
+      {
+        "word": "洗たく",
+        "reading": "せんたく",
+        "meaning": "洗たく"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "染",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "木",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "セン"
+      ],
+      "kunyomi": [
+        "し.み",
+        "し.みる",
+        "そ.まる",
+        "そ.める"
+      ]
+    },
+    "meanings": [
+      "color",
+      "dye",
+      "paint",
+      "print",
+      "stain"
+    ],
+    "examples": [
+      {
+        "word": "汚染",
+        "reading": "おせん",
+        "meaning": "汚染"
+      },
+      {
+        "word": "感染",
+        "reading": "かんせん",
+        "meaning": "感染"
+      },
+      {
+        "word": "染色",
+        "reading": "せんしょく",
+        "meaning": "染色"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "善",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "口",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ゼン"
+      ],
+      "kunyomi": [
+        "い.い",
+        "よ.い",
+        "よ.く",
+        "よし.とする"
+      ]
+    },
+    "meanings": [
+      "good",
+      "goodness",
+      "virtuous"
+    ],
+    "examples": [
+      {
+        "word": "改善",
+        "reading": "かいぜん",
+        "meaning": "改善"
+      },
+      {
+        "word": "善い",
+        "reading": "よい",
+        "meaning": "善い"
+      },
+      {
+        "word": "親善",
+        "reading": "しんぜん",
+        "meaning": "親善"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "奏",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "大",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": [
+        "かな.でる"
+      ]
+    },
+    "meanings": [
+      "complete",
+      "play music",
+      "speak to a ruler"
+    ],
+    "examples": [
+      {
+        "word": "演奏",
+        "reading": "えんそう",
+        "meaning": "演奏"
+      },
+      {
+        "word": "奏者",
+        "reading": "そうしゃ",
+        "meaning": "奏者"
+      },
+      {
+        "word": "伴奏",
+        "reading": "ばんそう",
+        "meaning": "伴奏"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "窓",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "穴",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ス",
+        "ソウ"
+      ],
+      "kunyomi": [
+        "けむだし",
+        "てんまど",
+        "まど"
+      ]
+    },
+    "meanings": [
+      "pane",
+      "window"
+    ],
+    "examples": [
+      {
+        "word": "窓口",
+        "reading": "まどぐち",
+        "meaning": "窓口"
+      },
+      {
+        "word": "同窓会",
+        "reading": "どうそうかい",
+        "meaning": "同窓会"
+      },
+      {
+        "word": "窓際",
+        "reading": "まどぎわ",
+        "meaning": "窓際"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "創",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "刂",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ショウ",
+        "ソウ"
+      ],
+      "kunyomi": [
+        "きず",
+        "けず.しける",
+        "つく.る",
+        "はじ.める"
+      ]
+    },
+    "meanings": [
+      "genesis",
+      "hurt",
+      "injury",
+      "originate",
+      "start",
+      "wound"
+    ],
+    "examples": [
+      {
+        "word": "創る",
+        "reading": "つくる",
+        "meaning": "創る"
+      },
+      {
+        "word": "創立",
+        "reading": "そうりつ",
+        "meaning": "創立"
+      },
+      {
+        "word": "創刊",
+        "reading": "そうかん",
+        "meaning": "創刊"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "装",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "衣",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ショウ",
+        "ソウ"
+      ],
+      "kunyomi": [
+        "よそお.い",
+        "よそお.う"
+      ]
+    },
+    "meanings": [
+      "attire",
+      "disguise",
+      "dress",
+      "pretend",
+      "profess"
+    ],
+    "examples": [
+      {
+        "word": "武装",
+        "reading": "ぶそう",
+        "meaning": "武装"
+      },
+      {
+        "word": "装置",
+        "reading": "そうち",
+        "meaning": "装置"
+      },
+      {
+        "word": "衣装",
+        "reading": "いしょう",
+        "meaning": "衣装"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "層",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "尸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ソウ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "floor",
+      "layer",
+      "social class",
+      "story",
+      "stratum"
+    ],
+    "examples": [
+      {
+        "word": "一層",
+        "reading": "いっそう",
+        "meaning": "一層"
+      },
+      {
+        "word": "高層",
+        "reading": "こうそう",
+        "meaning": "高層"
+      },
+      {
+        "word": "断層",
+        "reading": "だんそう",
+        "meaning": "断層"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "操",
+    "grade": 6,
+    "strokes": 16,
+    "radical": "扌",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "サン",
+        "ソウ"
+      ],
+      "kunyomi": [
+        "あやつ.る",
+        "みさお"
+      ]
+    },
+    "meanings": [
+      "chastity",
+      "fidelity",
+      "maneuver",
+      "manipulate",
+      "operate",
+      "steer",
+      "virginity"
+    ],
+    "examples": [
+      {
+        "word": "操作",
+        "reading": "そうさ",
+        "meaning": "操作"
+      },
+      {
+        "word": "操縦",
+        "reading": "そうじゅう",
+        "meaning": "操縦"
+      },
+      {
+        "word": "体操",
+        "reading": "たいそう",
+        "meaning": "体操"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "蔵",
+    "grade": 6,
+    "strokes": 15,
+    "radical": "艹",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ソウ",
+        "ゾウ"
+      ],
+      "kunyomi": [
+        "おさ.める",
+        "かく.れる",
+        "くら"
+      ]
+    },
+    "meanings": [
+      "have",
+      "hide",
+      "own",
+      "possess",
+      "storehouse"
+    ],
+    "examples": [
+      {
+        "word": "大蔵",
+        "reading": "おおくら",
+        "meaning": "大蔵"
+      },
+      {
+        "word": "大蔵省",
+        "reading": "おおくらしょう",
+        "meaning": "大蔵省"
+      },
+      {
+        "word": "蔵相",
+        "reading": "ぞうしょう",
+        "meaning": "蔵相"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "臓",
+    "grade": 6,
+    "strokes": 19,
+    "radical": "月",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ゾウ"
+      ],
+      "kunyomi": [
+        "はらわた"
+      ]
+    },
+    "meanings": [
+      "bowels",
+      "entrails",
+      "viscera"
+    ],
+    "examples": [
+      {
+        "word": "心臓",
+        "reading": "しんぞう",
+        "meaning": "心臓"
+      },
+      {
+        "word": "肝臓",
+        "reading": "かんぞう",
+        "meaning": "肝臓"
+      },
+      {
+        "word": "臓器",
+        "reading": "ぞうき",
+        "meaning": "臓器"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "存",
+    "grade": 6,
+    "strokes": 6,
+    "radical": "子",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ソン",
+        "ゾン"
+      ],
+      "kunyomi": [
+        "あ.る",
+        "たも.つ",
+        "と.う",
+        "ながら.える"
+      ]
+    },
+    "meanings": [
+      "be aware of",
+      "believe",
+      "exist",
+      "feel",
+      "suppose"
+    ],
+    "examples": [
+      {
+        "word": "存在",
+        "reading": "そんざい",
+        "meaning": "存在"
+      },
+      {
+        "word": "保存",
+        "reading": "ほぞん",
+        "meaning": "保存"
+      },
+      {
+        "word": "生存",
+        "reading": "せいぞん",
+        "meaning": "生存"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "尊",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "寸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ソン"
+      ],
+      "kunyomi": [
+        "たっと.い",
+        "たっと.ぶ",
+        "とうと.い",
+        "とうと.ぶ"
+      ]
+    },
+    "meanings": [
+      "exalted",
+      "noble",
+      "precious",
+      "revered",
+      "valuable"
+    ],
+    "examples": [
+      {
+        "word": "尊重",
+        "reading": "そんちょう",
+        "meaning": "尊重"
+      },
+      {
+        "word": "尊敬",
+        "reading": "そんけい",
+        "meaning": "尊敬"
+      },
+      {
+        "word": "尊厳",
+        "reading": "そんげん",
+        "meaning": "尊厳"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "退",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "辶",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "タイ"
+      ],
+      "kunyomi": [
+        "しりぞ.く",
+        "しりぞ.ける",
+        "ど.く",
+        "の.く",
+        "の.ける",
+        "ひ.く"
+      ]
+    },
+    "meanings": [
+      "expel",
+      "reject",
+      "repel",
+      "resign",
+      "retire",
+      "retreat",
+      "withdraw"
+    ],
+    "examples": [
+      {
+        "word": "退職",
+        "reading": "たいしょく",
+        "meaning": "退職"
+      },
+      {
+        "word": "引退",
+        "reading": "いんたい",
+        "meaning": "引退"
+      },
+      {
+        "word": "脱退",
+        "reading": "だったい",
+        "meaning": "脱退"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "宅",
+    "grade": 6,
+    "strokes": 6,
+    "radical": "宀",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "タク"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "home",
+      "house",
+      "my husband",
+      "our house",
+      "residence"
+    ],
+    "examples": [
+      {
+        "word": "自宅",
+        "reading": "じたく",
+        "meaning": "自宅"
+      },
+      {
+        "word": "住宅",
+        "reading": "じゅうたく",
+        "meaning": "住宅"
+      },
+      {
+        "word": "宅地",
+        "reading": "たくち",
+        "meaning": "宅地"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "担",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "扌",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "タン"
+      ],
+      "kunyomi": [
+        "かつ.ぐ",
+        "にな.う"
+      ]
+    },
+    "meanings": [
+      "bear",
+      "carry",
+      "raise",
+      "shouldering"
+    ],
+    "examples": [
+      {
+        "word": "担当",
+        "reading": "たんとう",
+        "meaning": "担当"
+      },
+      {
+        "word": "負担",
+        "reading": "ふたん",
+        "meaning": "負担"
+      },
+      {
+        "word": "担保",
+        "reading": "たんぽ",
+        "meaning": "担保"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "探",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "扌",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "タン"
+      ],
+      "kunyomi": [
+        "さが.す",
+        "さぐ.る"
+      ]
+    },
+    "meanings": [
+      "grope",
+      "look for",
+      "search"
+    ],
+    "examples": [
+      {
+        "word": "探検",
+        "reading": "たんけん",
+        "meaning": "探検"
+      },
+      {
+        "word": "探険",
+        "reading": "たんけん",
+        "meaning": "探険"
+      },
+      {
+        "word": "探す",
+        "reading": "さがす",
+        "meaning": "探す"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "誕",
+    "grade": 6,
+    "strokes": 15,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "タン"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "be arbitrary",
+      "be born",
+      "declension",
+      "lie",
+      "nativity"
+    ],
+    "examples": [
+      {
+        "word": "誕生",
+        "reading": "たんじょう",
+        "meaning": "誕生"
+      },
+      {
+        "word": "生誕",
+        "reading": "せいたん",
+        "meaning": "生誕"
+      },
+      {
+        "word": "誕生日",
+        "reading": "たんじょうび",
+        "meaning": "誕生日"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "段",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "殳",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "タン",
+        "ダン"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "grade",
+      "stairs",
+      "steps"
+    ],
+    "examples": [
+      {
+        "word": "段階",
+        "reading": "だんかい",
+        "meaning": "段階"
+      },
+      {
+        "word": "手段",
+        "reading": "しゅだん",
+        "meaning": "手段"
+      },
+      {
+        "word": "値段",
+        "reading": "ねだん",
+        "meaning": "値段"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "暖",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "日",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ダン",
+        "ノン"
+      ],
+      "kunyomi": [
+        "あたた.か",
+        "あたた.かい",
+        "あたた.まる",
+        "あたた.める"
+      ]
+    },
+    "meanings": [
+      "warmth"
+    ],
+    "examples": [
+      {
+        "word": "温暖",
+        "reading": "おんだん",
+        "meaning": "温暖"
+      },
+      {
+        "word": "暖房",
+        "reading": "だんぼう",
+        "meaning": "暖房"
+      },
+      {
+        "word": "暖い",
+        "reading": "あたたかい",
+        "meaning": "暖い"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "値",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "亻",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "チ"
+      ],
+      "kunyomi": [
+        "あたい",
+        "ね"
+      ]
+    },
+    "meanings": [
+      "cost",
+      "price",
+      "value"
+    ],
+    "examples": [
+      {
+        "word": "値上",
+        "reading": "ねあげ",
+        "meaning": "値上"
+      },
+      {
+        "word": "価値",
+        "reading": "かち",
+        "meaning": "価値"
+      },
+      {
+        "word": "値段",
+        "reading": "ねだん",
+        "meaning": "値段"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "宙",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "宀",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "チュウ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "air",
+      "interval of time",
+      "memorization",
+      "mid-air",
+      "sky",
+      "space"
+    ],
+    "examples": [
+      {
+        "word": "宇宙",
+        "reading": "うちゅう",
+        "meaning": "宇宙"
+      },
+      {
+        "word": "宙返り",
+        "reading": "ちゅうがえり",
+        "meaning": "宙返り"
+      },
+      {
+        "word": "大宇宙",
+        "reading": "だいうちゅう",
+        "meaning": "大宇宙"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "忠",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "心",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "チュウ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "faithfulness",
+      "fidelity",
+      "loyalty"
+    ],
+    "examples": [
+      {
+        "word": "忠実",
+        "reading": "ちゅうじつ",
+        "meaning": "忠実"
+      },
+      {
+        "word": "忠告",
+        "reading": "ちゅうこく",
+        "meaning": "忠告"
+      },
+      {
+        "word": "忠臣",
+        "reading": "ちゅうしん",
+        "meaning": "忠臣"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "著",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "艹",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "チャク",
+        "チョ"
+      ],
+      "kunyomi": [
+        "あらわ.す",
+        "いちじる.しい"
+      ]
+    },
+    "meanings": [
+      "arrival",
+      "counter for suits of clothing",
+      "don",
+      "finish (race)",
+      "literary work",
+      "phenomenal",
+      "publish",
+      "put on",
+      "remarkable",
+      "renowned",
+      "wear",
+      "write"
+    ],
+    "examples": [
+      {
+        "word": "著者",
+        "reading": "ちょしゃ",
+        "meaning": "著者"
+      },
+      {
+        "word": "著書",
+        "reading": "ちょしょ",
+        "meaning": "著書"
+      },
+      {
+        "word": "著名",
+        "reading": "ちょめい",
+        "meaning": "著名"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "庁",
+    "grade": 6,
+    "strokes": 5,
+    "radical": "广",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "チョウ",
+        "テイ"
+      ],
+      "kunyomi": [
+        "やくしょ"
+      ]
+    },
+    "meanings": [
+      "government office"
+    ],
+    "examples": [
+      {
+        "word": "官庁",
+        "reading": "かんちょう",
+        "meaning": "官庁"
+      },
+      {
+        "word": "警視庁",
+        "reading": "けいしちょう",
+        "meaning": "警視庁"
+      },
+      {
+        "word": "県庁",
+        "reading": "けんちょう",
+        "meaning": "県庁"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "頂",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "頁",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "いただ.く",
+        "いただき"
+      ]
+    },
+    "meanings": [
+      "peak",
+      "place on the head",
+      "receive",
+      "summit",
+      "top",
+      "top of head"
+    ],
+    "examples": [
+      {
+        "word": "頂点",
+        "reading": "ちょうてん",
+        "meaning": "頂点"
+      },
+      {
+        "word": "頂上",
+        "reading": "ちょうじょう",
+        "meaning": "頂上"
+      },
+      {
+        "word": "山頂",
+        "reading": "さんちょう",
+        "meaning": "山頂"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "潮",
+    "grade": 6,
+    "strokes": 15,
+    "radical": "氵",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "チョウ"
+      ],
+      "kunyomi": [
+        "うしお",
+        "しお"
+      ]
+    },
+    "meanings": [
+      "opportunity",
+      "salt water",
+      "tide"
+    ],
+    "examples": [
+      {
+        "word": "風潮",
+        "reading": "ふうちょう",
+        "meaning": "風潮"
+      },
+      {
+        "word": "潮流",
+        "reading": "ちょうりゅう",
+        "meaning": "潮流"
+      },
+      {
+        "word": "潮時",
+        "reading": "しおどき",
+        "meaning": "潮時"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "賃",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "貝",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "チン"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "charge",
+      "fare",
+      "fee",
+      "hire",
+      "rent",
+      "wages"
+    ],
+    "examples": [
+      {
+        "word": "賃金",
+        "reading": "ちんぎん",
+        "meaning": "賃金"
+      },
+      {
+        "word": "賃銀",
+        "reading": "ちんぎん",
+        "meaning": "賃銀"
+      },
+      {
+        "word": "運賃",
+        "reading": "うんちん",
+        "meaning": "運賃"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "痛",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "疒",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ツウ"
+      ],
+      "kunyomi": [
+        "いた.い",
+        "いた.ましい",
+        "いた.む",
+        "いた.める"
+      ]
+    },
+    "meanings": [
+      "bruise",
+      "damage",
+      "hurt",
+      "pain"
+    ],
+    "examples": [
+      {
+        "word": "痛み",
+        "reading": "いたみ",
+        "meaning": "痛み"
+      },
+      {
+        "word": "頭痛",
+        "reading": "ずつう",
+        "meaning": "頭痛"
+      },
+      {
+        "word": "苦痛",
+        "reading": "くつう",
+        "meaning": "苦痛"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "展",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "尸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "テン"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "expand",
+      "unfold"
+    ],
+    "examples": [
+      {
+        "word": "発展",
+        "reading": "はってん",
+        "meaning": "発展"
+      },
+      {
+        "word": "展開",
+        "reading": "てんかい",
+        "meaning": "展開"
+      },
+      {
+        "word": "展示",
+        "reading": "てんじ",
+        "meaning": "展示"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "討",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "う.つ"
+      ]
+    },
+    "meanings": [
+      "attack",
+      "chastise",
+      "conquer",
+      "defeat",
+      "destroy"
+    ],
+    "examples": [
+      {
+        "word": "検討",
+        "reading": "けんとう",
+        "meaning": "検討"
+      },
+      {
+        "word": "討論",
+        "reading": "とうろん",
+        "meaning": "討論"
+      },
+      {
+        "word": "討議",
+        "reading": "とうぎ",
+        "meaning": "討議"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "党",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "儿",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": [
+        "なかま",
+        "むら"
+      ]
+    },
+    "meanings": [
+      "clique",
+      "faction",
+      "party"
+    ],
+    "examples": [
+      {
+        "word": "政党",
+        "reading": "せいとう",
+        "meaning": "政党"
+      },
+      {
+        "word": "野党",
+        "reading": "やとう",
+        "meaning": "野党"
+      },
+      {
+        "word": "与党",
+        "reading": "よとう",
+        "meaning": "与党"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "糖",
+    "grade": 6,
+    "strokes": 16,
+    "radical": "米",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "トウ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "sugar"
+    ],
+    "examples": [
+      {
+        "word": "砂糖",
+        "reading": "さとう",
+        "meaning": "砂糖"
+      },
+      {
+        "word": "糖尿病",
+        "reading": "とうにょうびょう",
+        "meaning": "糖尿病"
+      },
+      {
+        "word": "糖分",
+        "reading": "とうぶん",
+        "meaning": "糖分"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "届",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "尸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "カイ"
+      ],
+      "kunyomi": [
+        "-とど.け",
+        "とど.く",
+        "とど.ける"
+      ]
+    },
+    "meanings": [
+      "arrive",
+      "deliver",
+      "forward",
+      "notify",
+      "reach",
+      "report"
+    ],
+    "examples": [
+      {
+        "word": "届け",
+        "reading": "とどけ",
+        "meaning": "届け"
+      },
+      {
+        "word": "届出",
+        "reading": "とどけで",
+        "meaning": "届出"
+      },
+      {
+        "word": "届け出",
+        "reading": "とどけで",
+        "meaning": "届け出"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "難",
+    "grade": 6,
+    "strokes": 18,
+    "radical": "隹",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ナン"
+      ],
+      "kunyomi": [
+        "-がた.い",
+        "-にく.い",
+        "かた.い",
+        "むずか.しい",
+        "むつか.しい",
+        "むづか.しい"
+      ]
+    },
+    "meanings": [
+      "accident",
+      "defect",
+      "difficult",
+      "impossible",
+      "trouble"
+    ],
+    "examples": [
+      {
+        "word": "難民",
+        "reading": "なんみん",
+        "meaning": "難民"
+      },
+      {
+        "word": "困難",
+        "reading": "こんなん",
+        "meaning": "困難"
+      },
+      {
+        "word": "避難",
+        "reading": "ひなん",
+        "meaning": "避難"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "乳",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "乙",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ニュウ"
+      ],
+      "kunyomi": [
+        "ち",
+        "ちち"
+      ]
+    },
+    "meanings": [
+      "breasts",
+      "milk"
+    ],
+    "examples": [
+      {
+        "word": "牛乳",
+        "reading": "ぎゅうにゅう",
+        "meaning": "牛乳"
+      },
+      {
+        "word": "乳児",
+        "reading": "にゅうじ",
+        "meaning": "乳児"
+      },
+      {
+        "word": "母乳",
+        "reading": "ぼにゅう",
+        "meaning": "母乳"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "認",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ニン"
+      ],
+      "kunyomi": [
+        "したた.める",
+        "みと.める"
+      ]
+    },
+    "meanings": [
+      "acknowledge",
+      "appreciate",
+      "believe",
+      "discern",
+      "recognize",
+      "witness"
+    ],
+    "examples": [
+      {
+        "word": "承認",
+        "reading": "しょうにん",
+        "meaning": "承認"
+      },
+      {
+        "word": "認識",
+        "reading": "にんしき",
+        "meaning": "認識"
+      },
+      {
+        "word": "確認",
+        "reading": "かくにん",
+        "meaning": "確認"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "納",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "糸",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "トウ",
+        "ナ",
+        "ナッ",
+        "ナン",
+        "ノウ"
+      ],
+      "kunyomi": [
+        "-おさ.める",
+        "おさ.まる",
+        "おさ.める"
+      ]
+    },
+    "meanings": [
+      "obtain",
+      "pay",
+      "reap",
+      "settlement",
+      "store",
+      "supply"
+    ],
+    "examples": [
+      {
+        "word": "納税",
+        "reading": "のうぜい",
+        "meaning": "納税"
+      },
+      {
+        "word": "納得",
+        "reading": "なっとく",
+        "meaning": "納得"
+      },
+      {
+        "word": "納入",
+        "reading": "のうにゅう",
+        "meaning": "納入"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "脳",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "月",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ドウ",
+        "ノウ"
+      ],
+      "kunyomi": [
+        "のうずる"
+      ]
+    },
+    "meanings": [
+      "brain",
+      "memory"
+    ],
+    "examples": [
+      {
+        "word": "主脳",
+        "reading": "しゅのう",
+        "meaning": "主脳"
+      },
+      {
+        "word": "首脳",
+        "reading": "しゅのう",
+        "meaning": "首脳"
+      },
+      {
+        "word": "脳死",
+        "reading": "のうし",
+        "meaning": "脳死"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "派",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "氵",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ハ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "clique",
+      "faction",
+      "group",
+      "party",
+      "school",
+      "sect"
+    ],
+    "examples": [
+      {
+        "word": "派遣",
+        "reading": "はけん",
+        "meaning": "派遣"
+      },
+      {
+        "word": "派閥",
+        "reading": "はばつ",
+        "meaning": "派閥"
+      },
+      {
+        "word": "立派",
+        "reading": "りっぱ",
+        "meaning": "立派"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "拝",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "扌",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ハイ"
+      ],
+      "kunyomi": [
+        "おが.む",
+        "おろが.む"
+      ]
+    },
+    "meanings": [
+      "adore",
+      "pray to",
+      "worship"
+    ],
+    "examples": [
+      {
+        "word": "参拝",
+        "reading": "さんぱい",
+        "meaning": "参拝"
+      },
+      {
+        "word": "崇拝",
+        "reading": "すうはい",
+        "meaning": "崇拝"
+      },
+      {
+        "word": "礼拝",
+        "reading": "れいはい",
+        "meaning": "礼拝"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "背",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "月",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ハイ"
+      ],
+      "kunyomi": [
+        "せ",
+        "せい",
+        "そむ.く",
+        "そむ.ける"
+      ]
+    },
+    "meanings": [
+      "back",
+      "behind",
+      "defy",
+      "disobey",
+      "go back on",
+      "height",
+      "rebel",
+      "stature"
+    ],
+    "examples": [
+      {
+        "word": "背景",
+        "reading": "はいけい",
+        "meaning": "背景"
+      },
+      {
+        "word": "背中",
+        "reading": "せなか",
+        "meaning": "背中"
+      },
+      {
+        "word": "背なか",
+        "reading": "せなか",
+        "meaning": "背なか"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "肺",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "月",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ハイ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "lungs"
+    ],
+    "examples": [
+      {
+        "word": "肺炎",
+        "reading": "はいえん",
+        "meaning": "肺炎"
+      },
+      {
+        "word": "肺結核",
+        "reading": "はいけっかく",
+        "meaning": "肺結核"
+      },
+      {
+        "word": "肺血症",
+        "reading": "はいけつしょう",
+        "meaning": "肺血症"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "俳",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "亻",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ハイ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "actor",
+      "haiku"
+    ],
+    "examples": [
+      {
+        "word": "俳優",
+        "reading": "はいゆう",
+        "meaning": "俳優"
+      },
+      {
+        "word": "俳句",
+        "reading": "はいく",
+        "meaning": "俳句"
+      },
+      {
+        "word": "俳人",
+        "reading": "はいじん",
+        "meaning": "俳人"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "班",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "王",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ハン"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "corps",
+      "group",
+      "squad",
+      "unit"
+    ],
+    "examples": [
+      {
+        "word": "班長",
+        "reading": "はんちょう",
+        "meaning": "班長"
+      },
+      {
+        "word": "首班",
+        "reading": "しゅはん",
+        "meaning": "首班"
+      },
+      {
+        "word": "班員",
+        "reading": "はんいん",
+        "meaning": "班員"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "晩",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "日",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "バン"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "night",
+      "nightfall"
+    ],
+    "examples": [
+      {
+        "word": "晩年",
+        "reading": "ばんねん",
+        "meaning": "晩年"
+      },
+      {
+        "word": "毎晩",
+        "reading": "まいばん",
+        "meaning": "毎晩"
+      },
+      {
+        "word": "晩い",
+        "reading": "おそい",
+        "meaning": "晩い"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "否",
+    "grade": 6,
+    "strokes": 7,
+    "radical": "口",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "いな",
+        "いや"
+      ]
+    },
+    "meanings": [
+      "decline",
+      "deny",
+      "negate",
+      "no",
+      "noes",
+      "refuse"
+    ],
+    "examples": [
+      {
+        "word": "拒否",
+        "reading": "きょひ",
+        "meaning": "拒否"
+      },
+      {
+        "word": "是否",
+        "reading": "ぜひ",
+        "meaning": "是否"
+      },
+      {
+        "word": "否定",
+        "reading": "ひてい",
+        "meaning": "否定"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "批",
+    "grade": 6,
+    "strokes": 7,
+    "radical": "扌",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "criticism",
+      "strike"
+    ],
+    "examples": [
+      {
+        "word": "批判",
+        "reading": "ひはん",
+        "meaning": "批判"
+      },
+      {
+        "word": "批難",
+        "reading": "ひなん",
+        "meaning": "批難"
+      },
+      {
+        "word": "批評",
+        "reading": "ひひょう",
+        "meaning": "批評"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "秘",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "禾",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヒ"
+      ],
+      "kunyomi": [
+        "かく.す",
+        "ひ.める",
+        "ひそ.か"
+      ]
+    },
+    "meanings": [
+      "conceal",
+      "secret"
+    ],
+    "examples": [
+      {
+        "word": "秘書",
+        "reading": "ひしょ",
+        "meaning": "秘書"
+      },
+      {
+        "word": "秘密",
+        "reading": "ひみつ",
+        "meaning": "秘密"
+      },
+      {
+        "word": "極秘",
+        "reading": "ごくひ",
+        "meaning": "極秘"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "腹",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "月",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "フク"
+      ],
+      "kunyomi": [
+        "はら"
+      ]
+    },
+    "meanings": [
+      "abdomen",
+      "belly",
+      "stomach"
+    ],
+    "examples": [
+      {
+        "word": "裏腹",
+        "reading": "うらはら",
+        "meaning": "裏腹"
+      },
+      {
+        "word": "腹部",
+        "reading": "ふくぶ",
+        "meaning": "腹部"
+      },
+      {
+        "word": "空腹",
+        "reading": "くうふく",
+        "meaning": "空腹"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "奮",
+    "grade": 6,
+    "strokes": 16,
+    "radical": "大",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "フン"
+      ],
+      "kunyomi": [
+        "ふる.う"
+      ]
+    },
+    "meanings": [
+      "be invigorated",
+      "flourish",
+      "stirred up"
+    ],
+    "examples": [
+      {
+        "word": "亢奮",
+        "reading": "こうふん",
+        "meaning": "亢奮"
+      },
+      {
+        "word": "昂奮",
+        "reading": "こうふん",
+        "meaning": "昂奮"
+      },
+      {
+        "word": "興奮",
+        "reading": "こうふん",
+        "meaning": "興奮"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "並",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "一",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヘイ",
+        "ホウ"
+      ],
+      "kunyomi": [
+        "な.み",
+        "なみ",
+        "なら.びに",
+        "なら.ぶ",
+        "なら.べる"
+      ]
+    },
+    "meanings": [
+      "and",
+      "as well as",
+      "besides",
+      "equal",
+      "line up",
+      "rank with",
+      "rival",
+      "row"
+    ],
+    "examples": [
+      {
+        "word": "並び",
+        "reading": "ならび",
+        "meaning": "並び"
+      },
+      {
+        "word": "並み",
+        "reading": "なみ",
+        "meaning": "並み"
+      },
+      {
+        "word": "並立",
+        "reading": "へいりつ",
+        "meaning": "並立"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "陛",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "阝",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヘイ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "highness",
+      "steps (of throne)"
+    ],
+    "examples": [
+      {
+        "word": "陛下",
+        "reading": "へいか",
+        "meaning": "陛下"
+      },
+      {
+        "word": "陛衛",
+        "reading": "へいえい",
+        "meaning": "陛衛"
+      },
+      {
+        "word": "両陛下",
+        "reading": "りょうへいか",
+        "meaning": "両陛下"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "閉",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "門",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヘイ"
+      ],
+      "kunyomi": [
+        "し.まる",
+        "し.める",
+        "た.てる",
+        "と.ざす",
+        "と.じる"
+      ]
+    },
+    "meanings": [
+      "closed",
+      "shut"
+    ],
+    "examples": [
+      {
+        "word": "閉鎖",
+        "reading": "へいさ",
+        "meaning": "閉鎖"
+      },
+      {
+        "word": "閉会",
+        "reading": "へいかい",
+        "meaning": "閉会"
+      },
+      {
+        "word": "閉切り",
+        "reading": "しめきり",
+        "meaning": "閉切り"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "片",
+    "grade": 6,
+    "strokes": 4,
+    "radical": "片",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヘン"
+      ],
+      "kunyomi": [
+        "かた",
+        "かた-"
+      ]
+    },
+    "meanings": [
+      "leaf",
+      "one-sided",
+      "right-side kata radical (no. 91)",
+      "sheet"
+    ],
+    "examples": [
+      {
+        "word": "片手",
+        "reading": "かたて",
+        "meaning": "片手"
+      },
+      {
+        "word": "破片",
+        "reading": "はへん",
+        "meaning": "破片"
+      },
+      {
+        "word": "片方",
+        "reading": "かたほう",
+        "meaning": "片方"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "補",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "衣",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ホ"
+      ],
+      "kunyomi": [
+        "おぎな.う"
+      ]
+    },
+    "meanings": [
+      "assistant",
+      "compensate",
+      "learner",
+      "make good",
+      "offset",
+      "supplement",
+      "supply"
+    ],
+    "examples": [
+      {
+        "word": "侯補",
+        "reading": "こうほ",
+        "meaning": "侯補"
+      },
+      {
+        "word": "候補",
+        "reading": "こうほ",
+        "meaning": "候補"
+      },
+      {
+        "word": "補償",
+        "reading": "ほしょう",
+        "meaning": "補償"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "暮",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "日",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ボ"
+      ],
+      "kunyomi": [
+        "く.らす",
+        "く.れる"
+      ]
+    },
+    "meanings": [
+      "evening",
+      "livelihood",
+      "make a living",
+      "season's end",
+      "spend time",
+      "twilight"
+    ],
+    "examples": [
+      {
+        "word": "暮し",
+        "reading": "くらし",
+        "meaning": "暮し"
+      },
+      {
+        "word": "暮れ",
+        "reading": "くれ",
+        "meaning": "暮れ"
+      },
+      {
+        "word": "暮らし",
+        "reading": "くらし",
+        "meaning": "暮らし"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "宝",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "宀",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ホウ"
+      ],
+      "kunyomi": [
+        "たから"
+      ]
+    },
+    "meanings": [
+      "treasure",
+      "valuables",
+      "wealth"
+    ],
+    "examples": [
+      {
+        "word": "宝石",
+        "reading": "ほうせき",
+        "meaning": "宝石"
+      },
+      {
+        "word": "宝籤",
+        "reading": "たからくじ",
+        "meaning": "宝籤"
+      },
+      {
+        "word": "国宝",
+        "reading": "こくほう",
+        "meaning": "国宝"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "訪",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ホウ"
+      ],
+      "kunyomi": [
+        "おとず.れる",
+        "たず.ねる",
+        "と.う"
+      ]
+    },
+    "meanings": [
+      "call on",
+      "look up",
+      "offer sympathy",
+      "visit"
+    ],
+    "examples": [
+      {
+        "word": "訪問",
+        "reading": "ほうもん",
+        "meaning": "訪問"
+      },
+      {
+        "word": "訪う",
+        "reading": "とう",
+        "meaning": "訪う"
+      },
+      {
+        "word": "訪ねる",
+        "reading": "たずねる",
+        "meaning": "訪ねる"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "亡",
+    "grade": 6,
+    "strokes": 3,
+    "radical": "亠",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ボウ",
+        "モウ"
+      ],
+      "kunyomi": [
+        "な.い",
+        "な.き-",
+        "ほろ.びる",
+        "ほろ.ぶ",
+        "ほろ.ぼす"
+      ]
+    },
+    "meanings": [
+      "deceased",
+      "dying",
+      "perish",
+      "the late"
+    ],
+    "examples": [
+      {
+        "word": "死亡",
+        "reading": "しぼう",
+        "meaning": "死亡"
+      },
+      {
+        "word": "亡命",
+        "reading": "ぼうめい",
+        "meaning": "亡命"
+      },
+      {
+        "word": "ﾀﾋ亡",
+        "reading": "しぼう",
+        "meaning": "ﾀﾋ亡"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "忘",
+    "grade": 6,
+    "strokes": 7,
+    "radical": "心",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ボウ"
+      ],
+      "kunyomi": [
+        "わす.れる"
+      ]
+    },
+    "meanings": [
+      "forget"
+    ],
+    "examples": [
+      {
+        "word": "忘年会",
+        "reading": "ぼうねんかい",
+        "meaning": "忘年会"
+      },
+      {
+        "word": "忘れ物",
+        "reading": "わすれもの",
+        "meaning": "忘れ物"
+      },
+      {
+        "word": "忘却",
+        "reading": "ぼうきゃく",
+        "meaning": "忘却"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "棒",
+    "grade": 6,
+    "strokes": 12,
+    "radical": "木",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ボウ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "cane",
+      "club",
+      "line",
+      "pole",
+      "rod",
+      "stick"
+    ],
+    "examples": [
+      {
+        "word": "泥棒",
+        "reading": "どろぼう",
+        "meaning": "泥棒"
+      },
+      {
+        "word": "年棒",
+        "reading": "ねんぽう",
+        "meaning": "年棒"
+      },
+      {
+        "word": "鉄棒",
+        "reading": "てつぼう",
+        "meaning": "鉄棒"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "枚",
+    "grade": 6,
+    "strokes": 8,
+    "radical": "木",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "バイ",
+        "マイ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "counter for flat thin objects or sheets",
+      "sheet of..."
+    ],
+    "examples": [
+      {
+        "word": "枚数",
+        "reading": "まいすう",
+        "meaning": "枚数"
+      },
+      {
+        "word": "一枚",
+        "reading": "いちまい",
+        "meaning": "一枚"
+      },
+      {
+        "word": "１枚",
+        "reading": "いちまい",
+        "meaning": "１枚"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "幕",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "巾",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "バク",
+        "マク"
+      ],
+      "kunyomi": [
+        "とばり"
+      ]
+    },
+    "meanings": [
+      "act of play",
+      "bunting",
+      "curtain"
+    ],
+    "examples": [
+      {
+        "word": "開幕",
+        "reading": "かいまく",
+        "meaning": "開幕"
+      },
+      {
+        "word": "幕内",
+        "reading": "まくうち",
+        "meaning": "幕内"
+      },
+      {
+        "word": "一幕",
+        "reading": "ひとまく",
+        "meaning": "一幕"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "密",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "宀",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ミツ"
+      ],
+      "kunyomi": [
+        "ひそ.か"
+      ]
+    },
+    "meanings": [
+      "carefulness",
+      "density (pop)",
+      "minuteness",
+      "secrecy"
+    ],
+    "examples": [
+      {
+        "word": "秘密",
+        "reading": "ひみつ",
+        "meaning": "秘密"
+      },
+      {
+        "word": "密接",
+        "reading": "みっせつ",
+        "meaning": "密接"
+      },
+      {
+        "word": "密輸",
+        "reading": "みつゆ",
+        "meaning": "密輸"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "盟",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "皿",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "メイ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "alliance",
+      "oath"
+    ],
+    "examples": [
+      {
+        "word": "加盟",
+        "reading": "かめい",
+        "meaning": "加盟"
+      },
+      {
+        "word": "同盟",
+        "reading": "どうめい",
+        "meaning": "同盟"
+      },
+      {
+        "word": "聯盟",
+        "reading": "れんめい",
+        "meaning": "聯盟"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "模",
+    "grade": 6,
+    "strokes": 14,
+    "radical": "木",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ボ",
+        "モ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "copy",
+      "imitation",
+      "mock"
+    ],
+    "examples": [
+      {
+        "word": "規模",
+        "reading": "きぼ",
+        "meaning": "規模"
+      },
+      {
+        "word": "模様",
+        "reading": "もよう",
+        "meaning": "模様"
+      },
+      {
+        "word": "模型",
+        "reading": "もけい",
+        "meaning": "模型"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "訳",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヤク"
+      ],
+      "kunyomi": [
+        "わけ"
+      ]
+    },
+    "meanings": [
+      "case",
+      "circumstance",
+      "reason",
+      "translate"
+    ],
+    "examples": [
+      {
+        "word": "翻訳",
+        "reading": "ほんやく",
+        "meaning": "翻訳"
+      },
+      {
+        "word": "飜訳",
+        "reading": "ほんやく",
+        "meaning": "飜訳"
+      },
+      {
+        "word": "通訳",
+        "reading": "つうやく",
+        "meaning": "通訳"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "優",
+    "grade": 6,
+    "strokes": 17,
+    "radical": "亻",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ウ",
+        "ユウ"
+      ],
+      "kunyomi": [
+        "すぐ.れる",
+        "まさ.る",
+        "やさ.しい"
+      ]
+    },
+    "meanings": [
+      "actor",
+      "excel",
+      "gentleness",
+      "superiority",
+      "surpass",
+      "tenderness"
+    ],
+    "examples": [
+      {
+        "word": "優勝",
+        "reading": "ゆうしょう",
+        "meaning": "優勝"
+      },
+      {
+        "word": "優先",
+        "reading": "ゆうせん",
+        "meaning": "優先"
+      },
+      {
+        "word": "俳優",
+        "reading": "はいゆう",
+        "meaning": "俳優"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "郵",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "阝",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ユウ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "mail",
+      "stagecoach stop"
+    ],
+    "examples": [
+      {
+        "word": "郵便",
+        "reading": "ゆうびん",
+        "meaning": "郵便"
+      },
+      {
+        "word": "郵便局",
+        "reading": "ゆうびんきょく",
+        "meaning": "郵便局"
+      },
+      {
+        "word": "郵送",
+        "reading": "ゆうそう",
+        "meaning": "郵送"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "幼",
+    "grade": 6,
+    "strokes": 5,
+    "radical": "幺",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヨウ"
+      ],
+      "kunyomi": [
+        "おさな.い"
+      ]
+    },
+    "meanings": [
+      "childhood",
+      "infancy"
+    ],
+    "examples": [
+      {
+        "word": "幼児",
+        "reading": "ようじ",
+        "meaning": "幼児"
+      },
+      {
+        "word": "幼稚園",
+        "reading": "ようちえん",
+        "meaning": "幼稚園"
+      },
+      {
+        "word": "乳幼児",
+        "reading": "にゅうようじ",
+        "meaning": "乳幼児"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "欲",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "欠",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヨク"
+      ],
+      "kunyomi": [
+        "ほ.しい",
+        "ほっ.する"
+      ]
+    },
+    "meanings": [
+      "covetousness",
+      "craving",
+      "desire",
+      "greed",
+      "longing",
+      "passion"
+    ],
+    "examples": [
+      {
+        "word": "意欲",
+        "reading": "いよく",
+        "meaning": "意欲"
+      },
+      {
+        "word": "食欲",
+        "reading": "しょくよく",
+        "meaning": "食欲"
+      },
+      {
+        "word": "欲求",
+        "reading": "よっきゅう",
+        "meaning": "欲求"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "翌",
+    "grade": 6,
+    "strokes": 11,
+    "radical": "羽",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ヨク"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "next",
+      "the following"
+    ],
+    "examples": [
+      {
+        "word": "翌日",
+        "reading": "よくじつ",
+        "meaning": "翌日"
+      },
+      {
+        "word": "翌年",
+        "reading": "よくねん",
+        "meaning": "翌年"
+      },
+      {
+        "word": "翌朝",
+        "reading": "よくちょう",
+        "meaning": "翌朝"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "乱",
+    "grade": 6,
+    "strokes": 7,
+    "radical": "乙",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ラン",
+        "ロン"
+      ],
+      "kunyomi": [
+        "おさ.める",
+        "みだ",
+        "みだ.す",
+        "みだ.る",
+        "みだ.れる",
+        "わた.る"
+      ]
+    },
+    "meanings": [
+      "disorder",
+      "disturb",
+      "riot",
+      "war"
+    ],
+    "examples": [
+      {
+        "word": "混乱",
+        "reading": "こんらん",
+        "meaning": "混乱"
+      },
+      {
+        "word": "反乱",
+        "reading": "はんらん",
+        "meaning": "反乱"
+      },
+      {
+        "word": "叛乱",
+        "reading": "はんらん",
+        "meaning": "叛乱"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "卵",
+    "grade": 6,
+    "strokes": 7,
+    "radical": "卩",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ラン"
+      ],
+      "kunyomi": [
+        "たまご"
+      ]
+    },
+    "meanings": [
+      "egg",
+      "ovum",
+      "roe",
+      "spawn"
+    ],
+    "examples": [
+      {
+        "word": "産卵",
+        "reading": "さんらん",
+        "meaning": "産卵"
+      },
+      {
+        "word": "卵子",
+        "reading": "らんし",
+        "meaning": "卵子"
+      },
+      {
+        "word": "受精卵",
+        "reading": "じゅせいらん",
+        "meaning": "受精卵"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "覧",
+    "grade": 6,
+    "strokes": 17,
+    "radical": "見",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ラン"
+      ],
+      "kunyomi": [
+        "み.る"
+      ]
+    },
+    "meanings": [
+      "perusal",
+      "see"
+    ],
+    "examples": [
+      {
+        "word": "展覧会",
+        "reading": "てんらんかい",
+        "meaning": "展覧会"
+      },
+      {
+        "word": "覧る",
+        "reading": "みる",
+        "meaning": "覧る"
+      },
+      {
+        "word": "博覧会",
+        "reading": "はくらんかい",
+        "meaning": "博覧会"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "裏",
+    "grade": 6,
+    "strokes": 13,
+    "radical": "衣",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "リ"
+      ],
+      "kunyomi": [
+        "うら"
+      ]
+    },
+    "meanings": [
+      "amidst",
+      "back",
+      "in",
+      "inside",
+      "lining",
+      "palm",
+      "rear",
+      "reverse",
+      "sole",
+      "wrong side"
+    ],
+    "examples": [
+      {
+        "word": "表裏",
+        "reading": "ひょうり",
+        "meaning": "表裏"
+      },
+      {
+        "word": "裏切る",
+        "reading": "うらぎる",
+        "meaning": "裏切る"
+      },
+      {
+        "word": "裏付",
+        "reading": "うらづけ",
+        "meaning": "裏付"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "律",
+    "grade": 6,
+    "strokes": 9,
+    "radical": "彳",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "リチ",
+        "リツ",
+        "レツ"
+      ],
+      "kunyomi": []
+    },
+    "meanings": [
+      "control",
+      "gauge",
+      "law",
+      "regulation",
+      "rhythm"
+    ],
+    "examples": [
+      {
+        "word": "法律",
+        "reading": "ほうりつ",
+        "meaning": "法律"
+      },
+      {
+        "word": "紀律",
+        "reading": "きりつ",
+        "meaning": "紀律"
+      },
+      {
+        "word": "規律",
+        "reading": "きりつ",
+        "meaning": "規律"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "臨",
+    "grade": 6,
+    "strokes": 18,
+    "radical": "臣",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "リン"
+      ],
+      "kunyomi": [
+        "のぞ.む"
+      ]
+    },
+    "meanings": [
+      "attend",
+      "call on",
+      "confront",
+      "face",
+      "look to",
+      "meet"
+    ],
+    "examples": [
+      {
+        "word": "臨時",
+        "reading": "りんじ",
+        "meaning": "臨時"
+      },
+      {
+        "word": "臨床",
+        "reading": "りんしょう",
+        "meaning": "臨床"
+      },
+      {
+        "word": "臨海",
+        "reading": "りんかい",
+        "meaning": "臨海"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "朗",
+    "grade": 6,
+    "strokes": 10,
+    "radical": "月",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ロウ"
+      ],
+      "kunyomi": [
+        "あき.らか",
+        "ほが.らか"
+      ]
+    },
+    "meanings": [
+      "bright",
+      "cheerful",
+      "clear",
+      "melodious",
+      "serene"
+    ],
+    "examples": [
+      {
+        "word": "朗読",
+        "reading": "ろうどく",
+        "meaning": "朗読"
+      },
+      {
+        "word": "明朗",
+        "reading": "めいろう",
+        "meaning": "明朗"
+      },
+      {
+        "word": "朗報",
+        "reading": "ろうほう",
+        "meaning": "朗報"
+      }
+    ],
+    "kankenLevel": "5級"
+  },
+  {
+    "character": "論",
+    "grade": 6,
+    "strokes": 15,
+    "radical": "言",
+    "radicalReading": "",
+    "readings": {
+      "onyomi": [
+        "ロン"
+      ],
+      "kunyomi": [
+        "あげつら.う"
+      ]
+    },
+    "meanings": [
+      "argument",
+      "discourse"
+    ],
+    "examples": [
+      {
+        "word": "議論",
+        "reading": "ぎろん",
+        "meaning": "議論"
+      },
+      {
+        "word": "世論",
+        "reading": "よろん",
+        "meaning": "世論"
+      },
+      {
+        "word": "輿論",
+        "reading": "よろん",
+        "meaning": "輿論"
+      }
+    ],
+    "kankenLevel": "5級"
+  }
+]
