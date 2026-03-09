@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { STORY_MAPS } from '../data/storyMap';
 import { useUser } from '../contexts/UserContext';
 import './StoryMapPage.css';
@@ -13,6 +13,9 @@ export default function StoryMapPage({ onBack, onStartBattle }: StoryMapPageProp
 
     // 最初に未クリアのノードがあるエリアを初期表示エリアとする
     const initialAreaId = useMemo(() => {
+        const stored = sessionStorage.getItem('lastStoryAreaId');
+        if (stored) return stored;
+
         for (const map of STORY_MAPS) {
             const hasUncleared = map.nodes.some(n => !user.progress.clearedNodes.includes(n.id));
             if (hasUncleared) return map.id;
@@ -21,6 +24,10 @@ export default function StoryMapPage({ onBack, onStartBattle }: StoryMapPageProp
     }, [user.progress.clearedNodes]);
 
     const [activeAreaId, setActiveAreaId] = useState<string>(initialAreaId);
+
+    useEffect(() => {
+        sessionStorage.setItem('lastStoryAreaId', activeAreaId);
+    }, [activeAreaId]);
 
     const activeMap = STORY_MAPS.find(m => m.id === activeAreaId) || STORY_MAPS[0];
 

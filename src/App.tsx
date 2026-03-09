@@ -32,6 +32,10 @@ function AppContent() {
     setPage(p);
   };
 
+  const replacePage = (p: Page) => {
+    setPage(p);
+  };
+
   const goBack = () => {
     if (history.length > 0) {
       const prev = history[history.length - 1];
@@ -114,11 +118,13 @@ function AppContent() {
           )}
           {page.name === 'quiz' && (
             <QuizPage
+              key={page.storyNodeId ? `quiz-${page.storyNodeId}` : 'quiz'}
               grade={page.grade}
               gameMode={page.gameMode}
               timeConfig={page.timeConfig}
               storyNodeId={page.storyNodeId}
               onBack={goBack}
+              onNextStoryNode={(nodeId) => replacePage({ name: 'quiz', grade: page.grade, gameMode: 'story', storyNodeId: nodeId })}
             />
           )}
           {page.name === 'dashboard' && (

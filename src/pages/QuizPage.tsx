@@ -12,10 +12,12 @@ interface QuizPageProps {
     timeConfig?: TimeAttackConfig;
     storyNodeId?: string;
     onBack: () => void;
+    onNextStoryNode?: (nodeId: string) => void;
 }
 
-export default function QuizPage({ grade, gameMode = 'normal', timeConfig, storyNodeId, onBack }: QuizPageProps) {
+export default function QuizPage({ grade, gameMode = 'normal', timeConfig, storyNodeId, onBack, onNextStoryNode }: QuizPageProps) {
     const [questions, setQuestions] = useState<QuizQuestion[]>([]);
+    const [isLoading, setIsLoading] = useState(false);
     const [currentIdx, setCurrentIdx] = useState(0);
     const [selected, setSelected] = useState<string | null>(null);
     const [showResult, setShowResult] = useState(false);
@@ -24,6 +26,7 @@ export default function QuizPage({ grade, gameMode = 'normal', timeConfig, story
     const [combo, setCombo] = useState(0);
     const [quizComplete, setQuizComplete] = useState(false);
     const [totalCorrect, setTotalCorrect] = useState(0);
+    const [answeredCount, setAnsweredCount] = useState(0);
     // タイムアタック・にがて帳は種類選択をスキップして全種類を出す
     const [quizType, setQuizType] = useState<string | null>(gameMode !== 'normal' ? 'all' : null);
 
@@ -60,6 +63,7 @@ export default function QuizPage({ grade, gameMode = 'normal', timeConfig, story
         if (!quizType) return;
 
         const loadQuestions = async () => {
+            setIsLoading(true);
             try {
                 let allQuestions: QuizQuestion[] = [];
                 if (gameMode === 'weak') {
@@ -94,10 +98,12 @@ export default function QuizPage({ grade, gameMode = 'normal', timeConfig, story
                 setQuestions(shuffled);
             } catch (e) {
                 setQuestions([]);
+            } finally {
+                setIsLoading(false);
             }
         };
         loadQuestions();
-    }, [grade, quizType, gameMode, timeConfig, user.progress.weakKanji]);
+    }, [grade, quizType, gameMode, timeConfig]); // removed user.progress.weakKanji to avoid reshuffling mid-quiz
 
     // Timer setup for TimeAttack
     useEffect(() => {
@@ -183,6 +189,7 @@ export default function QuizPage({ grade, gameMode = 'normal', timeConfig, story
         setIsCorrect(correct);
         setSelected(answer);
         setShowResult(true);
+        setAnsweredCount(c => c + 1);
 
         const elapsed = (Date.now() - questionStartTime) / 1000;
         let points = 0;
@@ -255,6 +262,7 @@ export default function QuizPage({ grade, gameMode = 'normal', timeConfig, story
         setScore(0);
         setCombo(0);
         setTotalCorrect(0);
+        setAnsweredCount(0);
         setQuizComplete(false);
         if (gameMode === 'normal') setQuizType(null); // timeattackやweakの場合は再選択しない
         setTimeLeft(timeConfig?.type === 'countdown' ? timeConfig.value : null);
@@ -302,7 +310,7 @@ export default function QuizPage({ grade, gameMode = 'normal', timeConfig, story
     // Quiz complete screen
     if (quizComplete) {
         // 問題数が0の場合は「にがて帳」でデータがない場合などに起こり得る
-        const totalQ = questions.length;
+        const totalQ = answeredCount;
         const rate = totalQ > 0 ? Math.round((totalCorrect / totalQ) * 100) : 0;
         let resultEmoji = '🎉';
         let resultMessage = '素晴らしい！';
@@ -314,6 +322,16 @@ export default function QuizPage({ grade, gameMode = 'normal', timeConfig, story
         } else {
             if (rate < 50) { resultEmoji = '📚'; resultMessage = 'もう少しがんばろう！'; }
             else if (rate < 80) { resultEmoji = '👍'; resultMessage = 'いい調子！'; }
+        }
+
+        let nextNodeId: string | null = null;
+        if (gameMode === 'story' && storyNodeId) {
+            for (const map of STORY_MAPS) {
+                const idx = map.nodes.findIndex(n => n.id === storyNodeId);
+                if (idx !== -1 && idx + 1 < map.nodes.length) {
+                    nextNodeId = map.nodes[idx + 1].id;
+                }
+            }
         }
 
         return (
@@ -347,10 +365,29 @@ export default function QuizPage({ grade, gameMode = 'normal', timeConfig, story
                         <button className="btn btn-primary btn-lg" onClick={handleRestart}>
                             🔄 もう一度
                         </button>
+                        {nextNodeId && onNextStoryNode && (
+                            <button className="btn btn-primary btn-lg" onClick={() => onNextStoryNode(nextNodeId!)}>
+                                ⏭ 次へ進む
+                            </button>
+                        )}
                         <button className="btn btn-ghost btn-lg" onClick={onBack}>
                             ← もどる
                         </button>
                     </div>
+                </div>
+            </div>
+        );
+    }
+
+    if (isLoading) {
+        return (
+            <div className="quiz-page">
+                <div className="page-header">
+                    <button className="btn btn-ghost btn-sm" onClick={onBack}>← もどる</button>
+                </div>
+                <div className="empty-state">
+                    <span className="empty-icon">⏳</span>
+                    <p>クイズをじゅんび中...</p>
                 </div>
             </div>
         );

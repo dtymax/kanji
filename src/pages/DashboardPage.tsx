@@ -268,7 +268,7 @@ export default function DashboardPage({ onBack, onSelectKanji }: DashboardPagePr
                 <div className="grade-progress-list">
                     {[1, 2, 3, 4, 5, 6].map(grade => {
                         const total = getGradeTotal(grade);
-                        const learned = getGradeLearned(grade, user.progress.kanjiProgress);
+                        const learned = getGradeLearned(grade, user.progress.kanjiProgress, kanjiGradeMap);
                         const pct = total > 0 ? Math.round((learned / total) * 100) : 0;
                         return (
                             <div key={grade} className="grade-progress-row">
@@ -324,6 +324,6 @@ function getGradeTotal(grade: number): number {
     return counts[grade] || 0;
 }
 
-function getGradeLearned(_grade: number, progress: Record<string, { readingOk: boolean; writingOk: boolean }>): number {
-    return Object.values(progress).filter(p => p.readingOk || p.writingOk).length;
+function getGradeLearned(grade: number, progress: Record<string, { readingOk: boolean; writingOk: boolean }>, kanjiGradeMap: Record<string, number>): number {
+    return Object.entries(progress).filter(([char, p]) => kanjiGradeMap[char] === grade && (p.readingOk || p.writingOk)).length;
 }

@@ -1,7 +1,7 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useUser } from '../contexts/UserContext';
 import { GRADE_NAMES, GRADE_COLORS, GRADE_KANJI_COUNT } from '../types';
-import type { GameMode, TimeAttackConfig } from '../types';
+import type { GameMode, TimeAttackConfig, KanjiData } from '../types';
 import './HomePage.css';
 
 interface HomePageProps {
@@ -19,12 +19,28 @@ export default function HomePage({ onSelectGrade, onStartQuiz, onNavigateToStory
     const [timeAttackType, setTimeAttackType] = useState<'countdown' | 'stopwatch'>('countdown');
     const [timeAttackValue, setTimeAttackValue] = useState(60);
     const [timeAttackGrades, setTimeAttackGrades] = useState<number[]>([user.currentGrade]);
+    const [kanjiGradeMap, setKanjiGradeMap] = useState<Record<string, number>>({});
+
+    useEffect(() => {
+        const map: Record<string, number> = {};
+        Promise.all(
+            [1, 2, 3, 4, 5, 6].map(g =>
+                fetch(`./data/kanji/grade${g}.json`)
+                    .then(res => res.json())
+                    .then((data: KanjiData[]) => {
+                        data.forEach(k => { map[k.character] = g; });
+                    })
+                    .catch(() => { })
+            )
+        ).then(() => setKanjiGradeMap(map));
+    }, []);
 
     // Calculate progression percentages
     const getProgress = (grade: number) => {
+        if (Object.keys(kanjiGradeMap).length === 0) return 0;
         const total = GRADE_KANJI_COUNT[grade];
         const learned = Object.entries(user.progress.kanjiProgress)
-            .filter(([, v]) => v.readingOk || v.writingOk).length;
+            .filter(([char, v]) => kanjiGradeMap[char] === grade && (v.readingOk || v.writingOk)).length;
         return Math.min(Math.round((learned / total) * 100), 100);
     };
 
